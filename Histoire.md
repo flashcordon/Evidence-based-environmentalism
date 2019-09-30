@@ -26,3 +26,5 @@ https://fr.wikipedia.org/wiki/Conf%C3%A9rence_des_Nations_unies_sur_l%27environn
 - 2015: sommet de New York qui mène à la création des SDGs (signé par 193 pays) à atteindre d’ici 2030
 - 2015: COP 21 et signature des accords de Paris -> incite les pays à limiter l’augmentation de la température moyenne globale de 2 degrés par rapport à la température pré industrielle
 - 2016: Habitat III 
+
+# La couche d'ozone
