@@ -8,7 +8,6 @@
 
 - [Religion and Climate Change](https://www.annualreviews.org/doi/abs/10.1146/annurev-environ-102017-025855?journalCode=energy) - Jenkins et al (2018)
 - [The Global Religious Landscape](https://www.pewforum.org/2012/12/18/global-religious-landscape-exec/) - Rapport du Pew Research Center (2012)
-- [Main religion of the country , 2010](https://ourworldindata.org/grapher/main-religion-of-the-country-in) - Our World in Data
 
 ---
 
@@ -24,6 +23,9 @@
 > * 400 million pratiquent des religions populaires ou traditionnelles
 - Dans le monde, 1 personne sur 6 n'est affilié à aucune religion. Cela représente 1.1 milliard de personnes.
 > Par contre beaucoup de non affiliés ont des croyances religieuses ou spirituelles !
+
+*Religion principale par région du monde, 2010 (Source : [Our World in Data](https://ourworldindata.org/grapher/main-religion-of-the-country-in))
+![religion_principale](https://i.imgur.com/mow6pw0.png)
 
 - la seconde encyclique du pape François, [Laudato Si’](https://fr.wikipedia.org/wiki/Laudato_si%27) (*Loué sois-tu*), publié en 2015, met l'accent sur les implications morales du changement climatique
 
