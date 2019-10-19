@@ -19,8 +19,11 @@
 > * 2.2 milliards de chrétiens
 > * 1.6 milliard de musulmans
 > * 1 milliard d'hindous
-> * Presque 500 millions de bouddhistes
+> * ~ 500 millions de bouddhistes
 > * 14 millions de juifs
+> * 400 million pratiquent des religions populaires ou traditionnelles
+- Dans le monde, 1 personne sur 6 n'est affilié à aucune religion. Cela représente 1.1 milliard de personnes.
+> Par contre beaucoup de non affiliés ont des croyances religieuses ou spirituelles !
 
 - la seconde encyclique du pape François, [Laudato Si’](https://fr.wikipedia.org/wiki/Laudato_si%27) (*Loué sois-tu*), publié en 2015, met l'accent sur les implications morales du changement climatique
 
