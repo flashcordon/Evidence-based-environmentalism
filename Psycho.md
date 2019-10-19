@@ -13,7 +13,9 @@
 
 - Définition religion
 - Les grandes religions du monde
-- Combien de gens se disent religieux dans le monde ?
+
+### Combien de personnes s'identifient à des groupes religieux dans le monde ?
+
 - Selon une étude du Pew Research center, plus de 8 personnes sur 10 (84%) s'identifiaient à un groupe religieux dans le monde, ce qui représente un total de 5.8 milliards de personnes (sur 6.4 milliards en 2010). 
 > * 2.2 milliards de chrétiens
 > * 1.6 milliard de musulmans
