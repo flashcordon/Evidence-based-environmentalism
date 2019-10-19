@@ -24,6 +24,9 @@
 - Dans le monde, 1 personne sur 6 n'est affilié à aucune religion. Cela représente 1.1 milliard de personnes.
 > Par contre beaucoup de non affiliés ont des croyances religieuses ou spirituelles !
 
+*Pourcentage de la population globale affiliée à des groupes religieux, 2010 (Source : Rapport du Pew Research Center, 2012)*
+![pourcentage_religions](https://i.imgur.com/mFo47JA.png)
+
 *Religion principale par région du monde, 2010 (Source : [Our World in Data](https://ourworldindata.org/grapher/main-religion-of-the-country-in))
 ![religion_principale](https://i.imgur.com/mow6pw0.png)
 
