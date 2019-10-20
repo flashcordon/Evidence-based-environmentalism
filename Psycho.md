@@ -10,6 +10,7 @@
 - [The Global Religious Landscape](https://www.pewforum.org/2012/12/18/global-religious-landscape-exec/) - Rapport du Pew Research Center (2012)
 - [Global religious futures](http://www.globalreligiousfutures.org/questions) - projet du Pew Research center financé par la fondation Templeton
 - [The historical roots of our ecological crisis](https://science.sciencemag.org/content/155/3767/1203) - White (1967)
+- [« Les racines historiques de notre crise écologique » Lettre à Lynn White et à ceux qui s'en réclament](https://www.cairn.info/revue-pardes-2005-2-page-211.htm) - Jacques Arnould (2005)
 
 ---
 
@@ -17,6 +18,7 @@
 - Dans son article, il développe l'idée selon laquelle 
 - Extrait du Livre de la Genèse où il est dit que l’Humain détient un statut particulier et privilégié par rapport au reste de la Création :
 > « Créons l’homme à notre image, à notre ressemblance, et qu’il domine sur les poissons de la mer, les oiseaux du ciel, les bestiaux, toutes les bêtes sauvages et toutes les bestioles qui rampent sur la terre. Dieu créa l’homme et la femme à son image, les bénit et leur dit : « Soyez féconds, multipliez-vous, emplissez la terre et soumettez-la ; dominez sur les poissons de la terre, les oiseaux du ciel et tous les animaux qui rampent sur la terre » »
+- De nombreux théologiens se sont défendus de la thèse de White, arguant par exemple qu'il existe dans la Bible des figures écologistes, comme celle de Noé, qui sauve l'intégralité des espèces vivantes de la Création après le Déluge.
 
 - Définition religion
 - Les grandes religions du monde
