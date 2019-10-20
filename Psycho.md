@@ -12,6 +12,11 @@
 
 ---
 
+- Lynn White, historien médiéviste, est l'auteur d'un article controversée mais très influent dans les milieux écologistes, intitulée "les racines historiques de notre crise écologique" (publié en [1967](https://science.sciencemag.org/content/155/3767/1203))
+- Dans son article, il développe l'idée selon laquelle 
+- Extrait du Livre de la Genèse où il est dit que l’Humain détient un statut particulier et privilégié par rapport au reste de la Création :
+> « Créons l’homme à notre image, à notre ressemblance, et qu’il domine sur les poissons de la mer, les oiseaux du ciel, les bestiaux, toutes les bêtes sauvages et toutes les bestioles qui rampent sur la terre. Dieu créa l’homme et la femme à son image, les bénit et leur dit : « Soyez féconds, multipliez-vous, emplissez la terre et soumettez-la ; dominez sur les poissons de la terre, les oiseaux du ciel et tous les animaux qui rampent sur la terre » »
+
 - Définition religion
 - Les grandes religions du monde
 
@@ -49,6 +54,6 @@
 > Exemple : la voiture est plus confortable que les transports en commun
 - On peut définir les valeurs comme des objectifs désirables qui motivent l’action des gens (Schwarz).
 - Les valeurs sont relativement stables au fil du temps
-- Le psychologue Shalom Schwartz a développé une typologie des valeurs humaines dans les années 90.
+- Le psychologue israélien Shalom Schwartz a développé une typologie des valeurs humaines dans les années 90.
 
 ## Politique
