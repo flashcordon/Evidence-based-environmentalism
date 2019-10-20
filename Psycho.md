@@ -4,6 +4,12 @@
 
 ## Comment mesure t-on les attitudes environnementales ?
 
+*Sources*
+
+- [Mesure des attitudes environnementales : analyse structurale d’une version française de la NEPS](https://centrepsycle-amu.fr/wp-content/uploads/2013/10/Schleyer-Lindenmann2014.pdf) - Lindenmann et al (2014)
+
+---
+
 - The concept of environmental concern appeared in the 1970’s. In terms of attitudes, the aim was to demonstrate a more or less common ecological worldview. In other words, is there a pro-environmental psychological attitude and, if so, can it be measured? To answer these questions, Dunlap and Van Liere (1978) developed the New Ecological Paradigm Scale (NEP), a scale that has become a widely used measure of a pro-ecological orientation. It has been shown that this pro-ecological orientation, or ecological worldview, is linked to pro-environmental beliefs and attitudes on a wide range of more specific environmental issues. 
 
 ## Vision du monde
