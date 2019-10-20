@@ -8,6 +8,8 @@
 
 ## Vision du monde
 
+- Philippe Descola, par delà nature et culture
+
 ## Religion
 
 *Sources*
