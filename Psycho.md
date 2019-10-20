@@ -65,7 +65,8 @@
 > Exemple : la voiture est plus confortable que les transports en commun
 - On peut définir les valeurs comme des objectifs désirables qui motivent l’action des gens (Schwarz).
 - Les valeurs sont relativement stables au fil du temps
-- Le psychologue israélien Shalom Schwartz a développé une typologie des valeurs humaines dans les années 90.
+- Le psychologue israélien Shalom Schwartz a développé une typologie des valeurs humaines dans les années 90, à partir de données de sondages réalisés dans une quarantaine de pays (théorie des valeurs de Schwartz).
+> Cette typologie dénombre 56 valeurs
 - Comment les valeurs influencent-elles le comportement ?
 > Il semblerait que les croyances générales sur l'environnement n'influencent pas directement les comportements humains. Le comportement est plus généralement attribuable à des croyances spécifiques à des comportements, à des attitudes et à des normes.
 
