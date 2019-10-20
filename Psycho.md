@@ -38,4 +38,17 @@
 
 ## Valeurs
 
+*Sources*
+
+- [Les valeurs de base de la personne : théorie, mesures et applications](https://www.cairn.info/revue-francaise-de-sociologie-1-2006-4-page-929.htm) - Schwartz (2006)
+
+---
+
+- De nombreuses études montrent que les valeurs humaines jouent un grand rôle dans les actions pro-environnementales.
+- Beaucoup d'actions bénéfiques pour l'environnement impliquent un coût personnel. Il y a donc un conflit entre nos intérêts individuels à court terme et l'intérêt collectif à long terme.
+> Exemple : la voiture est plus confortable que les transports en commun
+- On peut définir les valeurs comme des objectifs désirables qui motivent l’action des gens (Schwarz).
+- Les valeurs sont relativement stables au fil du temps
+- Le psychologue Shalom Schwartz a développé une typologie des valeurs humaines dans les années 90.
+
 ## Politique
