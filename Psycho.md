@@ -9,6 +9,7 @@
 - [Religion and Climate Change](https://www.annualreviews.org/doi/abs/10.1146/annurev-environ-102017-025855?journalCode=energy) - Jenkins et al (2018)
 - [The Global Religious Landscape](https://www.pewforum.org/2012/12/18/global-religious-landscape-exec/) - Rapport du Pew Research Center (2012)
 - [Global religious futures](http://www.globalreligiousfutures.org/questions) - projet du Pew Research center financé par la fondation Templeton
+- [The historical roots of our ecological crisis](https://science.sciencemag.org/content/155/3767/1203) - White (1967)
 
 ---
 
