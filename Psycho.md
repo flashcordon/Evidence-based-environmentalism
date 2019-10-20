@@ -1,5 +1,11 @@
 # Influence de la vision du monde sur les comportements écologistes
 
+- Il y a une distinction entre les attitudes et les comportements.
+
+## Comment mesure t-on les attitudes environnementales ?
+
+- The concept of environmental concern appeared in the 1970’s. In terms of attitudes, the aim was to demonstrate a more or less common ecological worldview. In other words, is there a pro-environmental psychological attitude and, if so, can it be measured? To answer these questions, Dunlap and Van Liere (1978) developed the New Ecological Paradigm Scale (NEP), a scale that has become a widely used measure of a pro-ecological orientation. It has been shown that this pro-ecological orientation, or ecological worldview, is linked to pro-environmental beliefs and attitudes on a wide range of more specific environmental issues. 
+
 ## Vision du monde
 
 ## Religion
@@ -58,5 +64,7 @@
 - On peut définir les valeurs comme des objectifs désirables qui motivent l’action des gens (Schwarz).
 - Les valeurs sont relativement stables au fil du temps
 - Le psychologue israélien Shalom Schwartz a développé une typologie des valeurs humaines dans les années 90.
+- Comment les valeurs influencent-elles le comportement ?
+> Il semblerait que les croyances générales sur l'environnement n'influencent pas directement les comportements humains. Le comportement est plus généralement attribuable à des croyances spécifiques à des comportements, à des attitudes et à des normes.
 
 ## Politique
