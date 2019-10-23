@@ -6,4 +6,4 @@
 
 # Pourquoi changer de récits
 
-- "Quand des sociétés ont des contradictions qu'elles n'arrivent pas à résoudre dans le court termele lieu où elles les résolvent c'est d'abord dans l'espace des imaginaires" - Felwine Sarr
+- "Quand des sociétés ont des contradictions qu'elles n'arrivent pas à résoudre dans le court termele lieu où elles les résolvent c'est d'abord dans l'espace des imaginaires et de la pensée" - Felwine Sarr
