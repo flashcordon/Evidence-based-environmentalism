@@ -6,4 +6,10 @@
 
 # Pourquoi changer de récits
 
+*Sources*
+
+- [FELWINE SARR // L'Afrotopie qui vient](https://soundcloud.com/user-482486519/felwine-sarr-lafrotopie-qui-vient) - Afrotopiques (2019)
+
+---
+
 - "Quand des sociétés ont des contradictions qu'elles n'arrivent pas à résoudre dans le court termele lieu où elles les résolvent c'est d'abord dans l'espace des imaginaires et de la pensée" - Felwine Sarr
