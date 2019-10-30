@@ -79,4 +79,6 @@
 - Comment les valeurs influencent-elles le comportement ?
 > Il semblerait que les croyances générales sur l'environnement n'influencent pas directement les comportements humains. Le comportement est plus généralement attribuable à des croyances spécifiques à des comportements, à des attitudes et à des normes.
 
+![valeurs_schwartz](https://i.imgur.com/NWddY5r.jpg)
+
 ## Politique
