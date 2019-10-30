@@ -66,13 +66,15 @@
 
 ---
 
+- Les valeurs sont fondamentales pour expliquer l’organisation et le changement, au niveau de la société comme à celui des individus.
 - De nombreuses études montrent que les valeurs humaines jouent un grand rôle dans les actions pro-environnementales.
 - Beaucoup d'actions bénéfiques pour l'environnement impliquent un coût personnel. Il y a donc un conflit entre nos intérêts individuels à court terme et l'intérêt collectif à long terme.
 > Exemple : la voiture est plus confortable que les transports en commun
 - On peut définir les valeurs comme des objectifs désirables qui motivent l’action des gens (Schwarz).
 - Les valeurs sont relativement stables au fil du temps
-- Le psychologue israélien Shalom Schwartz a développé une typologie des valeurs humaines dans les années 90, à partir de données de sondages réalisés dans une quarantaine de pays (théorie des valeurs de Schwartz).
+- Le psychologue israélien Shalom Schwartz a développé dans les années 90 une typologie des valeurs humaines dans les années 90, à partir de données de sondages réalisés dans une quarantaine de pays (théorie des valeurs de Schwartz, 1992). Ces valeurs sont reconnues comme telles dans toutes les cultures.
 > Cette typologie dénombre 56 valeurs, qu'on peut regrouper en 10 groupes, 10 valeurs de base : conformité, tradition, universalisme, bienveillance, pouvoir, réussite, hédonisme, stimulation, sécurité, autonomie
+- Selon les individus et les groupes humains, les valeurs seront hiérarchisées différemment.
 - Comment les valeurs influencent-elles le comportement ?
 > Il semblerait que les croyances générales sur l'environnement n'influencent pas directement les comportements humains. Le comportement est plus généralement attribuable à des croyances spécifiques à des comportements, à des attitudes et à des normes.
 
