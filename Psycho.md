@@ -74,7 +74,7 @@
 - Les valeurs sont relativement stables au fil du temps
 - Le psychologue israélien Shalom Schwartz a développé dans les années 90 une typologie des valeurs humaines dans les années 90, à partir de données de sondages réalisés dans une quarantaine de pays (théorie des valeurs de Schwartz, 1992). Ces valeurs sont reconnues comme telles dans toutes les cultures.
 > Cette typologie dénombre 56 valeurs, qu'on peut regrouper en 10 groupes, 10 valeurs de base : conformité, tradition, universalisme, bienveillance, pouvoir, réussite, hédonisme, stimulation, sécurité, autonomie
-- Selon les individus et les groupes humains, les valeurs seront hiérarchisées différemment.
+- Selon les individus et les groupes humains, les valeurs seront hiérarchisées différemment. Une valeur particulière peut être très importante pour une personne et sans importance pour une autre. 
 - Comment les valeurs influencent-elles le comportement ?
 > Il semblerait que les croyances générales sur l'environnement n'influencent pas directement les comportements humains. Le comportement est plus généralement attribuable à des croyances spécifiques à des comportements, à des attitudes et à des normes.
 
