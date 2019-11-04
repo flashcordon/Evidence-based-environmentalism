@@ -25,6 +25,7 @@
 - [Global religious futures](http://www.globalreligiousfutures.org/questions) - projet du Pew Research center financé par la fondation Templeton
 - [The historical roots of our ecological crisis](https://science.sciencemag.org/content/155/3767/1203) - White (1967)
 - [« Les racines historiques de notre crise écologique » Lettre à Lynn White et à ceux qui s'en réclament](https://www.cairn.info/revue-pardes-2005-2-page-211.htm) - Jacques Arnould (2005)
+- [Quelles solutions face au changement climatique ?](https://books.google.fr/books?id=Y8LwCgAAQBAJ&pg=PT52&lpg=PT52&dq=Lettre+rabbinique+sur+la+crise+climatique.&source=bl&ots=guuBIQleUc&sig=ACfU3U1OpSdwQPy00u6HFrnsdYx0kIn_LA&hl=fr&sa=X&ved=2ahUKEwiCsoitotHlAhUSzoUKHfESDugQ6AEwB3oECAkQAQ#v=onepage&q=Lettre%20rabbinique%20sur%20la%20crise%20climatique.&f=false) - Bettina Laville, Agathe Euzen, Stéphanie Thiébault
 
 ---
 
@@ -56,24 +57,10 @@
 ![religion_principale](https://i.imgur.com/mow6pw0.png)
 
 - La seconde encyclique du pape François, [Laudato Si’](https://fr.wikipedia.org/wiki/Laudato_si%27) (*Loué sois-tu*), publié en 2015, met l'accent sur les implications morales du changement climatique
-- Une [déclaration islamique sur les changements climatiques](https://unfccc.int/fr/news/declaration-islamique-sur-les-changements-climatiques) a été adoptée en 2015 par les dirigeants musulmans du monde entier lors d'un colloque islamique international sur le changement climatique.
-
-The “Islamic Declaration on Climate Change,” drafted at an Islamic Conference on Climate Change,
-holds that although humans are called to the role of caretaker or steward (khalifa) of Earth, corrupt
-performance of that caretaking role by humans has instead wrought damage and destabilization.
-The Islamic Declaration specifically calls on oil-producing states to phase out greenhouse gas
-emissions, and calls on all nations to commit to a zero emissions strategy. Meanwhile, the 2015
-“Rabbinic Letter on the Climate Crisis” interprets climate change in terms of humans overworking
-God’s creation, and therefore as a failed obligation to let Earth rest. It calls on Jewish communities
-to integrate damaged ecological relations into their strong historic commitments to social justice.
-The “Buddhist Climate Change Statement to World Leaders,” signed by the Dalai Lama and
-Buddhist leaders from many countries, articulates concern from the classic teaching of dependent
-co-arising, which illuminates the interconnection of all things. Dangerous climate change thus
-reveals lack of insight, and moving toward clean energy is therefore important not only for stabilizing
-planetary systems but for spiritual renewal. The “Hindu Declaration on Climate Change”
-focuses on the suffering caused by climate change. Interpreting duties of response through principles
-of reverence for life and understanding of karma, the Hindu Declaration calls for personal
-service.
+- Une [déclaration islamique sur les changements climatiques](https://unfccc.int/fr/news/declaration-islamique-sur-les-changements-climatiques), la première du genre, a été adoptée en 2015 par les dirigeants musulmans du monde entier lors d'un colloque islamique international sur le changement climatique.
+- La [Déclaration Hindouïste sur le Changement Climatique](http://www.hinduclimatedeclaration2015.org/french) publiée en 2015 se focalise sur les souffrances causées par le dérèglement du climat.
+- Quinze des plus importants chefs spirituels bouddhistes (dont le Dalai Lama) ont publié en 2015 [un appel historique lancé aux dirigeants politiques du monde](http://maisondelinspir.org/2015/10/declaration-bouddhiste-pour-les-dirigeants-mondiaux-sur-les-changements-climatiques.html)
+- Plus de 400 rabbins ont publié en 2015 une [Lettre rabbinique sur la crise climatique](https://theshalomcenter.org/civicrm/petition/sign?sid=17)
 
 
 ## Valeurs
