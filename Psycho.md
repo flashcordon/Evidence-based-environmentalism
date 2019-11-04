@@ -55,7 +55,25 @@
 *Religion principale par région du monde, 2010 (Source : [Our World in Data](https://ourworldindata.org/grapher/main-religion-of-the-country-in))*
 ![religion_principale](https://i.imgur.com/mow6pw0.png)
 
-- la seconde encyclique du pape François, [Laudato Si’](https://fr.wikipedia.org/wiki/Laudato_si%27) (*Loué sois-tu*), publié en 2015, met l'accent sur les implications morales du changement climatique
+- La seconde encyclique du pape François, [Laudato Si’](https://fr.wikipedia.org/wiki/Laudato_si%27) (*Loué sois-tu*), publié en 2015, met l'accent sur les implications morales du changement climatique
+- Une [déclaration islamique sur les changements climatiques](https://unfccc.int/fr/news/declaration-islamique-sur-les-changements-climatiques) a été adoptée en 2015 par les dirigeants musulmans du monde entier lors d'un colloque islamique international sur le changement climatique.
+
+The “Islamic Declaration on Climate Change,” drafted at an Islamic Conference on Climate Change,
+holds that although humans are called to the role of caretaker or steward (khalifa) of Earth, corrupt
+performance of that caretaking role by humans has instead wrought damage and destabilization.
+The Islamic Declaration specifically calls on oil-producing states to phase out greenhouse gas
+emissions, and calls on all nations to commit to a zero emissions strategy. Meanwhile, the 2015
+“Rabbinic Letter on the Climate Crisis” interprets climate change in terms of humans overworking
+God’s creation, and therefore as a failed obligation to let Earth rest. It calls on Jewish communities
+to integrate damaged ecological relations into their strong historic commitments to social justice.
+The “Buddhist Climate Change Statement to World Leaders,” signed by the Dalai Lama and
+Buddhist leaders from many countries, articulates concern from the classic teaching of dependent
+co-arising, which illuminates the interconnection of all things. Dangerous climate change thus
+reveals lack of insight, and moving toward clean energy is therefore important not only for stabilizing
+planetary systems but for spiritual renewal. The “Hindu Declaration on Climate Change”
+focuses on the suffering caused by climate change. Interpreting duties of response through principles
+of reverence for life and understanding of karma, the Hindu Declaration calls for personal
+service.
 
 
 ## Valeurs
