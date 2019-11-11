@@ -1,3 +1,14 @@
+# Une histoire d'adaptation aux changements climatiques passés
+
+*Sources*
+
+- [Little Ice Age lessons](https://aeon.co/essays/the-little-ice-age-is-a-history-of-resilience-and-surprises)
+
+---
+
+- PETM
+- Petit âge glaciaire
+
 # Une brève histoire des mouvements environnementalistes
 
 - Printemps Silenxieux, de Rachel Carson
