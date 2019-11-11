@@ -3,6 +3,7 @@
 *Sources*
 
 - [Little Ice Age lessons](https://aeon.co/essays/the-little-ice-age-is-a-history-of-resilience-and-surprises) -  Dagomar Degroot, Aeon (Novembre 2019)
+- Scatter, Adapt, and Remember - Annalee Newitz
 
 ---
 
