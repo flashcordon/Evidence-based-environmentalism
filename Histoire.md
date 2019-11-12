@@ -4,11 +4,14 @@
 
 - [Little Ice Age lessons](https://aeon.co/essays/the-little-ice-age-is-a-history-of-resilience-and-surprises) -  Dagomar Degroot, Aeon (Novembre 2019)
 - Scatter, Adapt, and Remember - Annalee Newitz
+- [The Environmental Origins of the Black Death lecture](https://youtu.be/7x9Oh0-viyM) - Bruce M.S. Campbell (2016)
+- [How the Dutch Beat the Ocean | Why Amsterdam Has Canals](https://youtu.be/XoEZvSl5Cg8) - Johnny Harris (2019)
 
 ---
 
 - PETM
-- Petit âge glaciaire
+- Les néérlandais et le petit âge glaciaire
+- Inovation en temps de crise (philosophie etc)
 
 # Une brève histoire des mouvements environnementalistes
 
