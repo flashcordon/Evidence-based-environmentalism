@@ -2,6 +2,7 @@
 
 - [A Good Life For All Within Planetary Boundaries](https://goodlife.leeds.ac.uk/)
 - [Quantifying the potential for climate change mitigation of consumption options](https://iopscience.iop.org/article/10.1088/1748-9326/ab8589?fbclid=IwAR0mWvcoV-gZKjb-YyCg2Y4CUcS2XsKSG_tnGIN9mTQQmCTtRuApfbdT8R4)
+- [Carbon Lock-In: Types, Causes, and Policy Implications](https://www.annualreviews.org/doi/full/10.1146/annurev-environ-110615-085934) - Seto et al (2016)
 
 # Impact écologique de l'agriculture
 
