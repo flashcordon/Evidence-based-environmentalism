@@ -7,6 +7,7 @@
 - [The Environmental Origins of the Black Death lecture](https://youtu.be/7x9Oh0-viyM) - Bruce M.S. Campbell (2016)
 - [How the Dutch Beat the Ocean | Why Amsterdam Has Canals](https://youtu.be/XoEZvSl5Cg8) - Johnny Harris (2019)
 - [Towards a rigorous understanding of societal responses to climate change](https://www.nature.com/articles/s41586-021-03190-2) - Degroot et al (2021)
+- Four lost cities - Annalee Newitz
 
 ---
 
