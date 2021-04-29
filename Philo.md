@@ -13,3 +13,11 @@
 ---
 
 - "Quand des sociétés ont des contradictions qu'elles n'arrivent pas à résoudre dans le court termele lieu où elles les résolvent c'est d'abord dans l'espace des imaginaires et de la pensée" - Felwine Sarr
+
+# Ethique environnementale
+
+## L'écocentrisme
+
+*Sources*
+
+- [Why ecocentrism is thekey pathway to sustainability](https://www.ecologicalcitizen.net/pdfs/v01n1-08.pdf) - Washington et al (2017)
