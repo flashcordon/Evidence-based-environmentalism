@@ -51,7 +51,7 @@
 
 *Sources*
 
-- [The Ethics of Respect for Nature](https://philpapers.org/rec/TAYTEO-22) - Paul W. Taylor (1981)
+- [The Ethics of Respect for Nature](https://rintintin.colorado.edu/~vancecd/phil308/Taylor.pdf) - Paul W. Taylor (1981)
 
 
 
