@@ -16,11 +16,15 @@
 
 # Ethique environnementale
 
+- Deux écoles principales : le biocentrisme et l'écocentrisme
+- Pour les partisans de l'éthique biocentrique, la vie a une valeur morale intrinsèque.  Les partisans de l'éthique écocentrique, quant à eux, accorde une valeur intrinsèque à la stabilité des ecosystèmes
+
 ## L'écocentrisme
 
 *Sources*
 
-- [Why ecocentrism is thekey pathway to sustainability](https://www.ecologicalcitizen.net/pdfs/v01n1-08.pdf) - Washington et al (2017)
+- [Why ecocentrism is the key pathway to sustainability](https://www.ecologicalcitizen.net/pdfs/v01n1-08.pdf) - Washington et al (2017)
+- [ECOPO - Éthique biocentrique vs. Éthique écocentrique](https://youtu.be/DPBurfZ9K54) - Game of Hearth (2019)
 
 ---
 
@@ -42,3 +46,12 @@
 -   The influential term ‘ecosystem services’ was defined by the Millennium Ecosystem Assessment (MEA Board, 2005) as “the benefits people obtain from ecosystems.” With this anthropocentric definition, nature’s services are for humanity alone. Of course, nature provides services (habitat, nutrients and energy) to all species, and these too must be maintained
 -   The United Nations and UNESCO promote ‘education for sustainable development’ (ESD; https://is.gd/j2zmuc), but both organizations consistently prioritize human rights and ignore the question of whether nature also has rights. The UNESCO 2014 ‘Roadmap’ for ESD (https://is.gd/ryk7K8), for example, failed to consider worldviews, ethics or ecocentrism.
 -   Advocates of a ‘new conservation’ approach have argued that human well-being should be at the forefront of conservation efforts (Marris, 2011; Kareiva et al., 2012). It pursues economic development, poverty alleviation and corporate partnerships as substitutes for mainstream conservation tools such as protected areas (Soulé, 2013: 895). Miller et al. (2014) have compellingly argued that this anthropocentric approach is based on a “human exceptionalism” that distorts ecological science while prioritizing capitalist development over ecosystem and societal health.
+
+# Le biocentrisme
+
+*Sources*
+
+- [The Ethics of Respect for Nature](https://philpapers.org/rec/TAYTEO-22) - Paul W. Taylor (1981)
+
+
+
