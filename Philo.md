@@ -16,17 +16,18 @@
 
 # Ethique environnementale
 
-- Deux écoles principales : le biocentrisme et l'écocentrisme
-- Pour les partisans de l'éthique biocentrique, la vie a une valeur morale intrinsèque.  Les partisans de l'éthique écocentrique, quant à eux, accorde une valeur intrinsèque à la stabilité des ecosystèmes
-
-## L'écocentrisme
-
 *Sources*
 
 - [Why ecocentrism is the key pathway to sustainability](https://www.ecologicalcitizen.net/pdfs/v01n1-08.pdf) - Washington et al (2017)
 - [ECOPO - Éthique biocentrique vs. Éthique écocentrique](https://youtu.be/DPBurfZ9K54) - Game of Hearth (2019)
+- [Les éthiques environnementales](https://www.cairn.info/revue-natures-sciences-societes-2010-4-page-405.htm) - Catherine Larrère (2010)
 
 ---
+
+- Deux écoles principales : le biocentrisme et l'écocentrisme
+- Pour les partisans de l'éthique biocentrique, la vie a une valeur morale intrinsèque.  Les partisans de l'éthique écocentrique, quant à eux, accorde une valeur intrinsèque à la stabilité des ecosystèmes
+
+## L'écocentrisme
 
 - Ecocentrism is the broadest term for worldviews that recognize intrinsic value in all lifeforms and  ecosystems  themselves,  including  their  abiotic  components.  Anthropocentrism,  in contrast, values other lifeforms and ecosystems insofar as they are valuable for human well-being, preferences and interests.
 - Ecocentrism finds inherent (intrinsic) value  in  all  of  nature. 
