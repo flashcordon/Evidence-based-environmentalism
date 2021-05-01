@@ -22,7 +22,7 @@
 - [ECOPO - Éthique biocentrique vs. Éthique écocentrique](https://youtu.be/DPBurfZ9K54) - Game of Hearth (2019)
 - [Les éthiques environnementales](https://www.cairn.info/revue-natures-sciences-societes-2010-4-page-405.htm) - Catherine Larrère (2010)
 - [The Ethics of Respect for Nature](https://rintintin.colorado.edu/~vancecd/phil308/Taylor.pdf) - Paul W. Taylor (1981)
-- [Thinking Like a Mountain](http://www.uky.edu/OtherOrgs/AppalFor/Readings/leopold.pdf) - Aldo Leopold, Almanach d'un comté des sables (1949)
+- [Thinking Like a Mountain](http://www.uky.edu/OtherOrgs/AppalFor/Readings/leopold.pdf) - Aldo Leopold, Almanach d'un comté des sables (1949) - [VF](http://www.clicetclicetphilogram.fr/Leopold/pensercommeunemontagne.htm)
 
 ---
 
