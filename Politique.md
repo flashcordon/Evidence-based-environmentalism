@@ -7,3 +7,8 @@
 - [1.5 °C degrowth scenarios suggest the need for new mitigation pathways](https://www.nature.com/articles/s41467-021-22884-9) - Keisser et Lenzen (2021)
 
 ---
+
+# Municipalisme libertaire
+
+- Au de là de la rareté - Murray Bookchin
+- [Bookchin : écologie radicale et municipalisme libertaire](https://www.revue-ballast.fr/bookchin-ecologie-radicale-et-municipalisme-libertaire/) - Ballast (2015)
