@@ -10,5 +10,7 @@
 
 # Municipalisme libertaire
 
-- Au de là de la rareté - Murray Bookchin
+- Au delà de la rareté - Murray Bookchin
 - [Bookchin : écologie radicale et municipalisme libertaire](https://www.revue-ballast.fr/bookchin-ecologie-radicale-et-municipalisme-libertaire/) - Ballast (2015)
+-  [Harbinger](https://social-ecology.org/wp/projects/harbinger-journal/) : journal d'écologie sociale de l'Institute for Social Ecology
+-  [The Murray Bookchin reader](https://archive.org/details/themurraybookchinreader) - Archive.org
