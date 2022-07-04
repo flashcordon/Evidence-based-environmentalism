@@ -14,3 +14,11 @@
 - [Bookchin : écologie radicale et municipalisme libertaire](https://www.revue-ballast.fr/bookchin-ecologie-radicale-et-municipalisme-libertaire/) - Ballast (2015)
 -  [Harbinger](https://social-ecology.org/wp/projects/harbinger-journal/) : journal d'écologie sociale de l'Institute for Social Ecology
 -  [The Murray Bookchin reader](https://archive.org/details/themurraybookchinreader) - Archive.org
+
+# Dialectique
+
+- [Hegel’s Dialectics](https://plato.stanford.edu/entries/hegel-dialectics/) - Stanford Encyclopedia of philosophy
+
+---
+
+- “Dialectics” is a term used to describe a method of philosophical argument that involves some sort of contradictory process between opposing sides. 
