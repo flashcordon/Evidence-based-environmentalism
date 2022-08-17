@@ -9,5 +9,6 @@
 - [Good governance for geoengineering](https://www.nature.com/articles/479293a) - Nacnaghten et Owen (2011)
 - [The Politics of Geoengineering](https://www.science.org/doi/abs/10.1126/science.1183877) - Blackstock et Long (2010)
 - [Geoengineering the climate: science, governance and uncertainty](https://eprints.soton.ac.uk/156647/) - Shepherd (2009)
+- [Présages #42 - Sofia Kabbej : Il faut qu'on parle de géo-ingénierie](https://www.presages.fr/blog/2022/sofia-kabbej) - Présages
 
 ---
