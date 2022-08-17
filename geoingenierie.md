@@ -11,6 +11,7 @@
 - [Geoengineering the climate: science, governance and uncertainty](https://eprints.soton.ac.uk/156647/) - Shepherd (2009)
 - [Présages #42 - Sofia Kabbej : Il faut qu'on parle de géo-ingénierie](https://www.presages.fr/blog/2022/sofia-kabbej) - Présages
 - [Entre promesse prométhéenne et préservation de la nature : le cas de la géo-ingénierie du climat](https://www.cairn.info/revue-internationale-et-strategique-2021-4-page-103.htm) - Doumergue et Kabbej (2021)
+- [The Law of the Sea](https://www.nature.com/articles/ngeo464) - Edito de Nature Geoscience (2009)
 
 ---
 
