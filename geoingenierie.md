@@ -660,3 +660,59 @@ CDR can provide the certain reduction in environmental risk that is offered by c
 gas emissions.
 
 
+- Le terme de « géoingéniérie » est utilisé pour la première fois dans la littérature scientifique par Victor Marchetti en 1977. Il désigne l’ensemble des pratiques et des techniques à grande échelle qui visent à corriger de manière intentionnelle le changement climatique dû à nos émissions de gaz à effet de serre dans l’atmosphère.
+> Marchetti proposait d’injecter notre CO2 dans les fonds marins. Celui-ci serait capturé dans l’air et serait transporté par des tuyaux ou des bateaux pour être stocké dans les profondeurs des océans. 
+- histoire dans militaire, changement météo.Vietnam ?
+- En 2009, la *Royal Society* de Londres a produit un rapport listant l’ensemble des techniques de géoingéniérie ainsi que les problématiques scientifiques, techniques, politiques et éthiques qu’elles posent. À ce jour, il s’agit de l’un des rapports les plus complets sur la question.
+- Le rapport distingue deux grandes familles de techniques de géoingéniérie : les méthodes de ***géoingéniérie solaire*** (aussi appelées ***gestion du rayonnement solaire***, ou ***SRM*** en anglais, pour solar radiation management) et les méthodes d’***élimination du dioxyde de carbone atmosphérique*** (carbon dioxyde removal, ou CDR)
+# La géoingéniérie solaire
+- Il s’agit ici de réduire la quantité de lumière solaire absorbée par la Terre, en réfléchissant une petite fraction (environ 1,7%) de la lumière incidente du Soleil dans l’espace.
+-  On pourrait faire ça en envoyant des milliers de milliards de petits miroirs dans l’espace et en les plaçant au point de Lagrange L1 du système Terre-Soleil, ou bien dans un anneau en orbite autour de la Terre. D’autres méthodes de gestion du rayonnement solaire cherchent à modifier l’albédo de la Terre, par exemple en injectant des particules de sulfates dans la stratosphère, en augmentant la réflectivité des nuages, en cultivant des plantes de couleurs plus claires ou encore en peignant les toits des villes en blanc et en recouvrant les déserts d’un matériau réfléchissant.
+- Les modèles prédisent que la mise en pratique de ces méthodes de géoingéniérie solaire pourraient refroidir la planète en l’espace de quelques mois à peine et faire baisser la température globale de quelques degrés en une décennie seulement. Par contre, si les infrastructures de géoingéniérie solaire venaient à être disruptés (miroirs détruits, arrêt soudain de l’injection d’aérosols, …), la Terre reprendrait son réchauffement à un rythme encore plus élevé que maintenant, mettant en péril les capacités d’adaptation des écosystèmes et des sociétés humaines.
+
+## Les parasols spatiaux
+
+## L’injection d’aérosols dans la stratosphère
+E nhanced surface albedo: Human settlements could be made more
+reflective by painting them white, more reflective crop varieties and grassland
+could be planted, and deserts could be covered with highly reflective
+materials.
+E nhanced cloud albedo: The whitening of oceanic clouds could be
+achieved by spraying salt-rich sea water into the sky—sometimes referred
+to as “cloud seeding.”
+
+To offset just for the annual increase in radiative forcing from anthropogenic CO2 emissions,
+more than 10,000 km2 of reflection area would need to be deployed each year—more than one
+square kilometer each hour (Govindasamy & Caldeira 2000). Such rates mean that large-scale
+deployment is likely to be a long process and to remain infeasible formany decades
+- Cette méthode consiste à rendre l’atmosphère de la Terre plus réfléchissante, en injectant des sulfates dans les basses couches de la stratosphère à l’aide de ballons, de canons d’artillerie, de grandes tours voire même d’ascenseurs spatiaux !
+- Cette technique a été inspirée des conséquences de l’éruption du Mont Pinatubo en 1991, qui avait injecté un grand nombre d’aérosols dans l’atmosphère et avait refroidi la planète d’un demi-degré l’année suivant l’éruption.
+- Le problème, c’est qu’il existe des processus naturels qui transportent les aérosols hors de la stratosphère en un an à peine. Du coup, pour que cette méthode fonctionne sur le long terme, il faut injecter en permanence des aérosols.
+- Une autre conséquence de l’injection de sulfates, c’est qu’elle modifie la chimie de la stratosphère et favorise la destruction de la couche d’ozone dans les régions polaires.
+
+## L’augmentation de la réflectivité des nuages
+- Les nuages se forment à partir de petites particules flottant dans la troposphère sur laquelle la vapeur d’eau se dépose pour former des gouttelettes : on appelle ces particules des ***noyaux de condensation de nuages*** (*cloud condensation nuclei* en anglais)
+- Si on augmente le nombre de noyaux de condensation de nuages, on devrait théoriquement augmenter la couverture nuageuse de la Terre ainsi que la réflectivité des nuages, et donc augmenter l’albédo de la planète.
+> On peut faire ça par exemple en injectant du fer dans les océans pour favoriser la croissance du phytoplancton, et ainsi augmenter leurs émissions de sulfure de diméthyl. Ce composé s’oxyde au contact de l’atmosphère et pourrait générer des particules de sulfates qui serviraient de noyaux de condensation de nuages.
+- Cependant, la physique de formation des nuages n’est pas encore assez bien comprise pour affirmer que cette méthode pourrait être viable.
+- La génération de nuages à grande échelle pourrait potentiellement retarder le changement climatique de quelques décennies, mais pourrait aussi altérer radicalement les régimes de précipitation dans certaines régions du monde.
+
+# L’élimination du CO2 atmosphérique
+carbon dioxide removal approaches: ocean fertilization, ocean alkalinity addition, accelerated chemical weathering
+of rocks, manufacture of products using silicate rocks and carbon from the air, direct capture of CO2 from the air, biomass energy with
+carbon capture and storage, and afforestation or reforestation.
+
+## Planter des arbres
+- L’***afforestation*** (aussi appelé boisement) est une technique consistant à planter des arbres dans une zone qui en était dépourvue auparavant
+- La ***reforestation*** consiste à restaurer un écosystème de type forestier dans une zone qui a été déboisée auparavant par les activités humaines.
+- Un programme très ambitieux d’afforestation et de reforestation pourrait potentiellement décroître la concentration atmosphérique de CO2 de 40 à 70 ppm d’ici 2100.
+
+## La fertilisation des océans
+
+- La photosynthèse est un processus qui consomme du CO2. L’idée de la fertilisation des océans est donc de favoriser la croissance d’organismes marins photosynthétiques microscopiques vivant en eaux de surface comme le phytoplancton, en injectant dans la mer des nutriments comme du fer, du phosphate ou encore de l’azote.
+> Une fois décédés, ces micro-organismes et leurs déchets ont tendance à se déposer dans les fonds marins, où leur carbone sera stocké sur des longues durées. C’est la ***pompe biologique de carbone***.
+- Les modèles montrent que si l’on fertilisait abondamment les océans, la concentration actuelle de CO2 dans l’atmosphère ne pourrait être réduite que de 10 %.
+- La fertilisation des océans pourrait aussi mener à l’accumulation de CO2 dans les profondeurs, ce qui pourrait contribuer à l’acidification des océans.
+
+capture et stockage du carbone
+- En moyenne, la Terre
