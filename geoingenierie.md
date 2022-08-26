@@ -13,8 +13,12 @@
 - [Entre promesse prométhéenne et préservation de la nature : le cas de la géo-ingénierie du climat](https://www.cairn.info/revue-internationale-et-strategique-2021-4-page-103.htm) - Doumergue et Kabbej (2021)
 - [The Law of the Sea](https://www.nature.com/articles/ngeo464) - Edito de Nature Geoscience (2009)
 - Ecomodernism. Technology, Politics and The Climate Crisis, de Jonathan Symons, Polity Press (2019)
-- [La Chine veut lancer un programme énorme de géo-ingénierie des pluies]() - Reporterre
+- [La Chine veut lancer un programme énorme de géo-ingénierie des pluies](https://reporterre.net/La-Chine-veut-lancer-un-programme-enorme-de-geo-ingenierie-des-pluies) - Reporterre
 - [La géo-ingénierie à la rescousse du climat ?](https://www.ifri.org/sites/default/files/atoms/files/moal_geo_ingenierie_climat_2022.pdf) - Gwenolé MOAL, IFRI
+- [Qui alimente les études sur la géoingénierie ? Une perspective d'historien des sciences](https://www.cairn.info/revue-natures-sciences-societes-2014-2-page-124.htm) - Régis Briday (2014)
+- [Géo-ingénierie : quand la Tech fait la pluie et le beau temps](https://www.radiofrance.fr/franceculture/podcasts/le-meilleur-des-mondes/geo-ingenierie-quand-la-tech-fait-la-pluie-et-le-beau-temps-6006960) - Le Meilleur des Mondes, France Culture
+- [Opération Popeye](https://fr.wikipedia.org/wiki/Op%C3%A9ration_Popeye) - Wikipédia
+- [Les recherches en géo-ingénierie dans le monde](https://cmc.ipsl.fr/wp-content/uploads/2017/09/Rapport-compl%C3%A9mentaire-g%C3%A9oing%C3%A9nierie-dans-le-monde.pdf) - Rapport d'étude dans le cadre de l'ARP REAGIR (2013)
 
 ---
 
