@@ -28,6 +28,7 @@
 - [The Great Stalin Plan for the Transformation of Nature](https://www.researchgate.net/publication/261734566_The_Great_Stalin_Plan_for_the_Transformation_of_Nature) - Stephen Brain (2010) 
 - [In the Name of the Great Work: Stalin's Plan for the Transformation of Nature and its Impact in Eastern Europe](https://fr.scribd.com/book/464929816/In-the-Name-of-the-Great-Work-Stalin-s-Plan-for-the-Transformation-of-Nature-and-its-Impact-in-Eastern-Europe) - Berghahn Books (2016)
 - [The Technological Fix: How People Use Technology to Create and Solve Problems](https://books.google.fr/books?id=ya3w3JXV4vkC&pg=PA185&lpg=PA185&dq=Great+Plan+for+the+Transformation+of+Nature+stalin+weather+control&source=bl&ots=WE-XLWrQGD&sig=ACfU3U39LxqcF7IcqDI0QE42Czk-K8fEGA&hl=fr&sa=X&ved=2ahUKEwj4zuu88vD5AhUB-hoKHbj4BlIQ6AF6BAgiEAM#v=onepage&q=Great%20Plan%20for%20the%20Transformation%20of%20Nature%20stalin%20weather%20control&f=false) - Lisa Rosner (2004) 
+- [History and Problems in Weather Modification](http://www.rbs2.com/w2.htm) - Ronald B. Standler (2002)
 
 ---
 
