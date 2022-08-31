@@ -19,6 +19,16 @@
 - [Géo-ingénierie : quand la Tech fait la pluie et le beau temps](https://www.radiofrance.fr/franceculture/podcasts/le-meilleur-des-mondes/geo-ingenierie-quand-la-tech-fait-la-pluie-et-le-beau-temps-6006960) - Le Meilleur des Mondes, France Culture
 - [Opération Popeye](https://fr.wikipedia.org/wiki/Op%C3%A9ration_Popeye) - Wikipédia
 - [Les recherches en géo-ingénierie dans le monde](https://cmc.ipsl.fr/wp-content/uploads/2017/09/Rapport-compl%C3%A9mentaire-g%C3%A9oing%C3%A9nierie-dans-le-monde.pdf) - Rapport d'étude dans le cadre de l'ARP REAGIR (2013)
+- [COP 21, ENMOD et le 6 novembre : la paix et la guerre pour enjeux](https://grip.org/cop-21-enmod-et-le-6-novembre-la-paix-et-la-guerre-pour-enjeux/) - Luc Mampaey
+- [](https://adhsorbonne.com/2021/04/14/conference-la-protection-de-lenvironnement-naturel-en-situation-de-conflit-arme/) - 
+- [Geoengineering - Crash Course #7](https://youtu.be/30zhNzdGzGs) - Simon Clark 
+- [Convention on the prohibition of military or any other hostile use of environmental modification techniques](https://treaties.un.org/Pages/ViewDetails.aspx?src=IND&mtdsg_no=XXVI-1&chapter=26&clang=_en) - ONU 
+- [Guerre et défoliation dans le Sud Viêt-Nam, 1961-1971](https://journals.openedition.org/histoiremesure/2273) - Thao Tran, Jean-Paul Amat et Françoise Pirot (2007)
+- [Rainmaking Is Used As Weapon by U.S.](https://www.nytimes.com/1972/07/03/archives/rainmaking-is-used-as-weapon-by-us-cloudseeding-in-indochina-is.html) - New York Times (1972) 
+- [The pathological history of weather and climate modification: Three cycles of promise and hype](https://www.colby.edu/sts/06_fleming_pathological.pdf) - JAMES RODGER FLEMING
+- [The Great Stalin Plan for the Transformation of Nature](https://www.researchgate.net/publication/261734566_The_Great_Stalin_Plan_for_the_Transformation_of_Nature) - Stephen Brain (2010) 
+- [In the Name of the Great Work: Stalin's Plan for the Transformation of Nature and its Impact in Eastern Europe](https://fr.scribd.com/book/464929816/In-the-Name-of-the-Great-Work-Stalin-s-Plan-for-the-Transformation-of-Nature-and-its-Impact-in-Eastern-Europe) - Berghahn Books (2016)
+- [The Technological Fix: How People Use Technology to Create and Solve Problems](https://books.google.fr/books?id=ya3w3JXV4vkC&pg=PA185&lpg=PA185&dq=Great+Plan+for+the+Transformation+of+Nature+stalin+weather+control&source=bl&ots=WE-XLWrQGD&sig=ACfU3U39LxqcF7IcqDI0QE42Czk-K8fEGA&hl=fr&sa=X&ved=2ahUKEwj4zuu88vD5AhUB-hoKHbj4BlIQ6AF6BAgiEAM#v=onepage&q=Great%20Plan%20for%20the%20Transformation%20of%20Nature%20stalin%20weather%20control&f=false) - Lisa Rosner (2004) 
 
 ---
 
