@@ -20,7 +20,6 @@
 - [Opération Popeye](https://fr.wikipedia.org/wiki/Op%C3%A9ration_Popeye) - Wikipédia
 - [Les recherches en géo-ingénierie dans le monde](https://cmc.ipsl.fr/wp-content/uploads/2017/09/Rapport-compl%C3%A9mentaire-g%C3%A9oing%C3%A9nierie-dans-le-monde.pdf) - Rapport d'étude dans le cadre de l'ARP REAGIR (2013)
 - [COP 21, ENMOD et le 6 novembre : la paix et la guerre pour enjeux](https://grip.org/cop-21-enmod-et-le-6-novembre-la-paix-et-la-guerre-pour-enjeux/) - Luc Mampaey
-- [](https://adhsorbonne.com/2021/04/14/conference-la-protection-de-lenvironnement-naturel-en-situation-de-conflit-arme/) - 
 - [Geoengineering - Crash Course #7](https://youtu.be/30zhNzdGzGs) - Simon Clark 
 - [Convention on the prohibition of military or any other hostile use of environmental modification techniques](https://treaties.un.org/Pages/ViewDetails.aspx?src=IND&mtdsg_no=XXVI-1&chapter=26&clang=_en) - ONU 
 - [Guerre et défoliation dans le Sud Viêt-Nam, 1961-1971](https://journals.openedition.org/histoiremesure/2273) - Thao Tran, Jean-Paul Amat et Françoise Pirot (2007)
