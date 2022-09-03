@@ -698,12 +698,21 @@ gas emissions.
 - En 2009, la *Royal Society* de Londres a produit un rapport listant l’ensemble des techniques de géoingéniérie ainsi que les problématiques scientifiques, techniques, politiques et éthiques qu’elles posent. À ce jour, il s’agit de l’un des rapports les plus complets sur la question.
 - Le rapport distingue deux grandes familles de techniques de géoingéniérie : les méthodes de ***géoingéniérie solaire*** (aussi appelées ***gestion du rayonnement solaire***, ou ***SRM*** en anglais, pour solar radiation management) et les méthodes d’***élimination du dioxyde de carbone atmosphérique*** (carbon dioxyde removal, ou CDR)
 
-# La géoingéniérie solaire
-- Il s’agit ici de réduire la quantité de lumière solaire absorbée par la Terre, en réfléchissant une petite fraction (environ 1,7%) de la lumière incidente du Soleil dans l’espace.
+# La géo-ingénierie solaire
+
+- Il s’agit ici de réduire la quantité de lumière solaire absorbée par la Terre, en réfléchissant une petite fraction (de l’ordre de 2 %) de la lumière incidente du Soleil dans l’espace.
 -  On pourrait faire ça en envoyant des milliers de milliards de petits miroirs dans l’espace et en les plaçant au point de Lagrange L1 du système Terre-Soleil, ou bien dans un anneau en orbite autour de la Terre. D’autres méthodes de gestion du rayonnement solaire cherchent à modifier l’albédo de la Terre, par exemple en injectant des particules de sulfates dans la stratosphère, en augmentant la réflectivité des nuages, en cultivant des plantes de couleurs plus claires ou encore en peignant les toits des villes en blanc et en recouvrant les déserts d’un matériau réfléchissant.
-- Les modèles prédisent que la mise en pratique de ces méthodes de géoingéniérie solaire pourraient refroidir la planète en l’espace de quelques mois à peine et faire baisser la température globale de quelques degrés en une décennie seulement. Par contre, si les infrastructures de géoingéniérie solaire venaient à être disruptés (miroirs détruits, arrêt soudain de l’injection d’aérosols, …), la Terre reprendrait son réchauffement à un rythme encore plus élevé que maintenant, mettant en péril les capacités d’adaptation des écosystèmes et des sociétés humaines.
+- Les modèles prédisent que la mise en pratique de ces méthodes de géo-ingénierie solaire pourraient refroidir la planète en l’espace de quelques mois à peine et faire baisser la température globale de quelques degrés en une décennie seulement. Par contre, si les infrastructures de géo-ingénierie solaire venaient à être disruptés (miroirs détruits, arrêt soudain de l’injection d’aérosols, …), la Terre reprendrait son réchauffement à un rythme encore plus élevé que maintenant, mettant en péril les capacités d’adaptation des écosystèmes et des sociétés humaines.
+- Sans compter que les méthodes de gestion du rayonnement solaire ne permettent pas d’endiguer les autres problèmes liés à nos émissions de CO2, comme l’acidification des océans par exemple.
 
 ## Les parasols spatiaux
+
+- Illustrations : Terre avec des anneaux [1](https://commons.wikimedia.org/wiki/File:Earth%27s_Rings_%2823976878079%29.jpg) [2](https://commons.wikimedia.org/wiki/File:Earth%27s_Rings_%2823976878079%29.jpg)
+
+- Les propositions sont variées : certaines études mentionnent l’envoi de 55 000 miroirs de 100 m² chacun dans des orbites variées autour de la Terre, tandis que d’autres imaginent la création d’un vaste anneau de particules réfléchissantes autour de la Terre.
+- Pour cette dernière option, on estime que pour créer une flotte de réflecteurs capable de réduire l’insolation de la Terre de 2 %, il faudrait envoyer environ 2 milliards de tonnes de poussières en orbite terrestre.
+> Les coûts de lancement seraient prohibitifs avec les technologies actuelles : lancer une tonne de matériaux dans l’espace de nos jours coûte de l’ordre de plusieurs millions de dollars par tonne (2,720 $ / kilo avec une Falcon 9 de SpaceX). Mais pour réduire les coûts, il est envisageable de puiser cette poussière directement depuis un astéroïde ou sur la Lune.
+- Pour faire de la géo-ingénierie solaire, l’orbite terrestre n’est pas un emplacement idéal, car la lumière du Soleil peut facilement exercer une pression (de rayonnement) sur les petits miroirs (surtout s’ils sont peu massifs) et les envoyer hors de leur orbite.
 
 ## L’injection d’aérosols dans la stratosphère
 E nhanced surface albedo: Human settlements could be made more
