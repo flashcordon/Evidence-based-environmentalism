@@ -29,6 +29,12 @@
 - [In the Name of the Great Work: Stalin's Plan for the Transformation of Nature and its Impact in Eastern Europe](https://fr.scribd.com/book/464929816/In-the-Name-of-the-Great-Work-Stalin-s-Plan-for-the-Transformation-of-Nature-and-its-Impact-in-Eastern-Europe) - Berghahn Books (2016)
 - [The Technological Fix: How People Use Technology to Create and Solve Problems](https://books.google.fr/books?id=ya3w3JXV4vkC&pg=PA185&lpg=PA185&dq=Great+Plan+for+the+Transformation+of+Nature+stalin+weather+control&source=bl&ots=WE-XLWrQGD&sig=ACfU3U39LxqcF7IcqDI0QE42Czk-K8fEGA&hl=fr&sa=X&ved=2ahUKEwj4zuu88vD5AhUB-hoKHbj4BlIQ6AF6BAgiEAM#v=onepage&q=Great%20Plan%20for%20the%20Transformation%20of%20Nature%20stalin%20weather%20control&f=false) - Lisa Rosner (2004) 
 - [History and Problems in Weather Modification](http://www.rbs2.com/w2.htm) - Ronald B. Standler (2002)
+- [How SpaceX lowered costs and reduced barriers to space](https://theconversation.com/how-spacex-lowered-costs-and-reduced-barriers-to-space-112586) - The Conversation
+- [Geoengineering Ethics Online Resource Center](https://www.umt.edu/geoengineering-resource-center/socialscience/China.php) - University of Montana
+- [Geoengineering: Basic science and ongoing research efforts in China](https://www.sciencedirect.com/science/article/pii/S1674927815000829) - Long Cao et al (2015)
+- [China and the blunt temptations of geo-engineering: The role of solar radiation management in China's strategic response to climate change](https://researchers.mq.edu.au/en/publications/china-and-the-blunt-temptations-of-geo-engineering-the-role-of-so) - Kingsley Edney et Jonathan Symons (2014)
+- [China Builds One of the World’s Largest Geoengineering Research Programs](https://www.technologyreview.com/2017/08/02/4291/china-builds-one-of-the-worlds-largest-geoengineering-research-programs/) - MIT Technology Review 
+- [The Growing Case for Geoengineering](https://www.technologyreview.com/2017/04/18/152336/the-growing-case-for-geoengineering/) - MIT Technology Review 
 
 ---
 
@@ -693,7 +699,7 @@ gas emissions.
 > À noter que la France n’a pas ratifié ni signé cette convention !
 - À partir des années 80-90, on commence à prendre certaines techniques de géo-ingénierie au sérieux sur le plan technique et économique. Dans les rapports du GIEC de 1990 et de 1995, des  stratégies de « mitigation » sont mentionnées brièvement (la distinction entre mitigation et géo-ingénierie est assez floue en pratique).
 
----
+# Les techniques de géo-ingénierie
 
 - En 2009, la *Royal Society* de Londres a produit un rapport listant l’ensemble des techniques de géoingéniérie ainsi que les problématiques scientifiques, techniques, politiques et éthiques qu’elles posent. À ce jour, il s’agit de l’un des rapports les plus complets sur la question.
 - Le rapport distingue deux grandes familles de techniques de géoingéniérie : les méthodes de ***géoingéniérie solaire*** (aussi appelées ***gestion du rayonnement solaire***, ou ***SRM*** en anglais, pour solar radiation management) et les méthodes d’***élimination du dioxyde de carbone atmosphérique*** (carbon dioxyde removal, ou CDR)
