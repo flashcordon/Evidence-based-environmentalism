@@ -719,6 +719,7 @@ gas emissions.
 - Pour cette dernière option, on estime que pour créer une flotte de réflecteurs capable de réduire l’insolation de la Terre de 2 %, il faudrait envoyer environ 2 milliards de tonnes de poussières en orbite terrestre.
 > Les coûts de lancement seraient prohibitifs avec les technologies actuelles : lancer une tonne de matériaux dans l’espace de nos jours coûte de l’ordre de plusieurs millions de dollars par tonne (2,720 $ / kilo avec une Falcon 9 de SpaceX). Mais pour réduire les coûts, il est envisageable de puiser cette poussière directement depuis un astéroïde ou sur la Lune.
 - Pour faire de la géo-ingénierie solaire, l’orbite terrestre n’est pas un emplacement idéal, car la lumière du Soleil peut facilement exercer une pression (de rayonnement) sur les petits miroirs (surtout s’ils sont peu massifs) et les envoyer hors de leur orbite.
+- Un emplacement plus avantageux (du moins sur le papier) est le point de Lagrange L1 du système Terre-Soleil, à 1,5 millions de km de la Terre dans la direction du Soleil. Dans cette région, l’attraction gravitationnelle de la Terre et du Soleil s’équilibrent, ce qui fait que les miroirs peuvent évoluer parallèlement à l’orbite de la Terre autour de son étoile.
 
 ## L’injection d’aérosols dans la stratosphère
 - Illustration : [éruption du mont Pinatubo de 1991](https://fr.m.wikipedia.org/wiki/Fichier:Pinatubo_1991-06-12_%28USGS%29.jpg)
