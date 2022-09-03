@@ -721,22 +721,13 @@ gas emissions.
 - Pour faire de la géo-ingénierie solaire, l’orbite terrestre n’est pas un emplacement idéal, car la lumière du Soleil peut facilement exercer une pression (de rayonnement) sur les petits miroirs (surtout s’ils sont peu massifs) et les envoyer hors de leur orbite.
 
 ## L’injection d’aérosols dans la stratosphère
-E nhanced surface albedo: Human settlements could be made more
-reflective by painting them white, more reflective crop varieties and grassland
-could be planted, and deserts could be covered with highly reflective
-materials.
-E nhanced cloud albedo: The whitening of oceanic clouds could be
-achieved by spraying salt-rich sea water into the sky—sometimes referred
-to as “cloud seeding.”
-
-To offset just for the annual increase in radiative forcing from anthropogenic CO2 emissions,
-more than 10,000 km2 of reflection area would need to be deployed each year—more than one
-square kilometer each hour (Govindasamy & Caldeira 2000). Such rates mean that large-scale
-deployment is likely to be a long process and to remain infeasible formany decades
-- Cette méthode consiste à rendre l’atmosphère de la Terre plus réfléchissante, en injectant des sulfates dans les basses couches de la stratosphère à l’aide de ballons, de canons d’artillerie, de grandes tours voire même d’ascenseurs spatiaux !
-- Cette technique a été inspirée des conséquences de l’éruption du Mont Pinatubo en 1991, qui avait injecté un grand nombre d’aérosols dans l’atmosphère et avait refroidi la planète d’un demi-degré l’année suivant l’éruption.
+- Illustration : [éruption du mont Pinatubo de 1991](https://fr.m.wikipedia.org/wiki/Fichier:Pinatubo_1991-06-12_%28USGS%29.jpg)
+- Cette méthode consiste à rendre l’atmosphère de la Terre plus réfléchissante, en injectant des aérosols de sulfates (comme du sulfure d’hydrogène ou du dioxyde de soufre) dans les basses couches de la stratosphère à l’aide de ballons, d’avions et/ou de canons d’artillerie.
+- Cette technique, initialement proposée par le prix Nobel de chimie Paul Crutzen en 2006, a été inspirée par les conséquences de l’éruption du Mont Pinatubo en 1991. Cette éruption avait injecté un grand nombre d’aérosols dans l’atmosphère et avait refroidi la planète d’un demi-degré l’année suivant l’éruption.
 - Le problème, c’est qu’il existe des processus naturels qui transportent les aérosols hors de la stratosphère en un an à peine. Du coup, pour que cette méthode fonctionne sur le long terme, il faut injecter en permanence des aérosols.
+> On estime que les coûts de fonctionnement d’un tel système pourrait s’élever à plusieurs dizaines de milliards d’euros par an, en se basant sur les avions et l’artillerie actuelle. 
 - Une autre conséquence de l’injection de sulfates, c’est qu’elle modifie la chimie de la stratosphère et favorise la destruction de la couche d’ozone dans les régions polaires.
+- Enfin, l’injection de particules sulfatées dans l’atmosphère pose un énorme risque d’altération régionale de la mousson en Asie et en Afrique, ce qui pourrait impacter la sécurité alimentaire des milliards de personnes qui vivent dans ces régions du monde.
 
 ## L’augmentation de la réflectivité des nuages
 - Les nuages se forment à partir de petites particules flottant dans la troposphère sur laquelle la vapeur d’eau se dépose pour former des gouttelettes : on appelle ces particules des ***noyaux de condensation de nuages*** (*cloud condensation nuclei* en anglais)
