@@ -737,6 +737,15 @@ gas emissions.
 - Cependant, la physique de formation des nuages n’est pas encore assez bien comprise pour affirmer que cette méthode pourrait être viable.
 - La génération de nuages à grande échelle pourrait potentiellement retarder le changement climatique de quelques décennies, mais pourrait aussi altérer radicalement les régimes de précipitation dans certaines régions du monde.
 
+## L’augmentation de l’albédo du sol
+- L'albédo de la Terre est la fraction de l'énergie solaire interceptée par la surface de la planète qui est réfléchie vers l'espace. Sa valeur est comprise entre 0 (corps noir parfait) et 1 (miroir parfait).
+> L’albédo moyen de la Terre est de 0,15.
+- Le but de cette méthode  est de rendre la surface terrestre plus brillante, et donc plus réfléchissante.
+> Quantitativement parlant, pour pallier les effets chauffants du doublement de la concentration atmosphérique de CO2, il faudrait faire passer l’albédo moyen de la planète à 0,17.
+- Le problème, c’est que la surface de la Terre est couverte aux deux tiers par les océans, et ces derniers ont un albédo très faible (0,1 en moyenne) et très difficile à modifier. La plupart des réflexions à ce sujet se focalisent donc sur l’augmentation de l’albédo des terres émergées.
+- On estime que pour augmenter l’albédo moyen de la Terre de 0,02, il faudrait transformer environ 10 % de la surface totale des terres émergées en surfaces parfaitement réfléchissantes. Ce qui impliquerait de peindre en blanc la plupart des toits et des routes, de recouvrir l’ensemble des déserts chauds de la planète (2 % de la surface totale de la Terre) d’une couche de plastique réfléchissant, voire même de cultiver à grande échelle des plantes génétiquement modifiées pour être de couleur plus claire.
+- De telles méthodes seraient extrêmement coûteuses à mettre et à maintenir en place (de l’ordre de quelques milliers de milliards d’euros par an selon la Royal Society), pourraient modifier la circulation atmosphérique à grande échelle, et pourraient avoir des conséquences désastreuses sur le régime de précipitations en Asie et en Afrique.
+
 # L’élimination du CO2 atmosphérique
 carbon dioxide removal approaches: ocean fertilization, ocean alkalinity addition, accelerated chemical weathering
 of rocks, manufacture of products using silicate rocks and carbon from the air, direct capture of CO2 from the air, biomass energy with
