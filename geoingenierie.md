@@ -35,6 +35,11 @@
 - [China and the blunt temptations of geo-engineering: The role of solar radiation management in China's strategic response to climate change](https://researchers.mq.edu.au/en/publications/china-and-the-blunt-temptations-of-geo-engineering-the-role-of-so) - Kingsley Edney et Jonathan Symons (2014)
 - [China Builds One of the World’s Largest Geoengineering Research Programs](https://www.technologyreview.com/2017/08/02/4291/china-builds-one-of-the-worlds-largest-geoengineering-research-programs/) - MIT Technology Review 
 - [The Growing Case for Geoengineering](https://www.technologyreview.com/2017/04/18/152336/the-growing-case-for-geoengineering/) - MIT Technology Review 
+- https://media4.obspm.fr/public/ressources_lu/pages_planetologie-habitabilite/stabilisation.html 
+http://geosci.uchicago.edu/~kite/doc/Kasting_2019.pdf
+https://sciencing.com/silicate-weathering-5648916.html 
+https://www.sciencedirect.com/science/article/abs/pii/S0012825220303445#preview-section-references 
+https://youtu.be/i8v3ty4g1vI 
 
 ---
 
@@ -762,6 +767,20 @@ carbon capture and storage, and afforestation or reforestation.
 > Une fois décédés, ces micro-organismes et leurs déchets ont tendance à se déposer dans les fonds marins, où leur carbone sera stocké sur des longues durées. C’est la ***pompe biologique de carbone***.
 - Les modèles montrent que si l’on fertilisait abondamment les océans, la concentration actuelle de CO2 dans l’atmosphère ne pourrait être réduite que de 10 %.
 - La fertilisation des océans pourrait aussi mener à l’accumulation de CO2 dans les profondeurs, ce qui pourrait contribuer à l’acidification des océans.
+
+### L’altération forcée des roches silicatées et carbonatées
+
+- L’un des mécanismes principaux de régulation du climat sur Terre sur des temps géologiques est le cycle du carbone inorganique, aussi appelé cycle des silicates-carbonates.
+- Les silicates sont une famille de minéraux très diverse qui représente près de 97 % de la masse de la croûte terrestre. Le quart de l’ensemble des minéraux connus sont des silicates.
+> La structure de base des silicates est le tétraèdre [SiO4]4- 
+- Le fonctionnement du cycle du carbone inorganique peut être décrit ainsi : une partie du CO2 atmosphérique se dissout dans l’eau de pluie et réagit chimiquement avec l’eau pour produire un acide faible : l’acide carbonique (H2CO3). C’est la présence de cet acide qui donne son pH de 5,4 à l’eau de pluie. Lorsque ces pluies tombent sur des roches silicatées, ces dernières sont altérées chimiquement sur des temps longs. Les produits de ces réactions (des ions calcium, magnésium et bicarbonate, ainsi que de la silice) sont ensuite emportés dans l’océan par les rivières et les cours d’eau. De nombreux micro-organismes marins comme les foraminifères se servent alors de ces composés pour former leur coquille de carbonate de calcium ou de silice. Lorsque ces organismes meurent, une fraction d’entre eux s’enfoncent dans les profondeurs océaniques et s’accumulent dans les sédiments marins. Ici, le carbone sera stocké pendant des dizaines de milliers d’années avant d’être relargué dans l’atmosphère sous forme de CO2 par le volcanisme, via le mécanisme de subduction (ce CO2 est produit dans les conditions de température et de pression des profondeurs de la Terre lorsque le calcium et le magnésium se combine avec la silice).
+- Le cycle du carbone inorganique fonctionne un peu comme un thermostat (dans le jargon, on parle de boucle de rétroaction négative) : lorsque la concentration de CO2 atmosphérique augmente, le climat se réchauffe, ce qui cause une augmentation du taux de réactions d’altération des silicates. Ces réactions consomment donc plus de CO2 atmosphériques, ce qui refroidit le climat. À l’inverse, lorsque la concentration atmosphérique de CO2 diminue, l’altération des silicates aussi, ce qui permet à l’atmosphère d’accumuler du CO2 et donc de réchauffer la planète.
+- Ce thermostat naturel a relativement bien fonctionné au cours des derniers milliards d’années (à l’exception de quelques événements de Terre « boule de neige »). C’est probablement en grande partie grâce au cycle du carbone inorganique que la Terre a pu rester habitable pendant près de 4 milliards d’années malgré une augmentation de la luminosité solaire de 30 % au cours de cette période.
+- L’altération naturelle des silicates est un processus lent, qui met des dizaines de milliers d’années à retirer une quantité de CO2 atmosphérique de l’ordre de celle émise par nos activités au cours de ce siècle
+> Il retire de l’ordre de 0,1 gigatonne de carbone par an de l’atmosphère, alors que le rythme de nos émissions est de l’ordre de 10 gigatonnes par an
+- Cependant, il est techniquement possible d’accélérer ce processus, par exemple en minant des minéraux silicatés comme l’olivine et en les répandant sur les aires agricoles pour augmenter la surface terrestre soumise à des réactions d’altération des silicates. Cependant, on ne connaît pas encore bien les conséquences que cela pourrait avoir sur la santé des sols.
+- Il est aussi possible de chauffer des carbonates pour produire de la chaux, un composé très basique qui pourrait ensuite être dissous dans les océans. Cela aurait pour effet d’augmenter la quantité de CO2 pouvant être absorbée par l’océan, mais aussi d’augmenter son pH et de contrer son acidification. Cependant, fabriquer de la chaux à grande échelle serait un processus extrêmement coûteux en énergie.
+- En règle générale, avec ces techniques il faudrait de l’ordre de 2 tonnes de roches pour retirer et stocker chaque tonne de CO2 atmosphérique. Ces efforts de mitigations impliqueraient de plus des activités de minage et de transport à grande échelle qui pourraient causer des dommages à l’environnement au niveau local.
 
 capture et stockage du carbone
 - En moyenne, la Terre
