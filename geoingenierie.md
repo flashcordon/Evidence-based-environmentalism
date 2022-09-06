@@ -768,7 +768,7 @@ carbon capture and storage, and afforestation or reforestation.
 - Les modèles montrent que si l’on fertilisait abondamment les océans, la concentration actuelle de CO2 dans l’atmosphère ne pourrait être réduite que de 10 %.
 - La fertilisation des océans pourrait aussi mener à l’accumulation de CO2 dans les profondeurs, ce qui pourrait contribuer à l’acidification des océans.
 
-### L’altération forcée des roches silicatées et carbonatées
+## L’altération forcée des roches silicatées et carbonatées
 
 - L’un des mécanismes principaux de régulation du climat sur Terre sur des temps géologiques est le cycle du carbone inorganique, aussi appelé cycle des silicates-carbonates.
 - Les silicates sont une famille de minéraux très diverse qui représente près de 97 % de la masse de la croûte terrestre. Le quart de l’ensemble des minéraux connus sont des silicates.
