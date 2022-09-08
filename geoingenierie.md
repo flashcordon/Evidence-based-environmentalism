@@ -40,6 +40,17 @@ http://geosci.uchicago.edu/~kite/doc/Kasting_2019.pdf
 https://sciencing.com/silicate-weathering-5648916.html 
 https://www.sciencedirect.com/science/article/abs/pii/S0012825220303445#preview-section-references 
 https://youtu.be/i8v3ty4g1vI 
+https://www.technologyreview.com/2022/04/04/1048832/un-climate-report-carbon-removal-is-now-essential/
+https://fr.wikipedia.org/wiki/S%C3%A9questration_du_dioxyde_de_carbone 
+https://fr.wikipedia.org/wiki/Orca_(usine) 
+https://www.usinenouvelle.com/editorial/l-instant-tech-comment-va-fonctionner-orca-la-plus-grande-usine-de-captage-de-carbone-au-monde-qui-ouvre-ses-portes-en-islande.N1138871 
+https://www.capitaine-carbone.fr/je-minforme/le-blog-du-capitaine/la-premiere-usine-de-captation-de-co2-dans-lair-lancee-en-islande/ 
+https://www.catf.us/fr/2022/04/what-does-latest-ipcc-report-say-about-carbon-capture/ 
+https://www.carbonbrief.org/beccs-the-story-of-climate-changes-saviour-technology/ 
+https://www.globalccsinstitute.com/wp-content/uploads/2019/03/BECCS-Perspective_FINAL_18-March.pdf 
+https://psci.princeton.edu/tips/2020/11/15/preventing-climate-change-with-beccs-bioenergy-with-carbon-capture-and-storage 
+https://www.usinenouvelle.com/article/ce-que-dit-le-giec-sur-les-technologies-de-captage-de-stockage-et-d-utilisation-de-carbone.N1992672 
+https://report.ipcc.ch/ar6wg3/pdf/IPCC_AR6_WGIII_FinalDraft_FullReport.pdf 
 
 ---
 
@@ -782,5 +793,18 @@ carbon capture and storage, and afforestation or reforestation.
 - Il est aussi possible de chauffer des carbonates pour produire de la chaux, un composé très basique qui pourrait ensuite être dissous dans les océans. Cela aurait pour effet d’augmenter la quantité de CO2 pouvant être absorbée par l’océan, mais aussi d’augmenter son pH et de contrer son acidification. Cependant, fabriquer de la chaux à grande échelle serait un processus extrêmement coûteux en énergie.
 - En règle générale, avec ces techniques il faudrait de l’ordre de 2 tonnes de roches pour retirer et stocker chaque tonne de CO2 atmosphérique. Ces efforts de mitigations impliqueraient de plus des activités de minage et de transport à grande échelle qui pourraient causer des dommages à l’environnement au niveau local.
 
-capture et stockage du carbone
-- En moyenne, la Terre
+## Le piégeage et le stockage du carbone
+- Illustration : [usine de capture de carbone Climeworks en Suisse](https://images.prismic.io/climeworkscom/e6db26d5-dfef-4d4b-a150-944e58955063_Capricorn_2x.png?auto=compress,format&rect=0,0,2000,1360&w=1300&h=884)
+- En anglais cette famille de méthodes a pour acronyme CCS (Carbon Capture and Storage).
+- La technique de piégeage la plus intuitive est la capture directe d’air (ou DACCS, pour Direct Air Capture with Carbon Storage). Il s’agit de capter directement le CO2 présent dans l’air ambiant à la sortie des usines de production d’énergie à l’aide de processus chimiques qui séparent le CO2 des autres composés de l’atmosphère (via de l’adsorption sur des surfaces solides ou de l’absorption dans une solution aqueuse contenant un composé basique). Le CO2 peut ensuite être stocké sur les temps longs dans des réservoirs géologiques en profondeur (par injection dans des aquifères), ou bien au fond des océans.
+- La technologie requise pour le système DACCS existe déjà, mais à très petite échelle. En 2017, la start-up zurichoise Climeworks a dévoilé la première usine commerciale de capture directe d'air et de stockage de CO₂ au monde. Située à Hinwil, en Suisse, cette usine peut capturer 900 tonnes de CO2 par an. Le CO2 capturé sert à approvisionner des cultures sous serre. Quelques années plus tard, la même société a lancé un autre projet pilote en Islande, l’usine Orca, qui est entrée en fonctionnement en 2021. Située à 30 km de Reykjavik, cette usine peut aspirer jusqu'à 4000 tonnes de CO2 par an (l’équivalent de 8000 vols Paris-New-York, ou des émissions de 870 voitures). Ce CO2 est ensuite stocké dans une mine de basalte à 1 kilomètre de profondeur. Cette installation est prévue pour durer au moins une douzaine d’années. Il s’agit de la première usine à réaliser ce procédé à échelle industrielle, et elle ouvre la porte à un marché émergent.
+> Si l’on compare ce nombre aux 43 milliards de tonnes de CO2 émises par les activités humaines en 2019, c’est encore une broutille. Avec les rendements actuels, il faudrait plus de 10 millions d’usines comme celles-ci avec les rendements actuels pour pomper l’ensemble de nos émissions.
+- Techniquement la capture directe d’air pourrait potentiellement éliminer des quantités importantes de CO2 atmosphérique (jusqu’à 40 gigatonnes de CO2 par an en 2100 dans les scénarios optimistes du GIEC), mais les technologies actuelles sont gourmandes en eau et en énergie, et les coûts de déploiement à grande échelle sont prohibitifs.
+- Se pose aussi la question du modèle économique : qui paiera les centaines de milliards d’euros nécessaires pour retirer le CO2 de l’air ? Il faudra vraisemblablement un engagement politique fort de la part des gouvernements pour inciter les industries à utiliser ce genre de technologies.
+- La capture directe n’est pas la seule manière de piéger et de stocker le carbone. Une méthode alternative de plus en plus mise en avant est le processus BECCS, acronyme anglais de « bioénergie avec captage et stockage du carbone ».
+- Le processus BECCS consiste à faire pousser des plantes pour produire de la biomasse, comme du bois ou du compost (un processus qui consomme du CO2 atmosphérique), puis à convertir cette biomasse en bioénergie (sous forme de biocarburant, comme l’éthanol par exemple). Les émissions de CO2 résultant de la combustion de la biomasse sont ensuite capturées et le carbone est stocké sous terre.
+- La première usine à expérimenter le système BECCS est une usine de maïs de la multinationale Archer Daniels Midland (ADM), ouverte en 2011 à Decatur, dans l’Illinois. Dans cette usine, le maïs est transformé en sirops, en éthanol, et en produits divers, et les émissions de CO2 de l’usine étaient stockées dans une couche de grès avoisinante.
+- Selon le Global CCS Institute, il existe à ce jour (en 2019) 5 installations dans le monde qui utilisent activement le système BECCS.  Ces usines piègent collectivement 1,5 million de tonnes de CO2 par an.
+- Sur le papier, BECCS offre une solution intéressante. La technologie est non seulement mature (même si encore peu testée à grande échelle), mais aussi moins énergivore et moins coûteuse que DACCS. En effet, le coût de capture par le processus BECCS est estimé à 20-100 euros par tonne de carbone (contre 50-1000 euros pour DACCS).
+- Là où BECCS fait débat, c’est sur la question de l’usage des terres. En effet, le GIEC estime que si l’on devait déployer BECCS à grande échelle pour capter de l’ordre de 11,5 gigatonnes de CO2 par an d’ici 2100, il faudrait utiliser entre 25 et 40 % de l’ensemble des terres arables du monde pour produire de l’électricité, ce qui mènerait à des pertes de biodiversité énormes et ferait peser des risques sur la sécurité alimentaire de milliards de personnes.
+- Sur les 7 scénarios explorant différentes stratégies de décarbonisation mis en avant par le dernier rapport du GIEC afin de maintenir la température globale en dessous de 2°C (les « illustrative mitigation pathways » du rapport AR6 groupe III), 6 considèrent l’utilisation à plus ou moins grande échelle de technologies de piégeage et de stockage de carbone (dont DACCS et BECCS).
