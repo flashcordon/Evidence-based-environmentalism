@@ -3,6 +3,7 @@
 *Sources*
 
 - [Research On Degrowth](https://www.annualreviews.org/doi/abs/10.1146/annurev-environ-102017-025941) - Kallis et al (2018)
+- [Imaginaries of Hope: The Utopianism of Degrowth](https://www.jstor.org/stable/24537850) - Kallis et al (2015)
 - The future is Degrowth
 
 ---
