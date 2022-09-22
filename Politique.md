@@ -15,10 +15,12 @@
 -  [Harbinger](https://social-ecology.org/wp/projects/harbinger-journal/) : journal d'écologie sociale de l'Institute for Social Ecology
 -  [The Murray Bookchin reader](https://archive.org/details/themurraybookchinreader) - Archive.org
 
-# Dialectique
+# Décoloniser l'exploration spatiale
 
-- [Hegel’s Dialectics](https://plato.stanford.edu/entries/hegel-dialectics/) - Stanford Encyclopedia of philosophy
+*Sources*
+
+- [The Space Ethics Library](https://spaceethicslibrary.wordpress.com)
+- [Just space alliance](https://justspacealliance.org/)
+- [Decolonising the cosmos](https://aeon.co/essays/we-need-a-more-egalitarian-approach-to-space-exploration) 
 
 ---
-
-- “Dialectics” is a term used to describe a method of philosophical argument that involves some sort of contradictory process between opposing sides. 
