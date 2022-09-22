@@ -54,6 +54,7 @@ https://report.ipcc.ch/ar6wg3/pdf/IPCC_AR6_WGIII_FinalDraft_FullReport.pdf
 https://vlab.noaa.gov/web/nws-heritage/-/almost-science-fiction-hurricane-modification-and-project-stormfury 
 https://journals.ametsoc.org/view/journals/bams/66/5/1520-0477_1985_066_0505_psasc_2_0_co_2.xml 
 https://youtu.be/pyZCr4j8rCw 
+https://en.wikipedia.org/wiki/Eunice_Newton_Foote
 
 ---
 
