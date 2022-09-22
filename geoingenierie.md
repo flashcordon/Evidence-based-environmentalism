@@ -55,6 +55,15 @@ https://vlab.noaa.gov/web/nws-heritage/-/almost-science-fiction-hurricane-modifi
 https://journals.ametsoc.org/view/journals/bams/66/5/1520-0477_1985_066_0505_psasc_2_0_co_2.xml 
 https://youtu.be/pyZCr4j8rCw 
 https://en.wikipedia.org/wiki/Eunice_Newton_Foote
+https://ourworldindata.org/land-use
+https://www.polytechnique-insights.com/en/columns/planet/tree-planting-controversy-benefits-for-the-climate-are-grossly-overestimated/ 
+https://www.nature.com/articles/s41467-018-05938-3
+https://time.com/6181214/china-tree-pledge-davos/ 
+https://inhabitat.com/china-is-fighting-desertification-with-the-great-green-wall-of-trees/ 
+https://earth.org/what-is-the-great-green-wall-in-china/ 
+https://www.economist.com/china/2019/05/18/chinas-desert-taming-green-great-wall-is-not-as-great-as-it-sounds 
+https://planet-vie.ens.fr/thematiques/ecologie/cycles-biogeochimiques/role-des-forets-dans-le-bilan-de-carbone-de-la-planete 
+https://unfccc.int/topics/land-use/workstreams/land-use--land-use-change-and-forestry-lulucf 
 
 ---
 
