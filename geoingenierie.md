@@ -51,6 +51,9 @@ https://www.globalccsinstitute.com/wp-content/uploads/2019/03/BECCS-Perspective_
 https://psci.princeton.edu/tips/2020/11/15/preventing-climate-change-with-beccs-bioenergy-with-carbon-capture-and-storage 
 https://www.usinenouvelle.com/article/ce-que-dit-le-giec-sur-les-technologies-de-captage-de-stockage-et-d-utilisation-de-carbone.N1992672 
 https://report.ipcc.ch/ar6wg3/pdf/IPCC_AR6_WGIII_FinalDraft_FullReport.pdf 
+https://vlab.noaa.gov/web/nws-heritage/-/almost-science-fiction-hurricane-modification-and-project-stormfury 
+https://journals.ametsoc.org/view/journals/bams/66/5/1520-0477_1985_066_0505_psasc_2_0_co_2.xml 
+https://youtu.be/pyZCr4j8rCw 
 
 ---
 
@@ -713,6 +716,7 @@ gas emissions.
 - Ces usages militaires du contrôle de la météo se concrétisent entre 1967 et 1972 avec l’*Opération Popeye*, un projet secret d’ensemencement de nuages mené par l’armée américaine au Vietnam et au Laos durant la guerre du Vietnam. Ce projet avait pour but de prolonger la mousson dans le but de causer des difficultés logistiques chez l’ennemi via des glissements de terrain, des embourbements et des destructions des ponts de fortune. La révélation publique de ces pratiques militaires dans un article du New York Times publié en 1972 a causé un backlash qui a rapidement mené à l’arrêt des opérations de modification de la météo par l’US Air Force.
 - Ce backlash conduit l’Assemblée générale de l’ONU à adopter, le 10 décembre 1976, la ***Convention ENMOD*** (Environmental Modification Convention), un traité international visant à interdire l'utilisation de techniques de modification de l'environnement et du temps, et ce à des fins militaires ou hostiles. Entrée en vigueur en 1978, la convention ENMOD compte aujourd’hui [78 États parties](https://treaties.un.org/Pages/ViewDetails.aspx?src=IND&mtdsg_no=XXVI-1&chapter=26&clang=_en) (sur 197).
 > À noter que la France n’a pas ratifié ni signé cette convention !
+- Entre 1962 et 1983, le gouvernement des États-Unis a financé un ambitieux programme d’ensemencement de nuages dans le but de diminuer l’intensité des cyclones tropicaux : le projet Stormfury. Ce programme expérimental envoyait des avions dans les cyclones afin d’ensemencer leurs nuages avec de l’iodure d’argent. On pensait alors que cela permettrait d’altérer les nuages autour de l’œil du cyclone (en gelant les gouttelettes d’eau en surfusion des zones internes du cyclone) et que cela pourrait réduire la vitesse maximum des vents de 30 % environ. Mais au fil des observations, les scientifiques ont fini par se rendre compte qu’il y avait beaucoup moins d’eau en surfusion que prévu dans les cyclones, et donc que leur méthode ensemencement serait beaucoup moins efficace que l’on pensait. Sans compter que, les cyclones étant des événements très variables, il était très difficile de séparer la contribution humaine de l’altération des nuages des effets purement naturels. Le projet Stormfury a donc été globalement un échec.
 - À partir des années 80-90, on commence à prendre certaines techniques de géo-ingénierie au sérieux sur le plan technique et économique. Dans les rapports du GIEC de 1990 et de 1995, des  stratégies de « mitigation » sont mentionnées brièvement (la distinction entre mitigation et géo-ingénierie est assez floue en pratique).
 
 # Les techniques de géo-ingénierie
