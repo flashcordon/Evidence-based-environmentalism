@@ -5,6 +5,7 @@
 - [Research On Degrowth](https://www.annualreviews.org/doi/abs/10.1146/annurev-environ-102017-025941) - Kallis et al (2018)
 - [Imaginaries of Hope: The Utopianism of Degrowth](https://www.jstor.org/stable/24537850) - Kallis et al (2015)
 - The future is Degrowth
+- La décroissance et ses déclinaisons
 - [1.5 °C degrowth scenarios suggest the need for new mitigation pathways](https://www.nature.com/articles/s41467-021-22884-9) - Keyßer & Lenzen (2021)
 
 ---
