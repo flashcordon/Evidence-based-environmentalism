@@ -713,6 +713,7 @@ gas emissions.
 ---
 
 # Histoire
+
 - Le terme de « géo-ingénierie » est utilisé pour la première fois dans la littérature scientifique par Victor Marchetti en 1977. Il désigne l’ensemble des pratiques et des techniques à grande échelle qui visent à corriger de manière intentionnelle le changement climatique dû à nos émissions de gaz à effet de serre dans l’atmosphère.
 > Marchetti proposait d’injecter notre CO2 dans les fonds marins. Celui-ci serait capturé dans l’air et serait transporté par des tuyaux ou des bateaux pour être stocké dans les profondeurs des océans. 
 - Mais l’intérêt pour la modification intentionnelle du climat et de la météo remonte à bien plus loin que les années 70. En 1905, le chimiste suédois Svante Arrhenius, que l’on crédite souvent (à tort !) comme le premier scientifique à avoir compris la corrélation entre nos émissions de CO2 et le réchauffement climatique (cf note), spéculait qu’un réchauffement global créé par nos émissions de gaz à effet de serre pourrait réchauffer les hautes latitudes et stimuler la croissance des plantes dans ces régions, ce qui permettrait de nourrir une population mondiale croissante.
@@ -752,6 +753,7 @@ gas emissions.
 - Un emplacement plus avantageux (du moins sur le papier) est le point de Lagrange L1 du système Terre-Soleil, à 1,5 millions de km de la Terre dans la direction du Soleil. Dans cette région, l’attraction gravitationnelle de la Terre et du Soleil s’équilibrent, ce qui fait que les miroirs peuvent évoluer parallèlement à l’orbite de la Terre autour de son étoile.
 
 ## L’injection d’aérosols dans la stratosphère
+
 - Illustration : [éruption du mont Pinatubo de 1991](https://fr.m.wikipedia.org/wiki/Fichier:Pinatubo_1991-06-12_%28USGS%29.jpg)
 - Cette méthode consiste à rendre l’atmosphère de la Terre plus réfléchissante, en injectant des aérosols de sulfates (comme du sulfure d’hydrogène ou du dioxyde de soufre) dans les basses couches de la stratosphère à l’aide de ballons, d’avions et/ou de canons d’artillerie.
 - Cette technique, initialement proposée par le prix Nobel de chimie Paul Crutzen en 2006, a été inspirée par les conséquences de l’éruption du Mont Pinatubo aux Philippines en juin 1991. Cette éruption avait injecté un grand nombre d’aérosols dans l’atmosphère et avait refroidi la planète d’un demi-degré l’année suivant l’éruption.
@@ -761,6 +763,7 @@ gas emissions.
 - Enfin, l’injection de particules sulfatées dans l’atmosphère pose un énorme risque d’altération régionale de la mousson en Asie et en Afrique, ce qui pourrait impacter la sécurité alimentaire des milliards de personnes qui vivent dans ces régions du monde.
 
 ## L’augmentation de la réflectivité des nuages
+
 - Les nuages se forment à partir de petites particules flottant dans la troposphère sur laquelle la vapeur d’eau se dépose pour former des gouttelettes : on appelle ces particules des ***noyaux de condensation de nuages*** (*cloud condensation nuclei* en anglais)
 - Si on augmente le nombre de noyaux de condensation de nuages, on devrait théoriquement augmenter la couverture nuageuse de la Terre ainsi que la réflectivité des nuages, et donc augmenter l’albédo de la planète.
 > On peut faire ça par exemple en injectant du fer dans les océans pour favoriser la croissance du phytoplancton, et ainsi augmenter leurs émissions de sulfure de diméthyl. Ce composé s’oxyde au contact de l’atmosphère et pourrait générer des particules de sulfates qui serviraient de noyaux de condensation de nuages.
@@ -768,6 +771,7 @@ gas emissions.
 - La génération de nuages à grande échelle pourrait potentiellement retarder le changement climatique de quelques décennies, mais pourrait aussi altérer radicalement les régimes de précipitation dans certaines régions du monde.
 
 ## L’augmentation de l’albédo du sol
+
 - L'albédo de la Terre est la fraction de l'énergie solaire interceptée par la surface de la planète qui est réfléchie vers l'espace. Sa valeur est comprise entre 0 (corps noir parfait) et 1 (miroir parfait).
 > L’albédo moyen de la Terre est de 0,15.
 - Le but de cette méthode  est de rendre la surface terrestre plus brillante, et donc plus réfléchissante.
@@ -777,14 +781,29 @@ gas emissions.
 - De telles méthodes seraient extrêmement coûteuses à mettre et à maintenir en place (de l’ordre de quelques milliers de milliards d’euros par an selon la Royal Society), pourraient modifier la circulation atmosphérique à grande échelle, et pourraient avoir des conséquences désastreuses sur le régime de précipitations en Asie et en Afrique.
 
 # L’élimination du CO2 atmosphérique
+
 carbon dioxide removal approaches: ocean fertilization, ocean alkalinity addition, accelerated chemical weathering
 of rocks, manufacture of products using silicate rocks and carbon from the air, direct capture of CO2 from the air, biomass energy with
 carbon capture and storage, and afforestation or reforestation.
 
-## Planter des arbres
+## La plantation d’arbres
+
 - L’***afforestation*** (aussi appelé boisement) est une technique consistant à planter des arbres dans une zone qui en était dépourvue auparavant
 - La ***reforestation*** consiste à restaurer un écosystème de type forestier dans une zone qui a été déboisée auparavant par les activités humaines.
-- Un programme très ambitieux d’afforestation et de reforestation pourrait potentiellement décroître la concentration atmosphérique de CO2 de 40 à 70 ppm d’ici 2100.
+- À l’échelle globale, les forêts sont le principal puits de carbone en milieu continental.
+> * Grâce au processus de photosynthèse, les écosystèmes continentaux prélèvent environ 3 milliards de tonnes de carbone de l’atmosphère par an.
+> * Les écosystèmes terrestres stockent de l’ordre de 2100 milliards de tonnes de carbone au total, qui se retrouvent dans les êtres vivants, les sols et les feuilles mortes.
+> * De tous les biomes qui existent sur Terre, les forêts tropicales et subtropicales sont les biomes qui séquestrent le plus de carbone (550 GtC).
+- De nos jour, la moitié de toutes les terres habitables du globe (c’est-à-dire toutes les surfaces continentales sauf les glaciers et les terres stériles, comme les déserts et les plages) sont utilisés pour l’agriculture.
+> 37 % de l’autre moitié est recouverte par des forêts, 11 % par des arbustes et des prairies, 1 % par des surfaces d’eau douce et 1 % par les zones urbaines.
+- La conversion des terres sauvages en terres agricole (en particulier la déforestation) a profondément modifié les flux et les stocks de carbone à l’échelle globale, et constitue une source nette de carbone, qui représente actuellement environ 23 % des émissions anthropiques de gaz à effet de serre.
+> Dans les rapports du GIEC, ces processus sont regroupés sous le terme AFOLU, pour « agriculture, forestry and other land use ». 
+- Dans ce contexte, la reforestation et l’afforestation ont un potentiel non négligeable dans la mitigation de nos émissions de gaz à effet de serre. Ce sont d’ailleurs les méthodes de géo-ingénierie les plus pratiquées à l’heure actuelle.
+> On estime que des politiques ambitieuses de reforestation et d’afforestation à l’échelle globale auraient le potentiel de capturer de l’ordre de 4 à12 gigatonnes de CO2  par an d’ici 2100.
+- Cependant, le CO2 stocké dans la végétation peut être relargué dans l’atmosphère à la suite d’un feu de forêt, d'une sécheresse ou d'une entreprise délibérée de déforestation par exemple.
+- L’afforestation, si elle est réalisée sur des prairies ou des tourbières, peut aussi porter atteinte à la biodiversité locale, ainsi qu’aux lieux de vie et à la sécurité alimentaire des personnes qui vivent dans les environs.
+- Le plus grand effort d’afforestation en cours se trouve en Chine. Pour freiner la progression du désert de Gobi et limiter l’impact des tempêtes de poussières sur les populations, le gouvernement chinois a en effet initié en 1978 un énorme programme surnommé la « grande muraille verte » dans le but de construire une bande de forêt de 4500 km de long contenant plus de 100 milliards d’arbres d’ici 2050. Il s’agit de la plus grande forêt artificielle au monde. 
+> Mais cet effort est assez controversé, et ce pour plusieurs raisons. Tout d’abord, la plupart des arbres plantés sont d’une seule et unique espèce, ce qui les rend vulnérables aux pathogènes. En l’an 2000 par exemple, près d’un milliard d’arbres ont été décimés par une maladie dans la province de Ningxia. L’impact de cet effort est aussi exagéré par les autorités chinoises, et en pratique moins d’arbres ont été plantés que ce qui a été officiellement annoncé, notamment à cause de la corruption et du fort taux de mortalité des arbres plantés (car mal placés ou plantés en trop grande concentration).
 
 ## La fertilisation des océans
 
@@ -808,6 +827,7 @@ carbon capture and storage, and afforestation or reforestation.
 - En règle générale, avec ces techniques il faudrait de l’ordre de 2 tonnes de roches pour retirer et stocker chaque tonne de CO2 atmosphérique. Ces efforts de mitigations impliqueraient de plus des activités de minage et de transport à grande échelle qui pourraient causer des dommages à l’environnement au niveau local.
 
 ## Le piégeage et le stockage du carbone
+
 - Illustration : [usine de capture de carbone Climeworks en Suisse](https://images.prismic.io/climeworkscom/e6db26d5-dfef-4d4b-a150-944e58955063_Capricorn_2x.png?auto=compress,format&rect=0,0,2000,1360&w=1300&h=884)
 - En anglais cette famille de méthodes a pour acronyme CCS (Carbon Capture and Storage).
 - La technique de piégeage la plus intuitive est la capture directe d’air (ou DACCS, pour Direct Air Capture with Carbon Storage). Il s’agit de capter directement le CO2 présent dans l’air ambiant à la sortie des usines de production d’énergie à l’aide de processus chimiques qui séparent le CO2 des autres composés de l’atmosphère (via de l’adsorption sur des surfaces solides ou de l’absorption dans une solution aqueuse contenant un composé basique). Le CO2 peut ensuite être stocké sur les temps longs dans des réservoirs géologiques en profondeur (par injection dans des aquifères), ou bien au fond des océans.
