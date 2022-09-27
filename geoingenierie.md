@@ -71,10 +71,8 @@ https://unfccc.int/topics/land-use/workstreams/land-use--land-use-change-and-for
 whether geoengineering—the intentional,
 large-scale alteration of the climate system—
 might be able to limit climate change impacts.
-- Geoengineering schemes can be divided
-into two very different categories: carbon
-dioxide removal (CDR) and solar radiation
-management (SRM) ( 4). CDR schemes such
+
+CDR schemes such
 as direct air capture ( 8) or ocean fertilization
 ( 9) would remove the cause of climate change.
 - technical challenges and large
@@ -135,9 +133,6 @@ Intervention Technologies in March 2010 will
 bring together ~150 scientists to begin this process.
 However, although necessary, such norms
 are not suffi cient.
-- 
-
-- Ecomodernisme
 
 - the window for effectively
 mitigating against a two-degree
@@ -255,23 +250,6 @@ level could provide significant increases in carbon sinks such as forests.
 While few undesirable side effects would be expected, carbon stored in
 vegetation is not securely sequestered in the long term
 
-SRM Techniques
-Space-based reflectors: The placement of a fleet of artificial “sunshades”
-in orbit around the earth would deflect solar radiation. One suggestion is
-that a swarm of around 10 trillion extremely thin discs could be launched
-into space in stacks of a million, once every minute, for about 30 years.
-Stratospheric aerosols: Sulphate particles blasted into the stratosphere
-would deflect sunlight. Based on the model of a volcano, rapid
-reductions could be achieved in earth-bound solar radiation, but there
-are serious concerns over unintended effects on the stratospheric
-ozone.
-E nhanced surface albedo: Human settlements could be made more
-reflective by painting them white, more reflective crop varieties and grassland
-could be planted, and deserts could be covered with highly reflective
-materials.
-E nhanced cloud albedo: The whitening of oceanic clouds could be
-achieved by spraying salt-rich sea water into the sky—sometimes referred
-to as “cloud seeding.”
 
 Perhaps the most fundamental question
 that geoengineering raises is
@@ -340,7 +318,7 @@ the centuries of global political
 stability that would be required to manage
 such industrial projects on a global
 scale.
-Technosolutionnisme
+
 some pressure groups that have
 previously been vocal opponents of
 stringent political action to reduce
@@ -440,10 +418,8 @@ will likely depend primarily on considerations of risk. The second category of
 geoengineering method, carbon dioxide removal (CDR), raises issues related
 primarily to scale, cost, effectiveness, and local environmental consequences.
 The scale of CDR deployment will likely depend primarily on cost.
-The term geoengineering as applied in its current context was introduced into the scientific
-literature by Victor Marchetti in the title of his classic paper describing deep-sea disposal of carbon
-dioxide (CO2) (Marchetti 1977). This term has come to refer to large-scale efforts to diminish
-climate change resulting from greenhouse gases that have already been released to the atmosphere
+
+
 The UK Royal Society assembled a panel in 2009
 that produced a good summary, including references to issues involving international governance
 and ethics
