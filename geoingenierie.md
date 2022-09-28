@@ -774,10 +774,6 @@ gas emissions.
 
 # L’élimination du CO2 atmosphérique
 
-carbon dioxide removal approaches: ocean fertilization, ocean alkalinity addition, accelerated chemical weathering
-of rocks, manufacture of products using silicate rocks and carbon from the air, direct capture of CO2 from the air, biomass energy with
-carbon capture and storage, and afforestation or reforestation.
-
 ## La plantation d’arbres
 
 - L’***afforestation*** (aussi appelé boisement) est une technique consistant à planter des arbres dans une zone qui en était dépourvue auparavant
