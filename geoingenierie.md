@@ -78,6 +78,7 @@ https://egusphere.copernicus.org/preprints/2022/egusphere-2022-827/egusphere-202
 https://bg.copernicus.org/articles/15/5847/2018/ 
 https://www.courrierinternational.com/article/2008/05/22/plus-question-de-fertiliser-les-oceans-avec-du-fer 
 https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/340626.pdf 
+https://www.ocean-climate.org/wp-content/uploads/2015/03/FichesScientifiques-ocean-pompe-carbone.pdf
 
 ---
 
