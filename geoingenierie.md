@@ -831,6 +831,7 @@ carbon capture and storage, and afforestation or reforestation.
 - Cependant, il est techniquement possible d’accélérer ce processus, par exemple en minant des minéraux silicatés comme l’olivine et en les répandant sur les aires agricoles pour augmenter la surface terrestre soumise à des réactions d’altération des silicates. Cependant, on ne connaît pas encore bien les conséquences que cela pourrait avoir sur la santé des sols.
 - Il est aussi possible de chauffer des carbonates pour produire de la chaux, un composé très basique qui pourrait ensuite être dissous dans les océans. Cela aurait pour effet d’augmenter la quantité de CO2 pouvant être absorbée par l’océan, mais aussi d’augmenter son pH et de contrer son acidification. Cependant, fabriquer de la chaux à grande échelle serait un processus extrêmement coûteux en énergie.
 - En règle générale, avec ces techniques il faudrait de l’ordre de 2 tonnes de roches pour retirer et stocker chaque tonne de CO2 atmosphérique. Ces efforts de mitigations impliqueraient de plus des activités de minage et de transport à grande échelle qui pourraient causer des dommages à l’environnement au niveau local.
+- Selon le GIEC, l’altération forcée des roches silicatées et carbonées a le potentiel de capturer de l’ordre de quelques milliards de tonnes de CO2 par an, à des coûts qui s’élèveraient à quelques dizaines, voire quelques centaines d’euros par tonne de CO2 capturé.
 
 ## Le piégeage et le stockage du carbone
 
