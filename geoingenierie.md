@@ -829,7 +829,7 @@ gas emissions.
 - En règle générale, avec ces techniques il faudrait de l’ordre de 2 tonnes de roches pour retirer et stocker chaque tonne de CO2 atmosphérique. Ces efforts de mitigations impliqueraient de plus des activités de minage et de transport à grande échelle qui pourraient causer des dommages à l’environnement au niveau local.
 - Selon le GIEC, l’altération forcée des roches silicatées et carbonées a le potentiel de capturer de l’ordre de quelques milliards de tonnes de CO2 par an, à des coûts qui s’élèveraient à quelques dizaines, voire quelques centaines d’euros par tonne de CO2 capturé.
 
-## Le piégeage et le stockage du carbone
+## La capture et le stockage du carbone
 
 - Illustration : [usine de capture de carbone Climeworks en Suisse](https://images.prismic.io/climeworkscom/e6db26d5-dfef-4d4b-a150-944e58955063_Capricorn_2x.png?auto=compress,format&rect=0,0,2000,1360&w=1300&h=884)
 - En anglais cette famille de méthodes a pour acronyme CCS (Carbon Capture and Storage).
