@@ -64,6 +64,20 @@ https://earth.org/what-is-the-great-green-wall-in-china/
 https://www.economist.com/china/2019/05/18/chinas-desert-taming-green-great-wall-is-not-as-great-as-it-sounds 
 https://planet-vie.ens.fr/thematiques/ecologie/cycles-biogeochimiques/role-des-forets-dans-le-bilan-de-carbone-de-la-planete 
 https://unfccc.int/topics/land-use/workstreams/land-use--land-use-change-and-forestry-lulucf 
+https://www.etcgroup.org/sites/www.etcgroup.org/files/publication/pdf_file/ETC_geopiracy_4web.pdf 
+https://www.encyclopedie-environnement.org/eau/phosphore-et-eutrophisation/ 
+https://fr.wikipedia.org/wiki/Rapport_de_Redfield 
+https://www.cite-sciences.fr/archives/science-actualites/home/webhost.cite-sciences.fr/fr/science-actualites/enquete-as/wl/1248115451578/contre-le-rechauffement-climatique-du-fer-dans-les-oceans/index.html 
+https://www.nature.com/articles/545393a 
+https://www.science.org/doi/10.1126/science.1131669?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed 
+https://www.nature.com/articles/news.2009.13 
+https://www.bco-dmo.org/project/2051 
+https://www.sciencepolicyjournal.org/uploads/5/4/3/4/5434385/rohr_jspg_v15.pdf 
+http://www.homepages.ed.ac.uk/shs/Climatechange/Carbon%20sequestration/Martin%20iron.htm
+https://egusphere.copernicus.org/preprints/2022/egusphere-2022-827/egusphere-2022-827.pdf 
+https://bg.copernicus.org/articles/15/5847/2018/ 
+https://www.courrierinternational.com/article/2008/05/22/plus-question-de-fertiliser-les-oceans-avec-du-fer 
+https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/340626.pdf 
 
 ---
 
