@@ -1,3 +1,12 @@
+# Croissance verte
+
+*Sources*
+
+- [Is Green Growth Possible?](https://www.tandfonline.com/doi/abs/10.1080/13563467.2019.1598964?journalCode=cnpe20) - Hickel et Kallis (2019)
+
+---
+
+
 # Décroissance
 
 *Sources*
