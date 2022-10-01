@@ -8,6 +8,7 @@
 - [Planetary Boundaries: Exploring the Safe Operating Space for Humanity](https://www.ecologyandsociety.org/vol14/iss2/art32/) - Rockstrom et al (2009)
 - [Planetary boundaries: Guiding human development on a changing planet](https://www.science.org/doi/10.1126/science.1259855) - Steffen et al (2015)
 - [The nine planetary boundaries](https://www.stockholmresilience.org/research/planetary-boundaries/the-nine-planetary-boundaries.html) - Stockholm Resilience Center
+- [A safe and just space for humanity](https://www-cdn.oxfam.org/s3fs-public/file_attachments/dp-a-safe-and-just-space-for-humanity-130212-en_5.pdf) - Kate Raworth (2012)
 
 ---
 
