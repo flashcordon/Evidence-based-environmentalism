@@ -7,6 +7,7 @@
 - [From planetary to societal boundaries: an argument for collectively defined self-limitation](https://www.tandfonline.com/doi/full/10.1080/15487733.2021.1940754) - Brand et al (2021)
 - [Planetary Boundaries: Exploring the Safe Operating Space for Humanity](https://www.ecologyandsociety.org/vol14/iss2/art32/) - Rockstrom et al (2009)
 - [Planetary boundaries: Guiding human development on a changing planet](https://www.science.org/doi/10.1126/science.1259855) - Steffen et al (2015)
+- [The nine planetary boundaries](https://www.stockholmresilience.org/research/planetary-boundaries/the-nine-planetary-boundaries.html) - Stockholm Resilience Center
 
 ---
 
