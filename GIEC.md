@@ -17,9 +17,9 @@ mondiale (OMM) lors de la 40e session de la Conférence Mondiale sur le Climat.
 - Les rapportsdu giec sont pertinents pour orienter les politiques mais ne sont pas prescriptifs. Ils ne recommandent pas de choix de trajectoire socio-économique spécifiques.
 - En approuvant les rapports du GIEC les gouvernements reconnaissent la légitimité de leur contenu scientifique
 - Le GIEC est organisé en 3 groupes de travail (WG) :
-> * WG1 : l'évaluation scientifique du changement climatique
-> * WG2 : évalue la vulnérabilité et l'adaptation des sociétés au changement climatique
-> * WG3 : évalue les options pour atténuer le changement climatique
+> * WG1 : étudie les aspects scientifiques du changement climatique
+> * WG2 : étudie les conséquences, la vulnérabilité et l'adaptation, pour les systèmes socio-économiques comme pour les systèmes naturels 
+> * WG3 : étudie les options pour atténuer le changement climatique
 
 ## Les rapports du GIEC
 
