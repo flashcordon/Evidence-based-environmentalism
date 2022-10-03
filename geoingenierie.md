@@ -80,7 +80,7 @@ https://www.courrierinternational.com/article/2008/05/22/plus-question-de-fertil
 https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/340626.pdf 
 https://www.ocean-climate.org/wp-content/uploads/2015/03/FichesScientifiques-ocean-pompe-carbone.pdf
 https://planet-vie.ens.fr/thematiques/ecologie/gestion-de-l-environnement-pollution/l-eutrophisation
-https://www.nature.com/articles/479293a#citeas
+https://www.cairn.info/revue-internationale-et-strategique-2021-4-page-103.htm
 
 ---
 
