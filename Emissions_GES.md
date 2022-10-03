@@ -14,6 +14,6 @@ Gaz fluorés (PFC, HFC, SF6) : 2% ?
 > * Industrie 5.2%
 > * Déchets : 3.2%
 
-*Emissions par secteur (Source : [Our world in data](https://ourworldindata.org/emissions-by-sector))
+*Emissions par secteurs (Source : [Our world in data](https://ourworldindata.org/emissions-by-sector))*
 
 ![emissions-globales](https://ourworldindata.org/uploads/2020/09/Emissions-by-sector-%E2%80%93-pie-charts.png)
