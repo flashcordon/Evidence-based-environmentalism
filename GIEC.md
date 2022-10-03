@@ -43,7 +43,7 @@ mondiale (OMM) lors de la 40e session de la Conférence Mondiale sur le Climat.
 - Le GIEC produit aussi des rapports spéciaux (SR) et des rapports méthodologiques (MR) qui donnent des lignes directrices pour les inventaires nationaux de gaz à effet de serre.
 > * Exemples de SR : [Réchauffement planétaire de 1,5 °C (2018)](https://www.ipcc.ch/sr15/), [Changement climatique et terres émergées (2019)](https://www.ipcc.ch/site/assets/uploads/2019/08/4.-SPM_Approved_Microsite_FINAL.pdf), [Les océans et la cryosphère dans un monde dont le climat change (2019)](https://www.ipcc.ch/srocc/))
 > * Exemples de MR : [Révision 2019 de l’édition 2006 des Lignes directrices du GIEC pour les inventaires nationaux de gaz à effet de serre](https://www.ipcc.ch/report/2019-refinement-to-the-2006-ipcc-guidelines-for-national-greenhouse-gas-inventories/)
-- Les scenarios du giec explorent aussi des scénarios d'évolution possibles des sociétés humaines d'ici 2100.
+- Les scenarios du GIEC explorent aussi des scénarios d'évolution possibles des sociétés humaines d'ici 2100.
 > AR6 décrit 5 scenarios possibles (appelées Trajectoires socio-économiques partagées, ou SSP en anglais) d'ici la fin du siècle qui décrivent des développements sociaux politiques économiques et technologiques plausibles. Il n'y a pas de probabilités associées à ces scénarios
 > * SSP1 : Durabilité (Prendre la route verte)
 > * SSP2 : Milieu de la route
