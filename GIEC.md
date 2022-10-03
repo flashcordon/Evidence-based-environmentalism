@@ -41,6 +41,7 @@ mondiale (OMM) lors de la 40e session de la Conférence Mondiale sur le Climat.
 - Les rapports pour décideurs (SPM summary for policy makers) font une cinquantaine de pages
 - Les raports techniques (TS technical summary) font 150 pages
 - Le GIEC produit aussi des rapports spéciaux (SR) et des rapports méthodologiques (MR) 
-> Ex : [Réchauffement planétaire de 1,5 °C (2018)](https://www.ipcc.ch/sr15/), [Les océans et la cryosphère dans un monde dont le climat change (2019)](https://www.ipcc.ch/srocc/))
+> * Exemples de SR : [Réchauffement planétaire de 1,5 °C (2018)](https://www.ipcc.ch/sr15/), [Les océans et la cryosphère dans un monde dont le climat change (2019)](https://www.ipcc.ch/srocc/))
+> * Exemples de MR :
 - Les scenarios du giec explorent aussi des scénarios d'évolution possibles des sociétés humaines
 > AR6 décrit 5 scenarios possibles (SSP) d'ici la fin du siècle qui décrivent des développements sociaux politiques économiques et technologiques plausibles. Il n'y a pas de probabilités associées à ces scénarios
