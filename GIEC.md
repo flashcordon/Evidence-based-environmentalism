@@ -7,7 +7,7 @@
 
 ---
 
-- Le GIEC est le Groupe Intergouvernemental sur l'Evolution du Climat
+- Le GIEC est le Groupe d'experts intergouvernemental sur l’évolution du climat
 - Il a  été mis en place en 1988 à l'initiative du Programme des Nations Unies pour l’environnement (PNUE) et de l’Organisation météorologique
 mondiale (OMM) lors de la 40e session de la Conférence Mondiale sur le Climat. 
 - Il est créé pour étudier le changement climatique en tant que phénomène socio-politique et plus seulement en tant que phénomène climatique.
