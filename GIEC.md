@@ -16,7 +16,7 @@ mondiale (OMM) lors de la 40e session de la Conférence Mondiale sur le Climat.
 - Le GIEC ne mène pas ses propres recherches.
 - Les rapportsdu giec sont pertinents pour orienter les politiques mais ne sont pas prescriptifs. Ils ne recommandent pas de choix de trajectoire socio-économique spécifiques.
 - En approuvant les rapports du GIEC les gouvernements reconnaissent la légitimité de leur contenu scientifique
-- Le giec est organisé en 3 groupes de travail (WG) 
+- Le GIEC est organisé en 3 groupes de travail (WG) :
 > * WG1 : l'évaluation scientifique du changement climatique
 > * WG2 : évalue la vulnérabilité et l'adaptation des sociétés au changement climatique
 > * WG3 : évalue les options pour atténuer le changement climatique
@@ -24,30 +24,23 @@ mondiale (OMM) lors de la 40e session de la Conférence Mondiale sur le Climat.
 ## Les rapports du GIEC
 
 - Il y a eu 6 rapports du GIEC depuis sa créations. Y en a un a peu près tous les 7 ans. 
-- 1990 : First assessment report (FAR)
+- 1990 : ***First assessment report*** (FAR)
 > constat du réchauffemnt 
-- 1995 : 2nd assessment report (SAR)
+- 1995 : ***2nd assessment report*** (SAR)
 > Conduit au protocole de Kyoto adopté en 1997 et ratifié en 2005 
-- 2001 : 3rd assessment report (TAR)
+- 2001 : ***3rd assessment report*** (TAR)
 > role determinant des activités humaines depuis 1850
-- 2007 : 4th assessment report (AR4)
+- 2007 : ***4th assessment report*** (AR4)
 > Prix Nobel de la paix 
-- 2014 : 5th assessment report (AR5)
+- 2014 : ***5th assessment report*** (AR5)
 > 2°C 
-- 2021 : 6th assessment report (AR6)
+- 2021 : ***6th assessment report*** (AR6)
 > 1.5 °C
-
 - AR6 : 270 auteur.ices, 675 auteur.ices cobtributeur.ices, plus de 34000 publications scientifiques, plus de 62000 commentaires
-
-Les rapoirts complets font plus de 3000 pages
-
-Les rapports pour décideurs (SPM summary for policy makers) font une cinquantaine de pages
-
-Les raports techniques (TS technical summary) font 150 pages
-
-Le giec produit aussi des rapports spéciaux (SR) et des rapports méthodologiques (MR). Ex : ocean et cryosphere, 1.5° C
-
-Les scenarios du giec explorent des scénarios d'évolution possibles des sociétés humaines
-
-AR6 décrit 5 scenarios possibles (SSP) d'ici la fin du siècle qui décrivent des développements sociaux politiques économiques et technologiques plausibles. Y a pas de proba associée à ces scénarios.
-
+- Les rapports complets font plus de 3000 pages
+- Les rapports pour décideurs (SPM summary for policy makers) font une cinquantaine de pages
+- Les raports techniques (TS technical summary) font 150 pages
+- Le GIEC produit aussi des rapports spéciaux (SR) et des rapports méthodologiques (MR) 
+> Ex : ocean et cryosphere, 1.5° C
+- Les scenarios du giec explorent aussi des scénarios d'évolution possibles des sociétés humaines
+> AR6 décrit 5 scenarios possibles (SSP) d'ici la fin du siècle qui décrivent des développements sociaux politiques économiques et technologiques plausibles. Il n'y a pas de probabilités associées à ces scénarios
