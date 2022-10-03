@@ -45,3 +45,8 @@ mondiale (OMM) lors de la 40e session de la Conférence Mondiale sur le Climat.
 > * Exemples de MR : [Révision 2019 de l’édition 2006 des Lignes directrices du GIEC pour les inventaires nationaux de gaz à effet de serre](https://www.ipcc.ch/report/2019-refinement-to-the-2006-ipcc-guidelines-for-national-greenhouse-gas-inventories/)
 - Les scenarios du giec explorent aussi des scénarios d'évolution possibles des sociétés humaines d'ici 2100.
 > AR6 décrit 5 scenarios possibles (appelées Trajectoires socio-économiques partagées, ou SSP en anglais) d'ici la fin du siècle qui décrivent des développements sociaux politiques économiques et technologiques plausibles. Il n'y a pas de probabilités associées à ces scénarios
+> * SSP1 : Durabilité (Prendre la route verte)
+> * SSP2 : Milieu de la route
+> * SSP3 : Rivalités régionales (Une route cahoteuse)
+> * SSP4 : Inégalités (Une route divisée)
+> * SSP5 : Développement alimenté par les combustibles fossiles (Prendre l'autoroute)
