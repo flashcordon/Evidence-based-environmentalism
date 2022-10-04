@@ -53,4 +53,4 @@ mondiale (OMM) lors de la 40e session de la Conférence Mondiale sur le Climat.
 
 *Les scénarios RCP et leurs conséquences sur le réchauffement global (Source : GIEC, [Knutti et Sedláček (2013)](https://www.nature.com/articles/nclimate1716#citeas))*
 
-![RCP](https://i.imgur.com/7XTvk8Z.png)
+![RCP-CO2](https://upload.wikimedia.org/wikipedia/commons/a/ab/All_forcing_agents_CO2_equivalent_concentration.svg) ![RCP-T](https://i.imgur.com/7XTvk8Z.png)
