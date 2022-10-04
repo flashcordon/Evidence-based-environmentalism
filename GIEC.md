@@ -50,3 +50,7 @@ mondiale (OMM) lors de la 40e session de la Conférence Mondiale sur le Climat.
 > * SSP3 : Rivalités régionales (Une route cahoteuse)
 > * SSP4 : Inégalités (Une route divisée)
 > * SSP5 : Développement alimenté par les combustibles fossiles (Prendre l'autoroute)
+
+*Les scénarios RCP et leurs conséquences sur le réchauffement global (Source : GIEC, [Knutti et Sedláček (2013)](https://www.nature.com/articles/nclimate1716#citeas))*
+
+![RCP](https://i.imgur.com/7XTvk8Z.png)
