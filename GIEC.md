@@ -51,6 +51,6 @@ mondiale (OMM) lors de la 40e session de la Conférence Mondiale sur le Climat.
 > * SSP4 : Inégalités (Une route divisée)
 > * SSP5 : Développement alimenté par les combustibles fossiles (Prendre l'autoroute)
 
-*Les scénarios RCP et leurs conséquences sur le réchauffement global (Source : GIEC, [Knutti et Sedláček (2013)](https://www.nature.com/articles/nclimate1716#citeas))*
+*Les scénarios RCP et leurs conséquences sur le réchauffement global (Source : GIEC, [Wikipedia](https://fr.wikipedia.org/wiki/Sc%C3%A9nario_RCP#/media/Fichier:All_forcing_agents_CO2_equivalent_concentration.svg), [Knutti et Sedláček (2013)](https://www.nature.com/articles/nclimate1716#citeas))*
 
 ![RCP-CO2](https://upload.wikimedia.org/wikipedia/commons/a/ab/All_forcing_agents_CO2_equivalent_concentration.svg) ![RCP-T](https://i.imgur.com/7XTvk8Z.png)
