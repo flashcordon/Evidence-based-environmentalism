@@ -46,7 +46,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S0012825220303445#preview-
 https://www.usinenouvelle.com/editorial/l-instant-tech-comment-va-fonctionner-orca-la-plus-grande-usine-de-captage-de-carbone-au-monde-qui-ouvre-ses-portes-en-islande.N1138871 
 https://www.capitaine-carbone.fr/je-minforme/le-blog-du-capitaine/la-premiere-usine-de-captation-de-co2-dans-lair-lancee-en-islande/ 
 https://www.catf.us/fr/2022/04/what-does-latest-ipcc-report-say-about-carbon-capture/ 
-https://www.carbonbrief.org/beccs-the-story-of-climate-changes-saviour-technology/ 
+- [Timeline: How BECCS became climate change’s ‘saviour’ technology](https://www.carbonbrief.org/beccs-the-story-of-climate-changes-saviour-technology/) - Carbon Brief
 https://www.globalccsinstitute.com/wp-content/uploads/2019/03/BECCS-Perspective_FINAL_18-March.pdf 
 https://psci.princeton.edu/tips/2020/11/15/preventing-climate-change-with-beccs-bioenergy-with-carbon-capture-and-storage 
 https://www.usinenouvelle.com/article/ce-que-dit-le-giec-sur-les-technologies-de-captage-de-stockage-et-d-utilisation-de-carbone.N1992672 
@@ -54,11 +54,11 @@ https://report.ipcc.ch/ar6wg3/pdf/IPCC_AR6_WGIII_FinalDraft_FullReport.pdf
 https://vlab.noaa.gov/web/nws-heritage/-/almost-science-fiction-hurricane-modification-and-project-stormfury 
 https://journals.ametsoc.org/view/journals/bams/66/5/1520-0477_1985_066_0505_psasc_2_0_co_2.xml 
 https://youtu.be/pyZCr4j8rCw 
-https://en.wikipedia.org/wiki/Eunice_Newton_Foote
+- [Eunice Newton Foote](https://en.wikipedia.org/wiki/Eunice_Newton_Foote) - Wikipédia
 - [Land Use](https://ourworldindata.org/land-use) - Our world in data
 https://www.polytechnique-insights.com/en/columns/planet/tree-planting-controversy-benefits-for-the-climate-are-grossly-overestimated/ 
 https://www.nature.com/articles/s41467-018-05938-3
-https://time.com/6181214/china-tree-pledge-davos/ 
+- [China’s Big Climate Pledge At Davos Sounds Promising, But Experts Are Skeptical](https://time.com/6181214/china-tree-pledge-davos/) - Time 
 https://inhabitat.com/china-is-fighting-desertification-with-the-great-green-wall-of-trees/ 
 https://earth.org/what-is-the-great-green-wall-in-china/ 
 https://www.economist.com/china/2019/05/18/chinas-desert-taming-green-great-wall-is-not-as-great-as-it-sounds 
