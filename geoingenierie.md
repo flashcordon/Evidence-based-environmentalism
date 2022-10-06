@@ -36,13 +36,13 @@
 - [China Builds One of the World’s Largest Geoengineering Research Programs](https://www.technologyreview.com/2017/08/02/4291/china-builds-one-of-the-worlds-largest-geoengineering-research-programs/) - MIT Technology Review 
 - [The Growing Case for Geoengineering](https://www.technologyreview.com/2017/04/18/152336/the-growing-case-for-geoengineering/) - MIT Technology Review 
 - [Les mécanismes de stabilisation du climat terrestre](https://media4.obspm.fr/public/ressources_lu/pages_planetologie-habitabilite/stabilisation.html) - Observatoire de Paris
-http://geosci.uchicago.edu/~kite/doc/Kasting_2019.pdf
-https://sciencing.com/silicate-weathering-5648916.html 
+- [The Goldilocks Planet? How Silicate Weathering Maintains Earth “Just Right”](http://geosci.uchicago.edu/~kite/doc/Kasting_2019.pdf) - Kasting (2019)
+- [What Is Silicate Weathering?](https://sciencing.com/silicate-weathering-5648916.html) - Sciencing
 https://www.sciencedirect.com/science/article/abs/pii/S0012825220303445#preview-section-references 
-https://youtu.be/i8v3ty4g1vI 
-https://www.technologyreview.com/2022/04/04/1048832/un-climate-report-carbon-removal-is-now-essential/
-https://fr.wikipedia.org/wiki/S%C3%A9questration_du_dioxyde_de_carbone 
-https://fr.wikipedia.org/wiki/Orca_(usine) 
+- [Silicate Weathering explained in less than 2min](https://youtu.be/i8v3ty4g1vI) - The808kauai
+- [UN climate report: Carbon removal is now “essential”](https://www.technologyreview.com/2022/04/04/1048832/un-climate-report-carbon-removal-is-now-essential/) - Technology Review
+- [Séquestration du dioxyde de carbone](https://fr.wikipedia.org/wiki/S%C3%A9questration_du_dioxyde_de_carbone) - Wikipédia
+- [Orca (Usine)](https://fr.wikipedia.org/wiki/Orca_(usine)) - Wikipédia
 https://www.usinenouvelle.com/editorial/l-instant-tech-comment-va-fonctionner-orca-la-plus-grande-usine-de-captage-de-carbone-au-monde-qui-ouvre-ses-portes-en-islande.N1138871 
 https://www.capitaine-carbone.fr/je-minforme/le-blog-du-capitaine/la-premiere-usine-de-captation-de-co2-dans-lair-lancee-en-islande/ 
 https://www.catf.us/fr/2022/04/what-does-latest-ipcc-report-say-about-carbon-capture/ 
