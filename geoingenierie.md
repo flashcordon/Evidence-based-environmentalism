@@ -88,25 +88,13 @@ whether geoengineering—the intentional,
 large-scale alteration of the climate system—
 might be able to limit climate change impacts.
 
-CDR schemes such
-as direct air capture ( 8) or ocean fertilization
-( 9) would remove the cause of climate change.
 - technical challenges and large
 uncertainties surrounding large-scale CDR
 deployment, along with long delays in the climatic
 response to carbon forcing, mean that it
 would take decades to have notable effect ( 4).
-- SRM could substantially infl uence
-the climate in months, but with much
-greater uncertainty about the net effects. SRM
-schemes such as stratospheric aerosols and
-cloud brightening aim to cool the planet by
-refl ecting a fraction of the incoming sunlight
-away from Earth. “Natural experiments” caused
-by volcanoes have demonstrated the rapid
-impact potential of SRM, and such schemes
-should be technically simple to deploy at low
-cost, relative to mitigation ( 3, 4). But SRM
+
+But SRM
 would at best unevenly ameliorate regional climatic
 change and may have serious unintended
 consequences. For example, SRM could produce
@@ -149,17 +137,6 @@ Intervention Technologies in March 2010 will
 bring together ~150 scientists to begin this process.
 However, although necessary, such norms
 are not suffi cient.
-
-- the window for effectively
-mitigating against a two-degree
-rise in global temperatures is extremely
-narrow, and many prominent
-members of the climate science community
-have begun to question whether
-preventing a rise in global temperatures
-of this magnitude (or even
-greater) is possible using existing mitigation
-approaches
 
 Are existing mitigation and adaptation
 policies enough to prevent catastrophic
@@ -244,27 +221,6 @@ coordinated and large-scale attempts
 to engineer the climate raises a host of
 challenging legal, ethical, and social
 questions.
-CDR Techniques
-Chemical air capture and carbon sequestration: There are a number of
-proposals to imitate trees’ sequestration of carbon dioxide from the atmosphere
-by using giant chemical vents to “scrub” the atmosphere. More
-conventional carbon capture and storage (CCS) techniques are currently
-being developed for use on coal-fired power stations.
-O cean fertilization: Plans to “fertilize” the oceans by using particles of
-iron to stimulate algal blooms (which absorb carbon dioxide) have already
-attracted interest from commercial investors, but small scale experiments
-have thus far been unsuccessful.
-Biomass/biochar/biomass with carbon sequestration (BECS): The use
-of biofuels as a substitute for fossil fuels might not seem to qualify as
-geoengineering, but the mass harvesting and sequestration of biomass
-would constitute a major climatic intervention.
-E nhanced weathering: Adding silicate materials to soil would enhance
-weathering processes which naturally sequester CO2, while increasing the
-levels of alkalinity in the ocean would have a similar effect.
-A fforestation: Large-scale ecosystem management at a local and global
-level could provide significant increases in carbon sinks such as forests.
-While few undesirable side effects would be expected, carbon stored in
-vegetation is not securely sequestered in the long term
 
 
 Perhaps the most fundamental question
@@ -589,39 +545,18 @@ provide an opportunity for rapid reduction of global temperatures. However, with
 effort over many decades of implementation, these methods could significantly reduce future
 atmospheric CO2 concentrations. Because of the thermal inertia of the ocean, the decrease in
 surface temperature would lag the decreases
-CDR methods remove atmospheric CO2 and store it in vegetation, soil, oceans, or geological
-reservoirs. They would need to remove several Pg C per year from the atmosphere for at least several
-decades to have a discernible climate effect, and their effectiveness at decreasing atmospheric
-CO2 will depend on storage capacity and storage lifetime. Geological reservoirs are believed to
-have a capacity of several thousand Pg C (Metz et al. 2005), and oceans may be able to store a
-few thousand Pg C in the form of dissolved inorganic carbon for several centuries
-In contrast, the terrestrial biosphere may be
-able to store only ∼150 Pg C
-The first carbon cycle geoengineering proposal was to inject CO2 into the deep ocean
-(Marchetti 1977). CO2 captured at power plants or by air capture can be transported via pipes or
-ships and injected directly into the deep ocean or ocean floor.
+
 Only CDR methods that remove CO2 from a large area and methods that have the potential
 to remove large quantities of CO2 from the atmosphere can be considered geoengineering methods;
 these include afforestation/reforestation, biomass energy with CO2 sequestration (BECS),
 accelerated weathering over land, ocean fertilization, direct injection of CO2 into deep oceans,
 ocean-based enhanced weathering, and direct air capture (Table 2).
+
 The Intergovernmental Panel on Climate Change (IPCC) uses the term mitigation to refer to
 policies to reduce CO2 emissions to the atmosphere or enhance carbon sinks (Metz et al. 2005).
 Because CDR methods remove CO2 from the atmosphere and enhance its storage in land, ocean,
 or geological reservoirs, they can be considered climate change mitigation activities.
-3.2.1. Afforestation/reforestation. Afforestation is the direct human-induced growth of forest
-on land that has not historically been forested. Reforestation is the direct human-induced conversion
-of nonforested land to forested land on land that had been previously converted from forest
-to other uses.
-An ambitious program of reforestation and afforestation could perhaps
-restore to the land biosphere all of the carbon lost through historical deforestation. In this case,
-atmospheric CO2 concentration could potentially be decreased by 40 to 70 ppm by the year 2100
-3.2.2. Biomass energy with CO2 sequestration. It is possible to capture CO2 from electric
-power plants and pump it underground for long-term storage in a deep geologic formation (Metz
-et al. 2005). If this CO2 capture and storage technology were used at an electric power plant
-fueled with biomass, it would serve as a method to remove CO2 from the atmosphere and store
-it permanently underground (Keith et al. 2006, Metz et al. 2005). The deep ocean could also
-potentially be used as a long-term carbon storage site
+
 If 3% of
 the global land area (approximately one-fourth of the global agricultural land area) were used to
 remove atmospheric CO2 using biomass energy with carbon capture and storage, approximately
@@ -647,42 +582,14 @@ CO2. Carbonate minerals such as limestone could be heated to produce lime [Ca(OH
 could be added to the oceans to increase their alkalinity and thereby promote ocean uptake of
 atmosphericCO2 (Kheshgi 1995). Alternatively, carbonateminerals could be directly released into
 the oceans (Harvey 2008, Kheshgi 1995).
-3.2.5. Ocean fertilization. The process of photosynthesis involves the uptake of CO2 and the
-production of organic carbon molecules. Microscopic photosynthetic organisms in surface ocean
-waters (i.e., phytoplankton) produce organic carbon compounds from inorganic carbon that is
-dissolved in sea water. Some of this organic matter sinks into the deep ocean.Thus, phytoplankton
-effectively remove dissolved inorganic carbon from the near-surface ocean and transport organic
-carbon to the deep ocean.
-The basic concept of ocean fertilization as a climate change mitigation strategy is to add
-nutrients to the ocean to increase planktonic productivity and thereby increase both the uptake
-of atmospheric CO2 and the downward flux of carbon out of the ocean’s near-surface layers. Iron
-has been the most widely discussed fertilizer, but other nutrients such as phosphate and nitrogen
-have been considered.
+
 Modeling and experimental investigation of ocean iron fertilization indicate limited potential
 for carbon sequestration (Cao&Caldeira 2010b, Jin et al. 2008, Joos et al. 1991, Peng&Broecker
 1991, Watson et al. 1994). Global model studies show that atmospheric CO2 concentrations
 could be reduced by only 10%, even under highly optimistic assumptions
 fertilization could acidify the deep ocean by storing more CO2 there (Cao & Caldeira 2010b) and
 could increase releases of the greenhouse gasN2O
-3.2.6. Direct capture from air. Direct air capture refers to the capture of CO2 that is produced
-from the ambient air; the method typically employs chemical processes to separate the CO2 from
-the rest of the atmosphere (Metz et al. 2005). The captured CO2 would be transported and used
-for commercial purposes or stored underground in geological reservoirs. Carbon storage in wellchosen
-geological reservoirs appears to be effectively permanent on human timescales (Metz et al.
-2005). Because CO2 makes up approximately 0.04% of the atmosphere and approximately 10% of
-power plant flue gases, it is generally thought that direct air capture would not be able to compete
-economically with capture from power plants in most circumstances.
-Most individualCDRmethods have only marginal potential to affect atmosphericCO2 this century
-(Table 3). In principle, the large-scale application of several approaches could remove up to
-∼150 ppm of CO2 from the atmosphere.
-Only direct air capture in combination with storage in geological reservoirs has the capacity
-to remove a climatically important amount of CO2 from the atmosphere, although the cost of
-deployment at the required scale might be considered prohibitive
-It appears feasible to removeCO2 from the atmosphere and store it in land, oceans, or geological
-reservoirs. However, most of these options are either limited in their capacity or expensive to
-deploy at the scale of global fossil-fuel CO2 emission. Important considerations for evaluating
-CDR methods include the permanence of the storage, the speed at which the system can be
-deployed, storage capacity, and potential adverse side effects
+
 Themain disadvantages of these methods are that they
 are slow acting in the elimination of atmospheric CO2 and they tend to be costly or impossible
 to apply at the scale of global fossil-fuel CO2 emissions. However, if applied on a large scale and
