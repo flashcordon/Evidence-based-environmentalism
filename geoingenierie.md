@@ -35,7 +35,7 @@
 - [China and the blunt temptations of geo-engineering: The role of solar radiation management in China's strategic response to climate change](https://researchers.mq.edu.au/en/publications/china-and-the-blunt-temptations-of-geo-engineering-the-role-of-so) - Kingsley Edney et Jonathan Symons (2014)
 - [China Builds One of the World’s Largest Geoengineering Research Programs](https://www.technologyreview.com/2017/08/02/4291/china-builds-one-of-the-worlds-largest-geoengineering-research-programs/) - MIT Technology Review 
 - [The Growing Case for Geoengineering](https://www.technologyreview.com/2017/04/18/152336/the-growing-case-for-geoengineering/) - MIT Technology Review 
-- https://media4.obspm.fr/public/ressources_lu/pages_planetologie-habitabilite/stabilisation.html 
+- [Les mécanismes de stabilisation du climat terrestre](https://media4.obspm.fr/public/ressources_lu/pages_planetologie-habitabilite/stabilisation.html) - Observatoire de Paris
 http://geosci.uchicago.edu/~kite/doc/Kasting_2019.pdf
 https://sciencing.com/silicate-weathering-5648916.html 
 https://www.sciencedirect.com/science/article/abs/pii/S0012825220303445#preview-section-references 
