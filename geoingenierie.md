@@ -55,7 +55,7 @@ https://vlab.noaa.gov/web/nws-heritage/-/almost-science-fiction-hurricane-modifi
 https://journals.ametsoc.org/view/journals/bams/66/5/1520-0477_1985_066_0505_psasc_2_0_co_2.xml 
 https://youtu.be/pyZCr4j8rCw 
 https://en.wikipedia.org/wiki/Eunice_Newton_Foote
-https://ourworldindata.org/land-use
+- [Land Use](https://ourworldindata.org/land-use) - Our world in data
 https://www.polytechnique-insights.com/en/columns/planet/tree-planting-controversy-benefits-for-the-climate-are-grossly-overestimated/ 
 https://www.nature.com/articles/s41467-018-05938-3
 https://time.com/6181214/china-tree-pledge-davos/ 
@@ -78,7 +78,7 @@ https://egusphere.copernicus.org/preprints/2022/egusphere-2022-827/egusphere-202
 https://bg.copernicus.org/articles/15/5847/2018/ 
 https://www.courrierinternational.com/article/2008/05/22/plus-question-de-fertiliser-les-oceans-avec-du-fer 
 https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/340626.pdf 
-https://www.ocean-climate.org/wp-content/uploads/2015/03/FichesScientifiques-ocean-pompe-carbone.pdf
+- [L’océan, pompe à carbone](https://www.ocean-climate.org/wp-content/uploads/2015/03/FichesScientifiques-ocean-pompe-carbone.pdf) - Ocean Climate
 - [L'eutrophisation](https://planet-vie.ens.fr/thematiques/ecologie/gestion-de-l-environnement-pollution/l-eutrophisation) - Planète Vie 
 
 ---
