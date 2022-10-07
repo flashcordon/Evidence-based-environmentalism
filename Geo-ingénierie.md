@@ -69,15 +69,15 @@
 - [Rapport de Redfield](https://fr.wikipedia.org/wiki/Rapport_de_Redfield) - Wikipédia
 - [Contre le réchauffement climatique : du fer dans les océans](https://www.cite-sciences.fr/archives/science-actualites/home/webhost.cite-sciences.fr/fr/science-actualites/enquete-as/wl/1248115451578/contre-le-rechauffement-climatique-du-fer-dans-les-oceans/index.html) - Cité des sciences
 - [Iron-dumping ocean experiment sparks controversy](https://www.nature.com/articles/545393a) - Tolefson (2017)
-https://www.science.org/doi/10.1126/science.1131669?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed 
-https://www.nature.com/articles/news.2009.13 
-https://www.bco-dmo.org/project/2051 
-https://www.sciencepolicyjournal.org/uploads/5/4/3/4/5434385/rohr_jspg_v15.pdf 
-http://www.homepages.ed.ac.uk/shs/Climatechange/Carbon%20sequestration/Martin%20iron.htm
-https://egusphere.copernicus.org/preprints/2022/egusphere-2022-827/egusphere-2022-827.pdf 
-https://bg.copernicus.org/articles/15/5847/2018/ 
-https://www.courrierinternational.com/article/2008/05/22/plus-question-de-fertiliser-les-oceans-avec-du-fer 
-https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/340626.pdf 
+- [Mesoscale Iron Enrichment Experiments 1993-2005: Synthesis and Future Directions](https://www.science.org/doi/10.1126/science.1131669?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed) - Boyd et al (2007)
+- [Ocean fertilization experiment draws fire](https://www.nature.com/articles/news.2009.13) - Schiermeier (2009)
+- [Project: Southern Ocean Iron Release Experiment](https://www.bco-dmo.org/project/2051) - Biological and Chemical Oceanography Data Management Office
+- [Southern Ocean Iron Fertilization: An Argument Against Commercialization but for Continued Research Amidst Lingering Uncertainty](https://www.sciencepolicyjournal.org/uploads/5/4/3/4/5434385/rohr_jspg_v15.pdf) - Rohr (2019)
+- [The Iron Hypothesis](http://www.homepages.ed.ac.uk/shs/Climatechange/Carbon%20sequestration/Martin%20iron.htm) - Caroline Dopyera, Earth magazine (1996)
+- [Global variability of high nutrient low chlorophyll regions using neural networks and wavelet coherence analysis](https://egusphere.copernicus.org/preprints/2022/egusphere-2022-827/egusphere-2022-827.pdf) - Basterretxea et al (2022)
+- [Reviews and syntheses: Ocean iron fertilization experiments – past, present, and future looking to a future Korean Iron Fertilization Experiment in the Southern Ocean (KIFES) project](https://bg.copernicus.org/articles/15/5847/2018/) - Yoon et al (2018)
+- [GÉO-INGÉNIERIE. Plus question de “fertiliser” les océans avec du fer](https://www.courrierinternational.com/article/2008/05/22/plus-question-de-fertiliser-les-oceans-avec-du-fer) - Courrier International
+- [FERTILISATION DES OCÉANS : ATTÉNUATION DES IMPACTS ENVIRONNEMENTAUX DE LA RECHERCHE SCIENTIFIQUE](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/340626.pdf) - Secrétariat canadien de consultation scientifique (2010)
 - [L’océan, pompe à carbone](https://www.ocean-climate.org/wp-content/uploads/2015/03/FichesScientifiques-ocean-pompe-carbone.pdf) - Ocean Climate
 - [L'eutrophisation](https://planet-vie.ens.fr/thematiques/ecologie/gestion-de-l-environnement-pollution/l-eutrophisation) - Planète Vie 
 
