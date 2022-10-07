@@ -38,14 +38,14 @@
 - [Les mécanismes de stabilisation du climat terrestre](https://media4.obspm.fr/public/ressources_lu/pages_planetologie-habitabilite/stabilisation.html) - Observatoire de Paris
 - [The Goldilocks Planet? How Silicate Weathering Maintains Earth “Just Right”](http://geosci.uchicago.edu/~kite/doc/Kasting_2019.pdf) - Kasting (2019)
 - [What Is Silicate Weathering?](https://sciencing.com/silicate-weathering-5648916.html) - Sciencing
-https://www.sciencedirect.com/science/article/abs/pii/S0012825220303445#preview-section-references 
+- [Silicate weathering as a feedback and forcing in Earth's climate and carbon cycle](https://www.sciencedirect.com/science/article/abs/pii/S0012825220303445#preview-section-references) - Penman et al (2020)
 - [Silicate Weathering explained in less than 2min](https://youtu.be/i8v3ty4g1vI) - The808kauai
 - [UN climate report: Carbon removal is now “essential”](https://www.technologyreview.com/2022/04/04/1048832/un-climate-report-carbon-removal-is-now-essential/) - Technology Review
 - [Séquestration du dioxyde de carbone](https://fr.wikipedia.org/wiki/S%C3%A9questration_du_dioxyde_de_carbone) - Wikipédia
 - [Orca (Usine)](https://fr.wikipedia.org/wiki/Orca_(usine)) - Wikipédia
-https://www.usinenouvelle.com/editorial/l-instant-tech-comment-va-fonctionner-orca-la-plus-grande-usine-de-captage-de-carbone-au-monde-qui-ouvre-ses-portes-en-islande.N1138871 
-https://www.capitaine-carbone.fr/je-minforme/le-blog-du-capitaine/la-premiere-usine-de-captation-de-co2-dans-lair-lancee-en-islande/ 
-https://www.catf.us/fr/2022/04/what-does-latest-ipcc-report-say-about-carbon-capture/ 
+- [Comment va fonctionner Orca, la plus grande usine de captage de carbone dans l'air au monde qui ouvre ses portes en Islande](https://www.usinenouvelle.com/editorial/l-instant-tech-comment-va-fonctionner-orca-la-plus-grande-usine-de-captage-de-carbone-au-monde-qui-ouvre-ses-portes-en-islande.N1138871) - Usine Nouvelle
+- [La première usine de captation de CO2 dans l’air lancée en Islande](https://www.capitaine-carbone.fr/je-minforme/le-blog-du-capitaine/la-premiere-usine-de-captation-de-co2-dans-lair-lancee-en-islande/) - Capitaine Carbone
+- [Que dit le dernier rapport du GIEC sur le captage du carbone ?](https://www.catf.us/fr/2022/04/what-does-latest-ipcc-report-say-about-carbon-capture/) - Clean air task force
 - [Timeline: How BECCS became climate change’s ‘saviour’ technology](https://www.carbonbrief.org/beccs-the-story-of-climate-changes-saviour-technology/) - Carbon Brief
 - [Bioenergy with carbon capture and storage](https://www.globalccsinstitute.com/wp-content/uploads/2019/03/BECCS-Perspective_FINAL_18-March.pdf) - Global CCS Institute (2019)
 - [Preventing Climate Change with BECCS: Bioenergy With Carbon Capture and Storage](https://psci.princeton.edu/tips/2020/11/15/preventing-climate-change-with-beccs-bioenergy-with-carbon-capture-and-storage) - Princeton Student Climate Initiative
