@@ -47,13 +47,13 @@ https://www.usinenouvelle.com/editorial/l-instant-tech-comment-va-fonctionner-or
 https://www.capitaine-carbone.fr/je-minforme/le-blog-du-capitaine/la-premiere-usine-de-captation-de-co2-dans-lair-lancee-en-islande/ 
 https://www.catf.us/fr/2022/04/what-does-latest-ipcc-report-say-about-carbon-capture/ 
 - [Timeline: How BECCS became climate change’s ‘saviour’ technology](https://www.carbonbrief.org/beccs-the-story-of-climate-changes-saviour-technology/) - Carbon Brief
-https://www.globalccsinstitute.com/wp-content/uploads/2019/03/BECCS-Perspective_FINAL_18-March.pdf 
-https://psci.princeton.edu/tips/2020/11/15/preventing-climate-change-with-beccs-bioenergy-with-carbon-capture-and-storage 
-https://www.usinenouvelle.com/article/ce-que-dit-le-giec-sur-les-technologies-de-captage-de-stockage-et-d-utilisation-de-carbone.N1992672 
-https://report.ipcc.ch/ar6wg3/pdf/IPCC_AR6_WGIII_FinalDraft_FullReport.pdf 
-https://vlab.noaa.gov/web/nws-heritage/-/almost-science-fiction-hurricane-modification-and-project-stormfury 
-https://journals.ametsoc.org/view/journals/bams/66/5/1520-0477_1985_066_0505_psasc_2_0_co_2.xml 
-https://youtu.be/pyZCr4j8rCw 
+- [Bioenergy with carbon capture and storage](https://www.globalccsinstitute.com/wp-content/uploads/2019/03/BECCS-Perspective_FINAL_18-March.pdf) - Global CCS Institute (2019)
+- [Preventing Climate Change with BECCS: Bioenergy With Carbon Capture and Storage](https://psci.princeton.edu/tips/2020/11/15/preventing-climate-change-with-beccs-bioenergy-with-carbon-capture-and-storage) - Princeton Student Climate Initiative
+- [Ce que dit le GIEC sur les technologies de captage, de stockage et d'utilisation de carbone](https://www.usinenouvelle.com/article/ce-que-dit-le-giec-sur-les-technologies-de-captage-de-stockage-et-d-utilisation-de-carbone.N1992672) - Usine Nouvelle
+- [Rapport du GIEC AR6 WG III](https://report.ipcc.ch/ar6wg3/pdf/IPCC_AR6_WGIII_FinalDraft_FullReport.pdf) - GIEC
+- [Almost Science Fiction: Hurricane Modification and Project STORMFURY](https://vlab.noaa.gov/web/nws-heritage/-/almost-science-fiction-hurricane-modification-and-project-stormfury) - National Weather Service Heritage
+- [Project STORMFURY: A Scientific Chronicle 1962–1983](https://journals.ametsoc.org/view/journals/bams/66/5/1520-0477_1985_066_0505_psasc_2_0_co_2.xml) -  Willoughby et al (1985)
+- [Can We Weaken a Hurricane with This Chemical? Project Stormfury](https://youtu.be/pyZCr4j8rCw) - BBC Studios
 - [Eunice Newton Foote](https://en.wikipedia.org/wiki/Eunice_Newton_Foote) - Wikipédia
 - [Land Use](https://ourworldindata.org/land-use) - Our world in data
 - [“Benefits of planting trees are grossly overestimated”](https://www.polytechnique-insights.com/en/columns/planet/tree-planting-controversy-benefits-for-the-climate-are-grossly-overestimated/) - Polytechnique Insights
