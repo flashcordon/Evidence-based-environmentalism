@@ -56,19 +56,19 @@ https://journals.ametsoc.org/view/journals/bams/66/5/1520-0477_1985_066_0505_psa
 https://youtu.be/pyZCr4j8rCw 
 - [Eunice Newton Foote](https://en.wikipedia.org/wiki/Eunice_Newton_Foote) - Wikipédia
 - [Land Use](https://ourworldindata.org/land-use) - Our world in data
-https://www.polytechnique-insights.com/en/columns/planet/tree-planting-controversy-benefits-for-the-climate-are-grossly-overestimated/ 
-https://www.nature.com/articles/s41467-018-05938-3
+- [“Benefits of planting trees are grossly overestimated”](https://www.polytechnique-insights.com/en/columns/planet/tree-planting-controversy-benefits-for-the-climate-are-grossly-overestimated/) - Polytechnique Insights
+- [Evaluating climate geoengineering proposals in the context of the Paris Agreement temperature goals](https://www.nature.com/articles/s41467-018-05938-3) - Lawrence et al (2018)
 - [China’s Big Climate Pledge At Davos Sounds Promising, But Experts Are Skeptical](https://time.com/6181214/china-tree-pledge-davos/) - Time 
-https://inhabitat.com/china-is-fighting-desertification-with-the-great-green-wall-of-trees/ 
-https://earth.org/what-is-the-great-green-wall-in-china/ 
-https://www.economist.com/china/2019/05/18/chinas-desert-taming-green-great-wall-is-not-as-great-as-it-sounds 
-https://planet-vie.ens.fr/thematiques/ecologie/cycles-biogeochimiques/role-des-forets-dans-le-bilan-de-carbone-de-la-planete 
-https://unfccc.int/topics/land-use/workstreams/land-use--land-use-change-and-forestry-lulucf 
-https://www.etcgroup.org/sites/www.etcgroup.org/files/publication/pdf_file/ETC_geopiracy_4web.pdf 
-https://www.encyclopedie-environnement.org/eau/phosphore-et-eutrophisation/ 
-https://fr.wikipedia.org/wiki/Rapport_de_Redfield 
-https://www.cite-sciences.fr/archives/science-actualites/home/webhost.cite-sciences.fr/fr/science-actualites/enquete-as/wl/1248115451578/contre-le-rechauffement-climatique-du-fer-dans-les-oceans/index.html 
-https://www.nature.com/articles/545393a 
+- [China is fighting desertification with a Great Green Wall of trees][https://inhabitat.com/china-is-fighting-desertification-with-the-great-green-wall-of-trees/) - Inhabitat
+- [What is the ‘Great Green Wall’ of China?](https://earth.org/what-is-the-great-green-wall-in-china/) - Earth
+- [China’s desert-taming “green Great Wall” is not as great as it sounds](https://www.economist.com/china/2019/05/18/chinas-desert-taming-green-great-wall-is-not-as-great-as-it-sounds) - The Economist 
+- [Rôle des forêts dans le bilan de carbone de la planète](https://planet-vie.ens.fr/thematiques/ecologie/cycles-biogeochimiques/role-des-forets-dans-le-bilan-de-carbone-de-la-planete) - Planète Vie
+- [Land Use, Land-Use Change and Forestry (LULUCF)](https://unfccc.int/topics/land-use/workstreams/land-use--land-use-change-and-forestry-lulucf) - UN Climate Change
+- [Geospiracy : the case against geoingeneering](https://www.etcgroup.org/sites/www.etcgroup.org/files/publication/pdf_file/ETC_geopiracy_4web.pdf) - ETC Group
+- [Phosphore et eutrophisation](https://www.encyclopedie-environnement.org/eau/phosphore-et-eutrophisation/) - Encyclopédie Environnement
+- [Rapport de Redfield](https://fr.wikipedia.org/wiki/Rapport_de_Redfield) - Wikipédia
+- [Contre le réchauffement climatique : du fer dans les océans](https://www.cite-sciences.fr/archives/science-actualites/home/webhost.cite-sciences.fr/fr/science-actualites/enquete-as/wl/1248115451578/contre-le-rechauffement-climatique-du-fer-dans-les-oceans/index.html) - Cité des sciences
+- [Iron-dumping ocean experiment sparks controversy](https://www.nature.com/articles/545393a) - Tolefson (2017)
 https://www.science.org/doi/10.1126/science.1131669?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed 
 https://www.nature.com/articles/news.2009.13 
 https://www.bco-dmo.org/project/2051 
