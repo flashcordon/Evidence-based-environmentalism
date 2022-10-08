@@ -80,6 +80,10 @@
 - [FERTILISATION DES OCÉANS : ATTÉNUATION DES IMPACTS ENVIRONNEMENTAUX DE LA RECHERCHE SCIENTIFIQUE](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/340626.pdf) - Secrétariat canadien de consultation scientifique (2010)
 - [L’océan, pompe à carbone](https://www.ocean-climate.org/wp-content/uploads/2015/03/FichesScientifiques-ocean-pompe-carbone.pdf) - Ocean Climate
 - [L'eutrophisation](https://planet-vie.ens.fr/thematiques/ecologie/gestion-de-l-environnement-pollution/l-eutrophisation) - Planète Vie 
+https://www.reuters.com/article/us-climate-change-geoengineering-sweden-idUSKBN2BN35X
+https://grist.org/science/who-gets-to-decide-if-we-study-solar-geoengineering-after-the-scopex-project-canceled/ 
+https://www.tandfonline.com/doi/abs/10.1080/17524032.2019.1699137?journalCode=renc20& 
+https://www.keutschgroup.com/scopex 
 
 ---
 
