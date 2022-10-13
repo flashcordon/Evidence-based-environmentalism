@@ -94,6 +94,11 @@ https://www.technologyreview.com/2022/07/01/1055324/the-us-government-is-develop
 The new climate war
 https://www.newscientist.com/article/dn21840-controversial-geoengineering-field-test-cancelled/
 http://thereluctantgeoengineer.blogspot.com/2012/05/testbed-news.html
+https://journals.sagepub.com/doi/10.1177/03098168221114386 
+https://mahb.stanford.edu/wp-content/uploads/2015/05/MAHBBlog_DegrowthResponse_CaradonnaEtAl_May20151.pdf 
+http://www.resilience.org/wp-content/uploads/articles/General/2015/05_May/A-Degrowth-Response-to-An-Ecomodernist-Manifesto.pdf 
+https://journals.uair.arizona.edu/index.php/JPE/article/view/23238/0 
+https://books.google.fr/books?hl=fr&lr=&id=Da-hDwAAQBAJ&oi=fnd&pg=PP2&ots=DhSIILmwd7&sig=cqF3GXC3J43W15KuJxRmWowOUAw#v=onepage&q&f=false
 
 ---
 
