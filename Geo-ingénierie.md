@@ -397,26 +397,6 @@ consent is arguably less pressing for
 localised sequestration methods than it
 is for the use of stratospheric aerosols
 
- In mid-September 2011, SPICE announced the go-ahead for the United Kingdom’s first field trial of climate-engi­neering technology. SPICE aims to assess whether the injection of sulphur particles into the stratosphere would mimic the cool­ing effects of volcanic eruptions and provide a possible means to mitigate global warm­ing. An equipment test — spraying water at a height of 1 kilometre — was proposed (see ‘SPICE field trial’). No climate engineering would result from the test, but response to the announcement was dramatic, and the project was soon at the centre of a storm of criticism
-
- Stratospheric Particle Injection for Climate Engineering (SPICE)
-
- On 26 September 2011, the EPSRC, one of the study’s main funders, postponed the trial after a review. Later the same day, the council received a letter and open petition3, also sent to UK energy and climate-change secretary Chris Huhne and signed by more than 50 non-governmental organizations (NGOs) and civil-society organizations, demanding that the project be cancelled. The signatories saw the research as a first, unacceptable step towards a fix that would deflect political and scientific action away from reducing green­house-gas emissions. Others, by contrast, saw the research as urgently needed to find possible ways of coping with climate change4. The question at the heart of this debate was: should work in this controversial field pro­ceed at all, and if so, under what conditions?
-The first category of geoengineering method, solar
-geoengineering (also known as solar radiation management, or SRM),
-raises novel global-scale governance and environmental issues. Some SRM
-approaches are thought to be low in cost, so the scale of SRM deployment
-will likely depend primarily on considerations of risk. The second category of
-geoengineering method, carbon dioxide removal (CDR), raises issues related
-primarily to scale, cost, effectiveness, and local environmental consequences.
-The scale of CDR deployment will likely depend primarily on cost.
-
-
-The UK Royal Society assembled a panel in 2009
-that produced a good summary, including references to issues involving international governance
-and ethics
-Proposals to consider the intentional alteration of climate have raised concerns related to politics,
-policy, governance, and ethics
 Increases in atmospheric CO2 and other greenhouse gases exert a radiative forcing on the climate
 system by making it more difficult for heat to escape to space. SRM/solar geoengineering
 approaches aim to offset this warming influence by reducing the amount of sunlight absorbed by
