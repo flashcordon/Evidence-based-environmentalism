@@ -107,6 +107,7 @@ https://www.barrierreef.org/news/explainers/science-made-simple-what-is-cloud-br
 https://www.wired.co.uk/article/coral-reef-cloud-brightnening-australia 
 https://nap.nationalacademies.org/read/25762/chapter/1 
 https://climate.envsci.rutgers.edu/pdf/20Reasons.pdf
+http://archive.wilsonquarterly.com/essays/climate-engineers
 
 ---
 
