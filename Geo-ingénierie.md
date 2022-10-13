@@ -106,6 +106,7 @@ https://www.scu.edu.au/engage/news/latest-news/2020/scientists-trial-world-first
 https://www.barrierreef.org/news/explainers/science-made-simple-what-is-cloud-brightening 
 https://www.wired.co.uk/article/coral-reef-cloud-brightnening-australia 
 https://nap.nationalacademies.org/read/25762/chapter/1 
+https://climate.envsci.rutgers.edu/pdf/20Reasons.pdf
 
 ---
 
