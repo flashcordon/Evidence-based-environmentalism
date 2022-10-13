@@ -100,6 +100,12 @@ http://www.resilience.org/wp-content/uploads/articles/General/2015/05_May/A-Degr
 https://journals.uair.arizona.edu/index.php/JPE/article/view/23238/0 
 https://books.google.fr/books?hl=fr&lr=&id=Da-hDwAAQBAJ&oi=fnd&pg=PP2&ots=DhSIILmwd7&sig=cqF3GXC3J43W15KuJxRmWowOUAw#v=onepage&q&f=false
 https://reporterre.net/La-Chine-veut-lancer-un-programme-enorme-de-geo-ingenierie-des-pluies
+https://www.nature.com/articles/d41586-021-02290-3
+https://www.scu.edu.au/engage/news/latest-news/2020/scientists-trial-world-first-cloud-brightening-technique-to-protect-corals.php 
+https://www.scu.edu.au/engage/news/latest-news/2020/scientists-trial-world-first-cloud-brightening-technique-to-protect-corals.php 
+https://www.barrierreef.org/news/explainers/science-made-simple-what-is-cloud-brightening 
+https://www.wired.co.uk/article/coral-reef-cloud-brightnening-australia 
+https://nap.nationalacademies.org/read/25762/chapter/1 
 
 ---
 
