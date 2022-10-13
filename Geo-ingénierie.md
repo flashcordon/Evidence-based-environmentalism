@@ -110,6 +110,7 @@ https://climate.envsci.rutgers.edu/pdf/20Reasons.pdf
 http://archive.wilsonquarterly.com/essays/climate-engineers
 https://link.springer.com/article/10.1007/s10584-006-9101-y
 http://cup.columbia.edu/book/fixing-the-sky/9780231144124
+https://history.aip.org/climate/index.htm
 
 ---
 
