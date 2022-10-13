@@ -88,7 +88,7 @@ https://www.technologyreview.com/2009/12/21/207045/the-geoengineering-gambit/
 https://www.colby.edu/sts/06_fleming_pathological.pdf 
 http://www.rbs2.com/w2.htm 
 - [Atmospheric Lifetime of Fossil Fuel Carbon Dioxide](https://www.annualreviews.org/doi/abs/10.1146/annurev.earth.031208.100206) - Archer et al (2009)
-- https://web.northeastern.edu/matthewnisbet/wp-content/uploads/2018/12/Nisbet2018_TheEcomodernists_SkepticalInquirer_.pdf
+- [The Ecomodernists: A New Way of Thinking About Climate Change and Human Progress](https://web.northeastern.edu/matthewnisbet/wp-content/uploads/2018/12/Nisbet2018_TheEcomodernists_SkepticalInquirer_.pdf) - Nisbet (2018)
 http://www.ecomodernism.org/francais 
 https://www.technologyreview.com/2022/07/01/1055324/the-us-government-is-developing-a-solar-geoengineering-research-plan/ 
 The new climate war
