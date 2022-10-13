@@ -84,6 +84,9 @@ https://www.reuters.com/article/us-climate-change-geoengineering-sweden-idUSKBN2
 https://grist.org/science/who-gets-to-decide-if-we-study-solar-geoengineering-after-the-scopex-project-canceled/ 
 https://www.tandfonline.com/doi/abs/10.1080/17524032.2019.1699137?journalCode=renc20& 
 https://www.keutschgroup.com/scopex 
+https://www.technologyreview.com/2009/12/21/207045/the-geoengineering-gambit/ 
+https://www.colby.edu/sts/06_fleming_pathological.pdf 
+http://www.rbs2.com/w2.htm 
 - [Atmospheric Lifetime of Fossil Fuel Carbon Dioxide](https://www.annualreviews.org/doi/abs/10.1146/annurev.earth.031208.100206) - Archer et al (2009)
 
 ---
