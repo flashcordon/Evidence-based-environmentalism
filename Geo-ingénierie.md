@@ -80,13 +80,13 @@
 - [FERTILISATION DES OCÉANS : ATTÉNUATION DES IMPACTS ENVIRONNEMENTAUX DE LA RECHERCHE SCIENTIFIQUE](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/340626.pdf) - Secrétariat canadien de consultation scientifique (2010)
 - [L’océan, pompe à carbone](https://www.ocean-climate.org/wp-content/uploads/2015/03/FichesScientifiques-ocean-pompe-carbone.pdf) - Ocean Climate
 - [L'eutrophisation](https://planet-vie.ens.fr/thematiques/ecologie/gestion-de-l-environnement-pollution/l-eutrophisation) - Planète Vie 
-https://www.reuters.com/article/us-climate-change-geoengineering-sweden-idUSKBN2BN35X
-https://grist.org/science/who-gets-to-decide-if-we-study-solar-geoengineering-after-the-scopex-project-canceled/ 
-https://www.tandfonline.com/doi/abs/10.1080/17524032.2019.1699137?journalCode=renc20& 
-https://www.keutschgroup.com/scopex 
-https://www.technologyreview.com/2009/12/21/207045/the-geoengineering-gambit/ 
-https://www.colby.edu/sts/06_fleming_pathological.pdf 
-http://www.rbs2.com/w2.htm 
+- [Sweden rejects pioneering test of solar geoengineering tech](https://www.reuters.com/article/us-climate-change-geoengineering-sweden-idUSKBN2BN35X) - Reuters (2021)
+- [Why a landmark experiment into dimming the sun got canceled](https://grist.org/science/who-gets-to-decide-if-we-study-solar-geoengineering-after-the-scopex-project-canceled/) - GRIST (2021)
+- [The North–South Divide on Public Perceptions of Stratospheric Aerosol Geoengineering?: A Survey in Six Asia-Pacific Countries](https://www.tandfonline.com/doi/abs/10.1080/17524032.2019.1699137?journalCode=renc20&) - Sugiyama et al (2020)
+- [SCoPEx](https://www.keutschgroup.com/scopex) - Keutsch Group at Harvard
+- [The Geoengineering Gambit](https://www.technologyreview.com/2009/12/21/207045/the-geoengineering-gambit/) - MIT Technology Review (2009)
+- [The pathological history of weather and climate modification: Three cycles of promise and hype](https://www.colby.edu/sts/06_fleming_pathological.pdf) - James R. Flemming (2006) 
+- [History and Problems in Weather Modification](http://www.rbs2.com/w2.htm) - Ronald B. Standler (2002)
 - [Atmospheric Lifetime of Fossil Fuel Carbon Dioxide](https://www.annualreviews.org/doi/abs/10.1146/annurev.earth.031208.100206) - Archer et al (2009)
 - [The Ecomodernists: A New Way of Thinking About Climate Change and Human Progress](https://web.northeastern.edu/matthewnisbet/wp-content/uploads/2018/12/Nisbet2018_TheEcomodernists_SkepticalInquirer_.pdf) - Nisbet (2018)
 http://www.ecomodernism.org/francais 
