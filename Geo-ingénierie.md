@@ -89,22 +89,21 @@
 - [History and Problems in Weather Modification](http://www.rbs2.com/w2.htm) - Ronald B. Standler (2002)
 - [Atmospheric Lifetime of Fossil Fuel Carbon Dioxide](https://www.annualreviews.org/doi/abs/10.1146/annurev.earth.031208.100206) - Archer et al (2009)
 - [The Ecomodernists: A New Way of Thinking About Climate Change and Human Progress](https://web.northeastern.edu/matthewnisbet/wp-content/uploads/2018/12/Nisbet2018_TheEcomodernists_SkepticalInquirer_.pdf) - Nisbet (2018)
-http://www.ecomodernism.org/francais 
-https://www.technologyreview.com/2022/07/01/1055324/the-us-government-is-developing-a-solar-geoengineering-research-plan/ 
-The new climate war
-https://www.newscientist.com/article/dn21840-controversial-geoengineering-field-test-cancelled/
-http://thereluctantgeoengineer.blogspot.com/2012/05/testbed-news.html
-https://journals.sagepub.com/doi/10.1177/03098168221114386 
-https://mahb.stanford.edu/wp-content/uploads/2015/05/MAHBBlog_DegrowthResponse_CaradonnaEtAl_May20151.pdf 
-http://www.resilience.org/wp-content/uploads/articles/General/2015/05_May/A-Degrowth-Response-to-An-Ecomodernist-Manifesto.pdf 
-https://journals.uair.arizona.edu/index.php/JPE/article/view/23238/0 
-https://books.google.fr/books?hl=fr&lr=&id=Da-hDwAAQBAJ&oi=fnd&pg=PP2&ots=DhSIILmwd7&sig=cqF3GXC3J43W15KuJxRmWowOUAw#v=onepage&q&f=false
-https://reporterre.net/La-Chine-veut-lancer-un-programme-enorme-de-geo-ingenierie-des-pluies
-https://www.nature.com/articles/d41586-021-02290-3
-https://www.scu.edu.au/engage/news/latest-news/2020/scientists-trial-world-first-cloud-brightening-technique-to-protect-corals.php 
-https://www.scu.edu.au/engage/news/latest-news/2020/scientists-trial-world-first-cloud-brightening-technique-to-protect-corals.php 
-https://www.barrierreef.org/news/explainers/science-made-simple-what-is-cloud-brightening 
-https://www.wired.co.uk/article/coral-reef-cloud-brightnening-australia 
+- [Le manifeste écomoderniste en français](http://www.ecomodernism.org/francais)
+- [The US government is developing a solar geoengineering research plan](https://www.technologyreview.com/2022/07/01/1055324/the-us-government-is-developing-a-solar-geoengineering-research-plan/) - MIT Technology Review (2022)
+- The new climate war - Michael Mann
+- [Controversial geoengineering field test cancelled](https://www.newscientist.com/article/dn21840-controversial-geoengineering-field-test-cancelled/) - New Scientist (2012)
+- [Testbed news](http://thereluctantgeoengineer.blogspot.com/2012/05/testbed-news.html) - The reluctant geo-engineer
+- [Whose climate intervention? Solar geoengineering, fractions of capital, and hegemonic strategy](https://journals.sagepub.com/doi/10.1177/03098168221114386) - Surprise and Sapinski (2022)
+- [A Degrowth Response to an Ecomodernist Manifesto](https://mahb.stanford.edu/wp-content/uploads/2015/05/MAHBBlog_DegrowthResponse_CaradonnaEtAl_May20151.pdf) - Caradonna et al. (2015)
+- [A Call to Look Past An Ecomodernist Manifesto: A Degrowth Critique](http://www.resilience.org/wp-content/uploads/articles/General/2015/05_May/A-Degrowth-Response-to-An-Ecomodernist-Manifesto.pdf) - Caradonna et al (2015)
+- [Post-environmentalism: origins and evolution of a strange idea](https://journals.uair.arizona.edu/index.php/JPE/article/view/23238/0) - Kallis and Bliss (2019)
+- [Ecomodernism: Technology, Politics and The Climate Crisis](https://books.google.fr/books?hl=fr&lr=&id=Da-hDwAAQBAJ&oi=fnd&pg=PP2&ots=DhSIILmwd7&sig=cqF3GXC3J43W15KuJxRmWowOUAw#v=onepage&q&f=false) - Jonathan Symons (2019)
+- [La Chine veut lancer un programme énorme de géo-ingénierie des pluies](https://reporterre.net/La-Chine-veut-lancer-un-programme-enorme-de-geo-ingenierie-des-pluies) - Reporterre (2020)
+- [Can artificially altered clouds save the Great Barrier Reef?](https://www.nature.com/articles/d41586-021-02290-3) - Nature news (2021)
+- [Scientists trial world-first ‘cloud brightening’ technique to protect corals](https://www.scu.edu.au/engage/news/latest-news/2020/scientists-trial-world-first-cloud-brightening-technique-to-protect-corals.php) - Southern Cross University (2020)
+- [What is cloud brightening?](https://www.barrierreef.org/news/explainers/science-made-simple-what-is-cloud-brightening) - Great Barrier Reef Foundation
+- [Scientists Are Tinkering With Clouds to Save the Great Barrier Reef](https://www.wired.co.uk/article/coral-reef-cloud-brightnening-australia) - Wired (2022)
 https://nap.nationalacademies.org/read/25762/chapter/1 
 https://climate.envsci.rutgers.edu/pdf/20Reasons.pdf
 http://archive.wilsonquarterly.com/essays/climate-engineers
