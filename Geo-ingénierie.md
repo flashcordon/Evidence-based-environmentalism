@@ -104,12 +104,12 @@
 - [Scientists trial world-first ‘cloud brightening’ technique to protect corals](https://www.scu.edu.au/engage/news/latest-news/2020/scientists-trial-world-first-cloud-brightening-technique-to-protect-corals.php) - Southern Cross University (2020)
 - [What is cloud brightening?](https://www.barrierreef.org/news/explainers/science-made-simple-what-is-cloud-brightening) - Great Barrier Reef Foundation
 - [Scientists Are Tinkering With Clouds to Save the Great Barrier Reef](https://www.wired.co.uk/article/coral-reef-cloud-brightnening-australia) - Wired (2022)
-https://nap.nationalacademies.org/read/25762/chapter/1 
-https://climate.envsci.rutgers.edu/pdf/20Reasons.pdf
-http://archive.wilsonquarterly.com/essays/climate-engineers
-https://link.springer.com/article/10.1007/s10584-006-9101-y
-http://cup.columbia.edu/book/fixing-the-sky/9780231144124
-https://history.aip.org/climate/index.htm
+- [Reflecting Sunlight: Recommendations for Solar Geoengineering Research and Research Governance](https://nap.nationalacademies.org/read/25762/chapter/1) - NAS (2021)
+- [20 reasons why geoengineering may be a bad idea](https://climate.envsci.rutgers.edu/pdf/20Reasons.pdf) - Alan Robock (2008)
+- [The Climate Engineers](http://archive.wilsonquarterly.com/essays/climate-engineers) - James Rodger Fleming (2007)
+- [Albedo Enhancement by Stratospheric Sulfur Injections: A Contribution to Resolve a Policy Dilemma?](https://link.springer.com/article/10.1007/s10584-006-9101-y) - Crutzen (2006)
+- [Fixing the Sky : The Checkered History of Weather and Climate Control](http://cup.columbia.edu/book/fixing-the-sky/9780231144124) - James Rodger Fleming 
+- [The Discovery of Global Warming](https://history.aip.org/climate/index.htm) - Spencer Weart 
 
 ---
 
