@@ -1,10 +1,10 @@
 # Compte-rendu de la matinée Exobiologie et climat
 
-Francois forget : comment jjstifier les recherches en exobio face aux crises climatiques et de la biodiversité
+Francois forget : comment justifier les recherches en exobio face aux crises climatiques et de la biodiversité
 
-Message de lexobio :
-La vie est extraordinairement précieuse
-(Passage du non vivant au vivant reste incompris, et pourrait etre le produit d'un hasard exceptionnel, des phénomènes peut etre rares auraient pu maintenir la planète habitable pendant 4 milliards d'années)
+apporte quelques éléments de réflexion au débat.
+
+Les recherches en exobiologie sont porteuses de plusieurs messages forts. D'une part, à l'échelle du cosmos, la vie est extraordinairement précieuse : pour le moment, le passage du non vivant au vivant reste incompris, et de ce que l'on en sait, il pourrait etre le produit d'un hasard exceptionnel.  des phénomènes peut etre rares auraient pu maintenir la planète habitable pendant 4 milliards d'années)
 La vie terrestre est unique a la terre
 Pas de planete b
 Nous sommes tous les passagers du vaisseau terre
