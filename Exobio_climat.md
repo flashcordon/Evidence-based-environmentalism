@@ -2,7 +2,7 @@
 
 Le 20 Octobre dernier a eu lieu [Trop tard pour faire de l’exobio ? Exobiologie et Enjeux Climatiques](https://www.exobiologie.fr/blog/2022/09/13/trop-tard-pour-faire-de-lexobio-exobiologie-et-enjeux-climatiques/). Derrière ce titre intriguant.
 
-- François Forget : comment justifier les recherches en exobiologie face aux crises climatiques et de la biodiversité ?
+## François Forget : Peux t’on justifier les recherches en exobiologie et planétologie face à la crise climatique ?
 
 Dans certains cercles, l'exploration scientifique des planètes a mauvaise presse. Pourquoi envoie t-on autant de fusées polluantes dans l'espace, et pourquoi dépense t-on autant d'argent public pour dénicher d'hypothétiques traces de vie ailleurs, alors même que la biodiversité s'érode aujourd’hui sur Terre ? François Forget entend apporter quelques éléments de réponse face à cette remarque qui revient souvent dans le débat public. Selon lui, les recherches en exobiologie sont porteuses de plusieurs messages forts. Tout d'abord, s'il est encore impossible de savoir à quel point la vie est un phénomène commun à l'échelle du cosmos, on peut néanmoins affirmer, à la lumière des connaissances actuelles, que la vie terrestre est unique en son genre, et par conséquent extraordinairement précieuse : quelque soit ce que l'on trouve ailleurs dans l'univers, ***il n'y aura pas de planète B***. D'autre part, dans le cadrage-même de ses questionnements, l'exobiologie promeut une vision unifiée du vivant sur Terre, et conçoit notre planète comme un vaisseau spatial dont nous sommes tou.te.s les passagers.
 
@@ -22,10 +22,11 @@ En guise de conclusion, Forget met l’accent sur la popularité des thèmes de 
 
 *Note de Sébastien* : cette vision du ["vaisseau Terre"](https://en.wikipedia.org/wiki/Spaceship_Earth) a dominé l'imaginaire de l'environnementalisme américain des années 60. On retrouve cette vision dans les discours de l'ambassadeur américain aux Nations Unies Adlai Stevenson, dans les écrits de James Lovelock, ou encore de l'économiste Kenneth Boulding. Un jardin céleste dont nous serions les jardiniers. Dans son essai "Une écologie décoloniale", le philosophe Malcolm Ferdinand, vision surplombante, globalisante. Une telle vision a tendance à effacer les rapports de domination qui s'exercent entre les pays du Nord et les pays du Sud. Ex : Chinese Eye Sky ?
 
-Jurgen knodlseder
-L'empreinte carbone des infrastructures de recherche en astronomie
+## Jurgen Knödlseder : L’empreinte carbone des infrastructures de recherche en astronomie
 
 Martin et al (2022). Arxiv:2204.12362
+
+Dans [un article paru dans la revue Nature](https://www.nature.com/articles/s41550-022-01612-3) qui a fait grand bruit,
 
 Empreinte moyenne d'un astronome : 52 tCO2e/an
 
