@@ -4,8 +4,7 @@ Francois forget : comment justifier les recherches en exobio face aux crises cli
 
 apporte quelques éléments de réflexion au débat.
 
-Les recherches en exobiologie sont porteuses de plusieurs messages forts. Tout d'abord, s'il est encore impossible de savoir à quel point la vie est un phénomène commun à l'échelle du cosmos, on peut néanmoins affirmer, à la lumière des connaissances actuelles, que la vie terrestre est unique en son genre, et par conséquent extraordinairement précieuse. Quelque soit ce que l'on trouve ailleurs dans l'univers, il n'y aura pas de planète B. Dans le cadrage même de ses questionnements, l'exobiologie promeut 
-Nous sommes tous les passagers du vaisseau terre
+Les recherches en exobiologie sont porteuses de plusieurs messages forts. Tout d'abord, s'il est encore impossible de savoir à quel point la vie est un phénomène commun à l'échelle du cosmos, on peut néanmoins affirmer, à la lumière des connaissances actuelles, que la vie terrestre est unique en son genre, et par conséquent extraordinairement précieuse. Quelque soit ce que l'on trouve ailleurs dans l'univers, il n'y aura pas de planète B. Dans le cadrage même de ses questionnements, l'exobiologie promeut une vision unifiée du vivant sur Terre, et voit notre planète comme un vaisseau spatial dont nous sommes tou.te.s les passagers.
 
 *Note de Sébastien* : cette vision du ["vaisseau Terre"](https://en.wikipedia.org/wiki/Spaceship_Earth) a dominé l'imaginaire de l'environnementalisme américain des années 60. On retrouve cette vision dans les discours de l'ambassadeur américain aux Nations Unies Adlai Stevenson, dans les écrits de James Lovelock, ou encore de l'économiste Kenneth Boulding. Dans son essai "Une écologie décoloniale", le philosophe Malcolm Ferdinand, vision surplombante, globalisante. Une telle vision a tendance à effacer les rapports de domintion qui s'exercent.
 
