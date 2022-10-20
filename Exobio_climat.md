@@ -1,5 +1,7 @@
 # Compte-rendu de la matinée Exobiologie et climat
 
+Le 20 Octobre dernier a eu lieu [Trop tard pour faire de l’exobio ? Exobiologie et Enjeux Climatiques](https://www.exobiologie.fr/blog/2022/09/13/trop-tard-pour-faire-de-lexobio-exobiologie-et-enjeux-climatiques/). Derrière ce titre intriguant.
+
 - François Forget : comment justifier les recherches en exobiologie face aux crises climatiques et de la biodiversité ?
 
 Dans certains cercles, l'exploration scientifique des planètes a mauvaise presse. Pourquoi envoie t-on autant de fusées polluantes dans l'espace, et pourquoi dépense t-on autant d'argent public pour dénicher d'hypothétiques traces de vie ailleurs, alors même que la biodiversité s'érode aujourd’hui sur Terre ? François Forget entend apporter quelques éléments de réponse face à cette remarque qui revient souvent dans le débat public. Selon lui, les recherches en exobiologie sont porteuses de plusieurs messages forts. Tout d'abord, s'il est encore impossible de savoir à quel point la vie est un phénomène commun à l'échelle du cosmos, on peut néanmoins affirmer, à la lumière des connaissances actuelles, que la vie terrestre est unique en son genre, et par conséquent extraordinairement précieuse : quelque soit ce que l'on trouve ailleurs dans l'univers, ***il n'y aura pas de planète B***. D'autre part, dans le cadrage-même de ses questionnements, l'exobiologie promeut une vision unifiée du vivant sur Terre, et conçoit notre planète comme un vaisseau spatial dont nous sommes tou.te.s les passagers.
