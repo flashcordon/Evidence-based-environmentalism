@@ -6,8 +6,7 @@ Dans certains cercles, l'exploration scientifique des planètes a mauvaise press
 
 *Note de Sébastien* : cette vision du ["vaisseau Terre"](https://en.wikipedia.org/wiki/Spaceship_Earth) a dominé l'imaginaire de l'environnementalisme américain des années 60. On retrouve cette vision dans les discours de l'ambassadeur américain aux Nations Unies Adlai Stevenson, dans les écrits de James Lovelock, ou encore de l'économiste Kenneth Boulding. Dans son essai "Une écologie décoloniale", le philosophe Malcolm Ferdinand, vision surplombante, globalisante. Une telle vision a tendance à effacer les rapports de domintion qui s'exercent.
 
-Qu'apporte la planeto ?
-Pour mieux comprendre la terre dans son contexte plus large : paléontologie comparée. Ca permet de généraliser des concepts
+Forget avance que la planétologie nous permet de comprendre la Terre dans un contexte plus large : paléontologie comparée. Ca permet de généraliser des concepts
 De la même manière qu'on fait de l'anatomie comparée avec les animaux
 On etudie des effets subtiles sur terre mais majeurs ailleurs. Ex classique : la chimie du chlore sut venus permet de reveler le role des cfc comme catalyseyr pour détruire l'ozone sur terre (molina et rowland 1974, prix nobel 1995)
 Ça peut inspirer de nouvelles idées, par ex pour reveler des dangers pour la terre. Ex désuet : tempete globale de poussière sur mars -> l'hiver nucleaire de carl sagan. Ca a joué un rôle majeur dans le désarmementnucléaire sur terre
