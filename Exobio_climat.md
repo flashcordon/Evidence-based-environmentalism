@@ -2,7 +2,7 @@
 
 Francois forget : comment justifier les recherches en exobio face aux crises climatiques et de la biodiversité
 
-Dans certains cercles, l'exploration spatiale a mauvaise presse. Les fusées polluantes. Pourquoi tant d'argent public *gaspillé* pour chercher des traces de vie ailleurs alors que nous avons tant de problèmes sur Terre ? Forget apporte quelques éléments de réflexion à ce débat.
+Dans certains cercles, l'exploration spatiale a mauvaise presse. Les fusées polluantes. Pourquoi tant d'argent public *gaspillé* pour chercher des traces de vie ailleurs alors que la biodiversité s'érode en ce moment-même sur Terre ? Forget apporte quelques éléments de réflexion à ce débat.
 
 Les recherches en exobiologie sont porteuses de plusieurs messages forts. Tout d'abord, s'il est encore impossible de savoir à quel point la vie est un phénomène commun à l'échelle du cosmos, on peut néanmoins affirmer, à la lumière des connaissances actuelles, que la vie terrestre est unique en son genre, et par conséquent extraordinairement précieuse. Par conséquent, quelque soit ce que l'on trouve ailleurs dans l'univers, il n'y aura pas de planète B. D'autre part, dans le cadrage même de ses questionnements, l'exobiologie promeut une vision unifiée du vivant sur Terre, et conçoit notre planète comme un vaisseau spatial dont nous sommes tou.te.s les passagers.
 
