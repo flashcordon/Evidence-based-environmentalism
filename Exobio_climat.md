@@ -4,14 +4,12 @@
 
 Dans certains cercles, l'exploration scientifique des planètes a mauvaise presse. Pourquoi envoie t-on autant de fusées polluantes dans l'espace, et pourquoi dépense t-on autant d'argent public pour dénicher d'hypothétiques traces de vie ailleurs, alors même que la biodiversité s'érode auourd'hui sur Terre ? François Forget entend apporter quelques pistes de réflexion à cette remarque qui revient souvent dans le débat public. Selon lui, les recherches en exobiologie sont porteuses de plusieurs messages forts. Tout d'abord, s'il est encore impossible de savoir à quel point la vie est un phénomène commun à l'échelle du cosmos, on peut néanmoins affirmer, à la lumière des connaissances actuelles, que la vie terrestre est unique en son genre, et par conséquent extraordinairement précieuse : quelque soit ce que l'on trouve ailleurs dans l'univers, il n'y aura pas de planète B. D'autre part, dans le cadrage-même de ses questionnements, l'exobiologie promeut une vision unifiée du vivant sur Terre, et conçoit notre planète comme un vaisseau spatial dont nous sommes tou.te.s les passagers.
 
-*Note de Sébastien* : cette vision du ["vaisseau Terre"](https://en.wikipedia.org/wiki/Spaceship_Earth) a dominé l'imaginaire de l'environnementalisme américain des années 60. On retrouve cette vision dans les discours de l'ambassadeur américain aux Nations Unies Adlai Stevenson, dans les écrits de James Lovelock, ou encore de l'économiste Kenneth Boulding. Un jardin céleste dont nous serions les jardiniers. Dans son essai "Une écologie décoloniale", le philosophe Malcolm Ferdinand, vision surplombante, globalisante. Une telle vision a tendance à effacer les rapports de domination qui s'exercent entre les pays du Nord et les pays du Sud. Ex : Chinese Eye Sky ?
-
 Quid de la planétologie ? Selon Forget, cette discipline nous permet de comprendre la Terre dans son contexte cosmique. 
 De la même paléontologie comparée. Ca permet de généraliser des concepts
 De la même manière qu'on fait de l'anatomie comparée avec les animaux
 On etudie des effets subtiles sur terre mais majeurs ailleurs. Ex classique : la chimie du chlore sut venus permet de reveler le role des cfc comme catalyseyr pour détruire l'ozone sur terre (molina et rowland 1974, prix nobel 1995)
 Ça peut inspirer de nouvelles idées, par ex pour reveler des dangers pour la terre. Ex désuet : tempete globale de poussière sur mars -> l'hiver nucleaire de carl sagan. Ca a joué un rôle majeur dans le désarmementnucléaire sur terre
-Autre exemple : grâce à l'étude de Vénus, les scientifiques a pu mettre en evidence le phénomène d'emballement de l'effet de serre (runaway greenhouse). Ma terre est inhabitable si on l'approche de 5% du soleil.
+Autre exemple : grâce à l'étude du climat extrême de Vénus (dont l'atmosphère est composée à 96% de CO2 et dont la température de surface dépasse les 460° C), les scientifiques a pu mettre en evidence le phénomène d'*emballement de l'effet de serre* (runaway greenhouse) : si l'on rapproche la Terre est inhabitable si on l'approche de 5% du soleil.
 Cf article de martin turbet : day night cloud asymetry prevents early oceans on venus but not on earth
 Il existe un autre etat stable de la terre : steam earth, avec toute l'eau des océans qui s'évapore dans l'atmosphère
 Ça permet de tester des outils et concepts. Ex clé : tester les modeles numerique de climat sur les autres planètes (et les paléoclimats)
@@ -20,7 +18,7 @@ Préciser les predictions des modeles reste important
 Ex : que se passe t'il sil on double la quantité de co2 en 2100
 Lexobio et l'exploration spatiale sontdes thèmes privilégiés pour mettre la science en culture
 
-Jean loup bertho
+*Note de Sébastien* : cette vision du ["vaisseau Terre"](https://en.wikipedia.org/wiki/Spaceship_Earth) a dominé l'imaginaire de l'environnementalisme américain des années 60. On retrouve cette vision dans les discours de l'ambassadeur américain aux Nations Unies Adlai Stevenson, dans les écrits de James Lovelock, ou encore de l'économiste Kenneth Boulding. Un jardin céleste dont nous serions les jardiniers. Dans son essai "Une écologie décoloniale", le philosophe Malcolm Ferdinand, vision surplombante, globalisante. Une telle vision a tendance à effacer les rapports de domination qui s'exercent entre les pays du Nord et les pays du Sud. Ex : Chinese Eye Sky ?
 
 Jurgen knodlseder
 L'empreinte carbone des infrastructures de recherche en astronomie
