@@ -110,6 +110,7 @@
 - [Albedo Enhancement by Stratospheric Sulfur Injections: A Contribution to Resolve a Policy Dilemma?](https://link.springer.com/article/10.1007/s10584-006-9101-y) - Crutzen (2006)
 - [Fixing the Sky : The Checkered History of Weather and Climate Control](http://cup.columbia.edu/book/fixing-the-sky/9780231144124) - James Rodger Fleming 
 - [The Discovery of Global Warming](https://history.aip.org/climate/index.htm) - Spencer Weart 
+- [THE POLICY AND SCIENCE OF ROCKET EMISSIONS](https://aerospace.org/sites/default/files/2018-05/RocketEmissions_0.pdf) - Ross et Vedda (2018)
 
 ---
 
