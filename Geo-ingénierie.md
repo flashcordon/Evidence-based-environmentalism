@@ -111,6 +111,7 @@
 - [Fixing the Sky : The Checkered History of Weather and Climate Control](http://cup.columbia.edu/book/fixing-the-sky/9780231144124) - James Rodger Fleming 
 - [The Discovery of Global Warming](https://history.aip.org/climate/index.htm) - Spencer Weart 
 - [THE POLICY AND SCIENCE OF ROCKET EMISSIONS](https://aerospace.org/sites/default/files/2018-05/RocketEmissions_0.pdf) - Ross et Vedda (2018)
+- [Forçage radiatif : à la base du changement climatique](https://bonpote.com/forcage-radiatif-a-la-base-du-changement-climatique/) - Bon Pote
 
 ---
 
