@@ -25,63 +25,15 @@ En guise de conclusion, Forget met l’accent sur la popularité des thèmes de 
 *Note de Sébastien* : cette vision du ["vaisseau Terre"](https://en.wikipedia.org/wiki/Spaceship_Earth) a dominé l'imaginaire de l'environnementalisme américain des années 60. On retrouve cette vision dans les discours de l'ambassadeur américain aux Nations Unies Adlai Stevenson, dans les écrits de James Lovelock, ou encore de l'économiste Kenneth Boulding. Un jardin céleste dont nous serions les jardiniers. Dans son essai "Une écologie décoloniale", le philosophe Malcolm Ferdinand, vision surplombante, globalisante. Une telle vision a tendance à effacer les rapports de domination qui s'exercent entre les pays du Nord et les pays du Sud. Ex : Chinese Eye Sky ?
 
 ## Jurgen Knödlseder : L’empreinte carbone des infrastructures de recherche en astronomie
+Jürgen Knödlseder est l’un des auteur.ices d’[un article publié en Mars dernier dans la revue Nature astronomy](https://arxiv.org/abs/2201.08748) qui a récemment fait grand bruit dans la communauté astronomique. Dans cet article, ses collaborateur.ices et lui ont tenté une première estimation de l’empreinte environnementale de l’intégralité des infrastructures de recherche en astronomie (note : le terme « infrastructure » désigne ici les télescopes spatiaux et au sol, ainsi que les sondes spatiales). Une tâche particulièrement difficile à accomplir, étant donné le  manque criant de données publiques de la part des organisations astronomiques sur leurs émissions de gaz à effet de serre. 
 
-Martin et al (2022). Arxiv:2204.12362
+Évaluer l’empreinte environnementale des observatoires consiste à recenser l’intégralité des flux de matière et d'énergie dont l’activité des astronomes travaillant dans ces observatoires dépend. En d’autres termes, il s’agit de réaliser une [analyse du cycle de vie](https://expertises.ademe.fr/economie-circulaire/consommer-autrement/passer-a-laction/dossier/lanalyse-cycle-vie/quest-lacv) de ces infrastructures. 
 
-Dans [un article paru dans la revue Nature](https://www.nature.com/articles/s41550-022-01612-3) qui a fait grand bruit,
+En extrapolant les résultats de l’analyse du cycle de vie d’un échantillon de 85 infrastructures astronomiques, les auteur.ices de l’article concluent que l’ensemble des infrastructures contemporaines de recherche en astronomie émettent chaque année plus d’un million de tonnes équivalent CO2, ce qui représente une empreinte d’environ 36 tonnes équivalent CO2 par astronome par an (un nombre qui peut monter à 60 tonnes si l’on inclut les émissions associées au style de vie moyen d’un.e astronome). La conclusion est assez embarrassante : les observatoires (au sol et dans l’espace) représentent donc LA contribution majeure à l’empreinte carbone des astronomes. 
 
-Empreinte moyenne d'un astronome : 52 tCO2e/an
+> Note personnelle : à titre de comparaison, [selon un rapport du laboratoire des inégalités mondiales publié en 2019](https://wid.world/news-article/climate-change-the-global-inequality-of-carbon-emissions/), les 10 % les plus riches de la planète émettent en moyenne 31 tonnes de CO2 par personne et par an, contre 1,6 tonnes pour les 50 % les plus pauvres. 
 
-Les voyages pro représentent près de 16% des émissions
-Les télescopes et les sondes représentent 38%
-
-Infrastructures : télescopes spatiaux et au sol, et sondes spatiales
-
-Le bilan carbone inclut les flux de matière et d'énergie dont notre activité dépend. i.e sans ces flux l'activité s'arrête
-
-Leurs résultats sont des limites basses, à cause des limites de l'estimation
-
-1 ariane 5 a un cout co2e de 30 000 tonnes (comprend la construction et le lancement)
-
-Les lancements ont un impact sur la couche d'ozone
-
-Les lancements de fusée sont une experience incontrôlée de geoingénierie parce que les boosters éjectent des aerosols d'aluminium dans l'atmosphère
-
-Dans l'étude il y a des données qui manquent. Leur contribution a donc été éludée. Estimation basse donc.
-
-Ils ont réalisé des estimations des empreintes cycle de vie de 85 infrastructures d'astronomie
-
-Résultats agrégés : 532+-106 ktCO2e/an
-
-On peut extrapoler ces résultats à toutes les infrastructures du monde
-
-Résultat  : 1283+-232 ktCO2e/an
-
-Un astronome moyen a une empreinte de 36.6+-14 kt/an
-
-Si on inclut son style de vie en plus, on arrive à 60tCO2e/an
-
-Pour meet les accords de paris, il faut réduire à 2tCO2e/humain d ici 2050
-
-Hickel lancet planet health 2020
-
-Action : il faut faire ub plan d'action chiffré et rendre les données publiques
-
-L'eso est un exemple de transparence. Ils ont fait leur bilan carbone, l'ont rendu publique et ont mis en place un plan d'action pour décarbonner
-
-About-eso/green/
-
-Par contre pas de chiffrage pour la construction de l'elt
-
-C'est difficile de décarboner si on reste dans une croissance des infrastructures
-
-Il faut donc réduire la vitesse a laquelle on developpe des infrastructures et qu'on décarbonise les infrastructures actuelles
-
-En tant que communauté, nous devons être responsables et exemplaires. Il faut reconnaître notre responsabilité.
-
-Il faut que la decarbonisation soit une priorité de financement. Ce n'est absolument pas financé aujourd'hui, même pas à l'eso.
-
-Y a 30 000 astronomes dans le monde
+Pour limiter le réchauffement climatique à 1,5°C et respecter ainsi l’objectif fixé par les États lors de l’Accord de Paris, chaque personne sur terre ne devrait pas émettre (en moyenne) plus de 2 tonnes de CO2 par an d’ici 2030. Selon Knödlseder, la communauté astronomique a donc un devoir d’exemplarité dans la gestion de ses propres émissions de gaz à effets de serre. Elle doit reconnaître sa responsabilité et agir en conséquence, en œuvrant à la décarbonisation des infrastructures de recherche actuelles, mais aussi en réduisant la vitesse à laquelle les infrastructures à venir se développent. Dans cette quête, les bonnes volontés individuelles des astronomes ne suffiront pas : non seulement la décarbonisation doit absolument devenir une priorité de financement pour les organismes de la recherche dans les années à venir (ce qui n’est envisagé par aucun organisme de recherche aujourd’hui), mais des plans d’actions aux objectifs chiffrés doivent être mis en place, et les résultats de ces plans doivent être rendus publiques. Pour le moment, rares sont les organismes de recherches à s’être lancés dans une telle entreprise. Une exception notable est l’ESO : depuis quelques années, l’observatoire européen austral réalise ainsi [son bilan carbone annuel](https://www.eso.org/public/france/about-eso/green/), et a mis en place un plan d'action pour décarboner au maximum ses activités. 
 
 Hervé Philippe, phylogénomicien : La recherche peut elle sauver l'environnement ?
 
