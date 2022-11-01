@@ -67,37 +67,17 @@ Le doute scientifique peut être instrumentalisé facilement par des lobbys
 
 Il faut repenser notre rapport a la science.
 
-Patrick hennebelle : présentation du collectif labo 1.5
+## Patrick Hennebelle : Présentation du collectif « Labo 1.5 »
 
-Labos1point5.org
+[Labos 1.5](https://labos1point5.org/) est un collectif né en mars 2019 à l’initiative de Tamara Ben-Ari, chercheuse à l’INRAE, et d’Olivier Berné, astrophysicien à l’IRAP. Il réunit des membres du monde académique, de toutes disciplines et à travers la France, dans le but de mieux comprendre et réduire l'impact des activités de recherche scientifique sur l'environnement, en particulier sur le climat. Les activités de « Labos 1.5 » sont désormais organisées au sein d’un Groupement De Recherche soutenu par le CNRS, l’INRAE, l’ADEME et l'INRIA.
 
-Collectif lancé en 2019 a linitiative de tamara ben ari et olivier berné
+L’une des actions majeures du collectif est d’avoir mis à disposition de la communauté scientifique [***GES 1point5***](https://labos1point5.org/ges-1point5), un outil en ligne libre et gratuit permettant aux laboratoires de calculer l’empreinte carbone et de construire le bilan gaz à effet de serre. Cet outil a dores et déjà permis de réaliser plus de 900 bilans GES dans plus de 500 laboratoires à travers la France. La collecte de données qui en a résulté a permis au collectif de réaliser une étude à l’échelle nationale relative à l’empreinte carbone de la recherche publique. Cette étude n’est pas encore publiée, mais les résultats préliminaires sont déjà clairs : si de grandes disparités d’émissions entre les laboratoires existent, ***le bilan GES global des laboratoires est aujourd’hui très largement dominé par les achats divers***, mais aussi (dans une moindre mesure) ***par le chauffage et les déplacements en avion et en voiture***. Voilà donc les leviers d’actions les plus efficaces à ce jour pour décarboner le monde de la recherche.
 
-Asso loi 1901 et devenu groupement de recherche
+Le collectif entend aussi accompagner les laboratoires dans leur transition écologique, et a déjà initié une phase de test entre juin 2021 et août 2022 auprès d’une vingtaine de laboratoires pilotes. À terme, l’objectif est de produire un kit d’action qui sera diffusé dans les mois à venir afin d’initier un mouvement de laboratoires en transition. 
 
-A pour tutelle le cnrs linrae lademe et autres
+En parallèle, une équipe de réflexion composée d'expert.es a été établie pour organiser les débats de fond dans le monde de la recherche autour des enjeux techniques, politiques et sociaux de la transition écologique. Elle organise notamment des cycles saisonniers de séminaires dans le but de former les chercheur.es à ces questions et de développer une culture commune. Les rediffusions de ces séminaires sont disponibles [sur la chaîne Peertube du collectif](https://tube.nuagelibre.fr/video-channels/labos1point5_channel/videos?a-state=42).
 
-Fournit un outil libre gratuit et en ligne qui permet aux labos d'estimer leur empreinte carbone
-
-722 bilans effectues dans 435 labos
-
-Les achats, le chauffage et les déplacements (avion, voiture) dominent l empreinte carbone.
-
-Les achats dominent de loin dans les résultats préliminaires
-
-Y a une grande disparité d'émissions entre les labos
-
-Y a une vingtaine de labos pilote pour faire une transition écolo accompagné par le collectif
-
-Ça mènera à un kit d'action et une phase de déploiement du kit
-
-Y a des ressources en ligne à disposition des chercheurs
-
-Une équipe de réflexion composée d'expert.es a été établie pour les debats de fond
-
-Organise des cycles de seminaires pour accumuler la culture néessaire pour effectuer la transition. Thèmes : techni et sobriété, sensibilisation et dissémination, ethique environnementale, effets rebonds
-
-Dominique bourg : imaginer la science du futur
+## Dominique Bourg : imaginer la science du futur
 
 La chute du ciel : dialogie entre un chamane yanomami et un anthropologue belge
 
