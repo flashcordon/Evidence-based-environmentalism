@@ -67,7 +67,7 @@ Le doute scientifique peut être instrumentalisé facilement par des lobbys
 
 Il faut repenser notre rapport a la science.
 
-## Patrick Hennebelle : Présentation du collectif « Labo 1.5 »
+## Patrick Hennebelle : Présentation du collectif « Labos 1.5 »
 
 [Labos 1.5](https://labos1point5.org/) est un collectif né en mars 2019 à l’initiative de Tamara Ben-Ari, chercheuse à l’INRAE, et d’Olivier Berné, astrophysicien à l’IRAP. Il réunit des membres du monde académique, de toutes disciplines et à travers la France, dans le but de mieux comprendre et réduire l'impact des activités de recherche scientifique sur l'environnement, en particulier sur le climat. Les activités de « Labos 1.5 » sont désormais organisées au sein d’un Groupement De Recherche soutenu par le CNRS, l’INRAE, l’ADEME et l'INRIA.
 
