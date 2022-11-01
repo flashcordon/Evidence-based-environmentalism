@@ -2,7 +2,7 @@
 
 Le 20 Octobre dernier a eu lieu [Trop tard pour faire de l’exobio ? Exobiologie et Enjeux Climatiques](https://www.exobiologie.fr/blog/2022/09/13/trop-tard-pour-faire-de-lexobio-exobiologie-et-enjeux-climatiques/). Derrière ce titre intriguant.
 
-## François Forget : Peux t’on justifier les recherches en exobiologie et planétologie face à la crise climatique ?
+## François Forget : Peut-on justifier les recherches en exobiologie et planétologie face à la crise climatique ?
 
 Dans certains cercles, l'exploration scientifique des planètes a mauvaise presse. "Pourquoi envoie t-on autant de fusées polluantes dans l'espace, et pourquoi dépense t-on autant d'argent public pour envoyer des satellites et des sondes dénicher d'hypothétiques traces de vie ailleurs, alors même que la biodiversité s'érode aujourd’hui sur Terre ?" François Forget entend apporter quelques éléments de réponse face à cette remarque récurrente dans le débat public. 
 
