@@ -114,6 +114,7 @@
 - [Forçage radiatif : à la base du changement climatique](https://bonpote.com/forcage-radiatif-a-la-base-du-changement-climatique/) - Bon Pote
 - [L'Ethique de la géo-ingénierie](https://unesdoc.unesco.org/ark:/48223/pf0000260465_fre) - Feliciano, Diana (2013)
 - [The Oxford Principles](http://www.geoengineering.ox.ac.uk/www.geoengineering.ox.ac.uk/oxford-principles/principles/index.html) - Oxford Geoengineering Programme (2009)
+- [La géo-ingénierie face aux changements climatiques : Enjeux épistémologiques, politiques et éthiques](https://www.uqar.ca/uqar/recherche/unites_de_recherche/ethos/ethica/vol23no2/8MHParizeau.pdf) - Marie-Hélène Parizeau (2020) 
 
 ---
 
