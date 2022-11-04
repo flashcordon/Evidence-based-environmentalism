@@ -112,6 +112,7 @@
 - [The Discovery of Global Warming](https://history.aip.org/climate/index.htm) - Spencer Weart 
 - [THE POLICY AND SCIENCE OF ROCKET EMISSIONS](https://aerospace.org/sites/default/files/2018-05/RocketEmissions_0.pdf) - Ross et Vedda (2018)
 - [Forçage radiatif : à la base du changement climatique](https://bonpote.com/forcage-radiatif-a-la-base-du-changement-climatique/) - Bon Pote
+- [L'Ethique de la géo-ingénierie](https://unesdoc.unesco.org/ark:/48223/pf0000260465_fre) - Feliciano, Diana (2013)
 
 ---
 
