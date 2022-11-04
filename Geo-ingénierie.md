@@ -668,7 +668,7 @@ gas emissions.
 
 - Illustration : [éruption du mont Pinatubo de 1991](https://fr.m.wikipedia.org/wiki/Fichier:Pinatubo_1991-06-12_%28USGS%29.jpg)
 - Cette méthode consiste à rendre l’atmosphère de la Terre plus réfléchissante, en injectant des aérosols de sulfates (comme du sulfure d’hydrogène ou du dioxyde de soufre) dans les basses couches de la stratosphère à l’aide de ballons, d’avions et/ou de canons d’artillerie.
-- Cette technique, initialement proposée par le prix Nobel de chimie Paul Crutzen en 2006, a été inspirée par les conséquences de l’éruption du Mont Pinatubo aux Philippines en juin 1991. Cette éruption avait injecté un grand nombre d’aérosols dans l’atmosphère et avait refroidi la planète d’un demi-degré l’année suivant l’éruption.
+- Cette technique, initialement proposée par le prix Nobel de chimie Paul Crutzen en 2006, a été inspirée par les conséquences de l’éruption du Mont Pinatubo aux Philippines en juin 1991. Cette éruption avait injecté près de 20 millions de tonnes de dioxyde de soufre dans l’atmosphère et avait refroidi la planète d’un demi-degré l’année suivant l’éruption.
 - Le problème, c’est qu’il existe des processus naturels qui transportent les aérosols hors de la stratosphère en un an à peine. Du coup, pour que cette méthode fonctionne sur le long terme, il faut injecter en permanence des aérosols.
 > On estime que les coûts de fonctionnement d’un tel système pourrait s’élever à plusieurs dizaines de milliards d’euros par an, en se basant sur les avions et l’artillerie actuels. 
 - Une autre conséquence de l’injection de sulfates, c’est qu’elle modifie la chimie de la stratosphère et favorise la destruction de la couche d’ozone dans les régions polaires.
