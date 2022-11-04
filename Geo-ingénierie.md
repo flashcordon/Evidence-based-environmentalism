@@ -801,4 +801,4 @@ Un comité de l'Oxford Geoengineering Programme a soumis en 2009 une série de p
 des résultats ;
 > * évaluation indépendante des impacts ;
 > * gouvernance préalable au déploiement.
-
+- Ces principes ont notamment été approuvés en 2010 par de nombreux chercheurs travaillant sur la géo-ingénierie à l'occasion d'une conférence (Asilomar Conference on Climate Intervention Technologies) organisée dans la ville d'Asilomar en Californie. Un lieu symbolique, puisqu'au même endroit se tenait en 1975 une conférence historique sur les risques posés par les outils émergents de la modification génétique.
