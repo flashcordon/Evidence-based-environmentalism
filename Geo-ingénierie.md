@@ -113,6 +113,7 @@
 - [THE POLICY AND SCIENCE OF ROCKET EMISSIONS](https://aerospace.org/sites/default/files/2018-05/RocketEmissions_0.pdf) - Ross et Vedda (2018)
 - [Forçage radiatif : à la base du changement climatique](https://bonpote.com/forcage-radiatif-a-la-base-du-changement-climatique/) - Bon Pote
 - [L'Ethique de la géo-ingénierie](https://unesdoc.unesco.org/ark:/48223/pf0000260465_fre) - Feliciano, Diana (2013)
+- [The Oxford Principles](http://www.geoengineering.ox.ac.uk/www.geoengineering.ox.ac.uk/oxford-principles/principles/index.html) - Oxford Geoengineering Programme (2009)
 
 ---
 
@@ -790,3 +791,14 @@ gas emissions.
 - Mais le test technique a causé un backlash médiatique, et a fini par être annulé à la suite de protestations en provenance d’organisations environnementales et du peuple Sami, une communauté autochtone d’éleveurs de rennes dont le territoire était utilisé pour réaliser l’expérience. Les représentants du conseil Sami ont mis en avant l’aléa moral que ce type d’expériences peut représenter, ainsi que les risques catastrophiques qu’ils pourraient engendrer s’ils étaient entrepris à plus grande échelle. Pour les Sami, ce « pied dans la porte » vers une solution technocratique était inacceptable, et complètement à rebours des véritables efforts que nous devons collectivement entreprendre pour créer des sociétés en harmonie avec la nature.
 - Les scientifiques d’Harvard ne se laissent pas décourager. Ils ont pour ambition de reprendre leur test plus tard, aux Etats-Unis cette fois.
 - Ce n'est pas la première fois qu'une telle chose arrive. En 2011, un projet de géo-ingénierie solaire britannique nommé SPICE (Stratospheric Particle Injection for Climate Engineering) avait connu le même destin : sous la pression d'une cinquantaine d'ONG et d'associations, le projet avait été retardé, puis annulé à la suite de conflits d'intérêts potentiels entre certains scientifiques du projet (un d'entre eux avait co-signé un brevet sur la technologie d'injection de particules par ballon) et du manque de régulation internationale sur ce type d'entreprise.
+
+# Ethique
+
+Un comité de l'Oxford Geoengineering Programme a soumis en 2009 une série de principes qui devraient guider la gouvernance de la géo-ingénierie : les ***principes d’Oxford***. Ces principes sont les suivants :
+> * régulation de la géo-ingénierie en tant que bien publique ;
+> * participation publique aux décisions prises en matière de géo-ingénierie ;
+> * divulgation des travaux de recherche sur la géo-ingénierie et publication en libre accès
+des résultats ;
+> * évaluation indépendante des impacts ;
+> * gouvernance préalable au déploiement.
+
