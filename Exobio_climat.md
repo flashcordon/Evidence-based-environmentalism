@@ -38,22 +38,18 @@ Pour limiter le réchauffement climatique à 1,5°C et respecter ainsi l’objec
 
 Quel rôle a eu la science dans la dégradation de l'environnement ?
 
-Distingue science galiléenne (compréhension) et science prométhéenne (controle et possession)
+L'UNESCO a récemment déclaré que [l'année 2022 serait "l'année de la science fondamentale pour le développement durable"](https://www.unesco.org/en/year-basic-sciences). Selon l'organisation internationale, la science fondamentale serait absolument vitale pour améliorer la qualité de vie des humains à travers le globe et atteindre les objectifs de développement durable. Mais est-ce vraiment le cas ?
 
-L'UNESCO a récemment déclaré que [l'année 2022 serait "l'année de la science fondamentale pour le développement durable"](https://www.unesco.org/en/year-basic-sciences). Selon l'organisation internationale, la science fondamentale est absolument vitale pour améliorer la qualité de vie des humains à travers le globe et atteindre les objectifs de développement durable. Mais est-ce vraiment le cas ?
+Hervé Philippe propose de tester ce qu'il appelle "***l'hypothèse du savoir***", selon laquelle "une meilleure connaissance scientifique est la clé de la protection de l'environnement". Pour tester cette hyptohèse il a mesuré l'évolution du nombre total d'articles scientifiques en fonction des taux d'émissions de CO2 par humain entre 1975 et 2014 (ce qui correspond à la période ou la question écologique est bien connue), et il observe une corrélation. S'il est bien conscient que corrélation n'implique pas forcément causalité, il argue qu'une bonne partie de nos pratiques scientifiques participent, directement et indirectement, à la dégradation de l'environnement.
 
+Pourquoi la science dégrade l'environnement ?
+La science fournit des outils de domination des humains (à travers la place qu'elle occupe dans le complexe militaro-industriel et les outils de gouvernance de l'appareil étatique) et de la nature (à travers le développement de technologies d'exploitation des ressources naturelles).
+
+Y a aussi des conséquences collatérales :
 On a une economie de la promesse de la part des scientifiques : usine orca, iter. Émissions négatives, énergie propre et inépuisable
-
-Hervé Philippe propose de tester ce qu'il appelle "***l'hypothèse du savoir***", selon laquelle "une meilleure connaissance scientifique est la clé de la protection de l'environnement".
-
-Pour tester cette hyptohese il a mesuré l'évolution du nombre total darticles scientifiqye en fonction des émissions de co2 par humain entre 1975 et 2014 (periode ou la question écologique est bien connue)
-
-Y a une corrélation.
-
-Pourquii na science dégrade l'environnement ?
-La science fournit des outils de domination des hommes (armement, recensement, bureaucratie) et de la nature (technos d'exploitation des ressources)
-
-Y a aussi des conséquences collatérales : il légitime le dogme de na croissance infinie, et fait croitre sa propre empreinte environnementale. (De plus en plus de données, d'expériences, des infrastructured de plus en plus grandes : ex taille des telescopes et des accélerateurs de particules)
+il légitime le dogme de na croissance infinie, 
+etlégitime sa propre croissance
+fait croitre sa propre empreinte environnementale. (De plus en plus de données, d'expériences, des infrastructured de plus en plus grandes : ex taille des telescopes et des accélerateurs de particules)
 
 Le cern utilise 1.3 twh d'électricité, soit autant que les 24 millions d'habitants de madagascar
 
@@ -63,7 +59,7 @@ Rejet de la démocratie : epistemocratie
 
 Le doute scientifique peut être instrumentalisé facilement par des lobbys
 
-Hervé Phillippe appelle à repenser notre rapport à la science.
+Hervé Phillippe appelle à repenser notre rapport à la science, et à distinguer ce qu'il nomme "science galiléenne", basée sur un objectif de compréhension, de la "science prométhéenne", associée à des vélléités de contrôle et de possession.
 
 ## Patrick Hennebelle : Présentation du collectif « Labos 1.5 »
 
