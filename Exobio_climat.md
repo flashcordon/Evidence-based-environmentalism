@@ -36,30 +36,15 @@ Pour limiter le réchauffement climatique à 1,5°C et respecter ainsi l’objec
 
 ## Hervé Philippe, phylogénomicien : La recherche peut elle sauver l'environnement ?
 
-Quel rôle a eu la science dans la dégradation de l'environnement ?
-
 L'UNESCO a récemment déclaré que [l'année 2022 serait "l'année de la science fondamentale pour le développement durable"](https://www.unesco.org/en/year-basic-sciences). Selon l'organisation internationale, la science fondamentale serait absolument vitale pour améliorer la qualité de vie des humains à travers le globe et atteindre les objectifs de développement durable. Mais est-ce vraiment le cas ?
 
-Hervé Philippe propose de tester ce qu'il appelle "***l'hypothèse du savoir***", selon laquelle "une meilleure connaissance scientifique est la clé de la protection de l'environnement". Pour tester cette hyptohèse il a mesuré l'évolution du nombre total d'articles scientifiques en fonction des taux d'émissions de CO2 par humain entre 1975 et 2014 (ce qui correspond à la période ou la question écologique est bien connue), et il observe une corrélation. S'il est bien conscient que corrélation n'implique pas forcément causalité, il argue qu'une bonne partie de nos pratiques scientifiques participent, directement et indirectement, à la dégradation de l'environnement.
+Hervé Philippe propose de tester ce qu'il appelle "***l'hypothèse du savoir***", selon laquelle "une meilleure connaissance scientifique est la clé de la protection de l'environnement". Pour tester cette hypothèse, il a mesuré l'évolution du nombre total d'articles scientifiques en fonction des taux d'émissions de CO2 par humain entre 1975 et 2014 (ce qui correspond à la période à partir de laquelle les enjeux écologiques commencent à être bien connus), et il observe une corrélation. 
 
-Pourquoi la science dégrade l'environnement ?
-La science fournit des outils de domination des humains (à travers la place qu'elle occupe dans le complexe militaro-industriel et les outils de gouvernance de l'appareil étatique) et de la nature (à travers le développement de technologies d'exploitation des ressources naturelles).
+S'il est bien conscient que corrélation n'implique pas forcément causalité, le phylogénomicien avance néanmoins l'idée selon laquelle une bonne partie de nos pratiques scientifiques participent, directement et indirectement, à la dégradation de l'environnement. En effet, la science fournit à la fois des outils de domination des humains (à travers la place qu'elle occupe dans le complexe militaro-industriel et l'appareil étatique) et des outils de domination de la nature (à travers le développement de technologies d'exploitation des ressources naturelles toujours plus efficaces).
 
-Y a aussi des conséquences collatérales :
-On a une economie de la promesse de la part des scientifiques : usine orca, iter. Émissions négatives, énergie propre et inépuisable
-il légitime le dogme de na croissance infinie, 
-etlégitime sa propre croissance
-fait croitre sa propre empreinte environnementale. (De plus en plus de données, d'expériences, des infrastructured de plus en plus grandes : ex taille des telescopes et des accélerateurs de particules)
+Au cours des dernières décennies, l‘empreinte environnementale des recherches scientifiques n’a fait que croître : les scientifiques utilisent des bases de données de plus en plus grandes, et des infrastructures de recherche de plus en plus grandes et de plus en plus gourmandes en ressources et en énergie. Ainsi, le CERN consomme aujourd’hui près de 1.3 TWh d'électricité par an, soit autant que les 24 millions d'habitants de Madagascar. Autre exemple, [la recherche en biologie est responsable de près de 2% de la production de plastique à l’échelle globale](https://www.sciencedaily.com/releases/2015/12/151223221353.htm).
 
-Le cern utilise 1.3 twh d'électricité, soit autant que les 24 millions d'habitants de madagascar
-
-1.8%de na production de plastique est utilisée par la recherche en bio et médicale
-
-Rejet de la démocratie : epistemocratie
-
-Le doute scientifique peut être instrumentalisé facilement par des lobbys
-
-Hervé Phillippe appelle à repenser notre rapport à la science, et à distinguer ce qu'il nomme "science galiléenne", basée sur un objectif de compréhension, de la "science prométhéenne", associée à des vélléités de contrôle et de possession.
+Philippe nous met aussi en garde contre l’idéologie scientiste et techno-solutionniste, qui favorise le rejet de la démocratie en faveur de l’émergence d’une épistémocratie. Cette idéologie est aussi responsable d’une véritable “économie de la promesse”, qui se traduit par une foi sans faille des instances de gouvernance internationale dans l’innovation technologique (centrales à fusion nucléaire pour décarboner la production d’énergie, techniques de géo-ingénierie pour capturer le CO2 de l’air…) et par une légitimation du dogme de la croissance infinie dans un monde aux ressources pourtant finies. Hervé Phillippe appelle donc à repenser notre rapport à la science, et à distinguer ce qu'il nomme "science galiléenne", basée sur un objectif de compréhension du monde, de la "science prométhéenne", associée à des velléités de contrôle et de possession.
 
 ## Patrick Hennebelle : Présentation du collectif « Labos 1.5 »
 
