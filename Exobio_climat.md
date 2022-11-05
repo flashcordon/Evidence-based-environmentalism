@@ -40,13 +40,11 @@ Quel rôle a eu la science dans la dégradation de l'environnement ?
 
 Distingue science galiléenne (compréhension) et science prométhéenne (controle et possession)
 
-Lunesco a décidé que l'année 2022 soit l'année de la sciene fonda, nécessaire pour le développement durable
-
-Autres soutiens symboliques : obama et thungerg
+L'UNESCO a récemment déclaré que [l'année 2022 serait "l'année de la science fondamentale pour le développement durable"](https://www.unesco.org/en/year-basic-sciences). Selon l'organisation internationale, la science fondamentale est absolument vitale pour améliorer la qualité de vie des humains à travers le globe et atteindre les objectifs de développement durable. Mais est-ce vraiment le cas ?
 
 On a une economie de la promesse de la part des scientifiques : usine orca, iter. Émissions négatives, énergie propre et inépuisable
 
-Hypothese du savoir : une meilleure connaissance scientifique est la clé de la protection de l'environnement
+Hervé Philippe propose de tester ce qu'il appelle "***l'hypothèse du savoir***", selon laquelle "une meilleure connaissance scientifique est la clé de la protection de l'environnement".
 
 Pour tester cette hyptohese il a mesuré l'évolution du nombre total darticles scientifiqye en fonction des émissions de co2 par humain entre 1975 et 2014 (periode ou la question écologique est bien connue)
 
@@ -65,7 +63,7 @@ Rejet de la démocratie : epistemocratie
 
 Le doute scientifique peut être instrumentalisé facilement par des lobbys
 
-Il faut repenser notre rapport a la science.
+Hervé Phillippe appelle à repenser notre rapport à la science.
 
 ## Patrick Hennebelle : Présentation du collectif « Labos 1.5 »
 
