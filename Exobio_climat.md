@@ -52,7 +52,7 @@ L’une des actions majeures du collectif est d’avoir mis à disposition de la
 
 Le collectif entend aussi accompagner les laboratoires dans leur transition écologique, et a déjà initié une phase de test entre juin 2021 et août 2022 auprès d’une vingtaine de laboratoires pilotes. À terme, l’objectif est de produire un kit d’action qui sera diffusé dans les mois à venir afin d’initier un mouvement de laboratoires en transition. 
 
-En parallèle, une équipe de réflexion composée d'expert.es a été établie pour organiser les débats de fond dans le monde de la recherche autour des enjeux techniques, politiques et sociaux de la transition écologique. Elle organise notamment des cycles saisonniers de séminaires dans le but de former les chercheur.es à ces questions et de développer une culture commune. Les rediffusions de ces séminaires sont disponibles [sur la chaîne Peertube du collectif](https://tube.nuagelibre.fr/video-channels/labos1point5_channel/videos?a-state=42).
+En parallèle, une équipe de réflexion composée d'expert.es a été établie pour animer les débats de fond dans le monde de la recherche autour des enjeux techniques, politiques et sociaux de la transition écologique. Elle organise notamment des cycles saisonniers de séminaires dans le but de former les chercheur.es à ces questions et de développer une culture commune. Les rediffusions de ces séminaires sont disponibles [sur la chaîne Peertube du collectif](https://tube.nuagelibre.fr/video-channels/labos1point5_channel/videos?a-state=42).
 
 ## Dominique Bourg : imaginer la science du futur
 
