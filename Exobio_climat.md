@@ -2,7 +2,7 @@
 
 Le 20 Octobre dernier a eu lieu [Trop tard pour faire de l’exobio ? Exobiologie et Enjeux Climatiques](https://www.exobiologie.fr/blog/2022/09/13/trop-tard-pour-faire-de-lexobio-exobiologie-et-enjeux-climatiques/). Derrière ce titre intriguant. organisé par la [Société Française d'Exobiologie](https://www.exobiologie.fr/).
 
-## François Forget : Peut-on justifier les recherches en exobiologie et planétologie face à la crise climatique ?
+## François Forget (astrophysicien à l'IPSL) : peut-on justifier les recherches en exobiologie et planétologie face à la crise climatique ?
 
 Dans certains cercles, l'exploration spatiale a mauvaise presse. "Pourquoi envoie t-on autant de fusées polluantes dans l'espace, et pourquoi dépense t-on autant d'argent public pour envoyer des satellites et des sondes dénicher d'hypothétiques traces de vie ailleurs, alors même que la biodiversité s'érode aujourd’hui sur Terre ?" François Forget entend apporter quelques éléments de réponse face à cette remarque récurrente dans le débat public. 
 
@@ -22,7 +22,7 @@ Enfin, la planétologie comparée et les sciences des paléoclimats permettent a
 
 En guise de conclusion, Forget met l’accent sur la popularité des thèmes de l’exploration spatiale et de la recherche de vie ailleurs dans les médias et le débat public. Ces thèmes fascinent les foules, ce qui les rend particulièrement utiles pour mettre les sciences en culture. 
 
-## Jurgen Knödlseder : L’empreinte carbone des infrastructures de recherche en astronomie
+## Jurgen Knödlseder (astrophysicien à l'IRAP) : L’empreinte carbone des infrastructures de recherche en astronomie
 
 Jürgen Knödlseder est l’un des auteur.ices d’[un article publié en Mars dernier dans la revue Nature astronomy](https://arxiv.org/abs/2201.08748) qui a récemment fait grand bruit dans la communauté astronomique. Dans cet article, ses collaborateur.ices et lui ont tenté une première estimation de l’empreinte environnementale de l’intégralité des infrastructures de recherche en astronomie (note : le terme « infrastructure » désigne ici les télescopes spatiaux et au sol, ainsi que les sondes spatiales). Une tâche particulièrement difficile à accomplir, étant donné le  manque criant de données publiques de la part des organisations astronomiques sur leurs émissions de gaz à effet de serre. 
 
