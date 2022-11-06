@@ -60,74 +60,8 @@ Selon Dominique Bourg, l'enjeu du changement climatique n’est rien de moins qu
 
 Un cadre pertinent pour penser l’impact global des activités humaines sur le système Terre est celui des ***limites planétaires***, [proposé en 2009](https://www.nature.com/articles/461472a) par une équipe internationale de chercheur.es dirigée par Johan Rockström et Will Steffen, et [mis à jour en 2015](https://www.science.org/doi/10.1126/science.1259855). Ce cadre définit une collection de seuils à l’échelle mondiale que l’Humanité ne devrait pas dépasser si elle veut continuer à vivre durablement dans un écosystème sûr et relativement stable. ***Sur les 9 seuils identifiés, [6 ont déjà été dépassés](https://theconversation.com/deux-nouvelles-limites-planetaires-franchies-en-2022-de-quoi-parle-t-on-184508)*** (changement climatique, intégrité de la biosphère, perturbation des cycles de l’azote et du phosphore, modification de l’occupation des sols, pollution chimique et utilisation d’eau douce).
 
+Une caractéristique des connaissances de nos sociétés modernes occidentales, c'est qu'elles sont nécessairement partielles, incomplètes. Pourtant, cette incomplétude n'empêche pas d'alimenter notre arrogance, et c’est cette arrogance qui est responsable du dérèglement du système Terre. Bourg donne l’exemple des CFC, que l’on savait inertes chimiquement parlant, mais dont l’utilisation en masse dans les réfrigérateurs et les aérosols en spray a finalement mené à l’érosion de la couche d’ozone au cours des années 70.
 
-La chute du ciel : dialogie entre un chamane yanomami et un anthropologue belge
+Mais notre rapport aux connaissances n’est pas le seul possible. Ainsi, chez les Yanomami, un peuple de chasseurs-cueilleurs situés entre le Sud du Venezuela et le Nord du Brésil, l’intégralité des connaissances sont prescriptives et servent à la protection de leur milieu. Il n’y a donc pas de séparation entre la connaissance et la sagesse. Par exemple, l’idée que certains arbres avaient un rôle majeur à jouer dans l’avènement des pluies [est un savoir traditionnel transmis au travers de la cosmogonie yanomami sous la forme de Maa hi, le grand arbre de la pluie](https://www.researchgate.net/profile/Bruce-Albert-3/publication/334806459_L%27arbre_de_la_pluie_Catalogue_de_l%27exposition_Nous_les_arbres_Fondation_Cartier_12719-101117_pp_66-75/links/5d41a15d299bf1995b5b4dcd/Larbre-de-la-pluie-Catalogue-de-lexposition-Nous-les-arbres-Fondation-Cartier-12-7-19-10-11-17-pp-66-75.pdf). La découverte des propriétés de ces arbres par les colons européens n’a été que bien plus tardive (de nos jours, on sait que ces arbres jouent un rôle dans l'humidité d'un territoire en émettant des aérosols via le phénomène d’évapotranspiration). 
 
-Avant la révolution industrielle on etait à 0.5 TEP. aujourd'hui on est à 4 tep
-
-Le chamane insiste sur la notion de connaissance de la forêt. Toutes les connaissances servent a la protection de leur milieu.
-
-L'idée d'arbre à pluie a été decouverte par les européens avec la colonisation. Ces arbres jouent un role dans l'humidité d'un territoire en émettantdes aérosols à travers levapotranspiration. Mais cette idée est déjà présente chez les yanomamis. C'est un savoir traditionnel
-
-Y a pas de séparation de la connaissance et sagesse
-
-L'enjeu changement climatique est habitabilité de la planete
-
-Y a un effondrement du vivant. Biomasse des vertebrés sauvages de 7%. A verifier.
-
-Nous ne sommes pas dans la 6e extinction mais on y va tout droit
-
-Le cgt climatique est le 3e facteur aujourd'hui de la disparition des espèces, mais il pourrait bien devenir le 1er bientôt
-
-Référentiel des limites planétaires.
-
-9 limites voire 12 aujourd'hui
-
-On a perturbé les cycles biogeochimiques. Carbone, azote, phosphore
-
-On a accumulé des macromolécules que le vivant ne peut pas métaboliser
-
-Cf article de fevrier sur les micropmastiquues
-
-90 milliards de tonnes de plastique ?
-
-Certains sols ne peuvent plus maintenir l'humidité essentielle a la vie
-
-Une caractéristique des connaissances de nos sociétés, c'est qu'elle peut etre partielle/partiale (ex : cfc inerte chimiquement). Elle est aussi incomplète (godel)
-
-Ce que nature sait nicolas bouleau ?
-
-Y a de sacrés trous dans nos connaissances, maisces trous n'empêchent pas d'alimenter notre arrogance
-
-Il faut interpréter différemment nos connaissances
-
-On doit privilégier les sciences du diagnostic (giec, ipbes...) par rapport aux sciences agissantes
-
-Il faut substituer a l'arrogance habituel à la prudence.
-
-La question de interdisciplinarité est fondamentale
-
-Il faut réinscrure la culture scientifique dans l'ensemble de la culture
-
-Table ronde
-Animee par puri et hervé
-Avec tous les intervenants
-
-Dans les peuples autochtones y a une division du travail moindre que dqns nos sociétés (cf graeber et wengrow)
-
-Les mythes contiennent un prescriptifs pour le milieu
-
-Jorgen : c'est pas un pb scientifique mais politique. Ça concerne l'organisation de la Société
-
-La science reflète la Société au sens large
-
-Cottin : aujourd'hui laccent est mis sur la competition exacerbée. Appels d'offre, classement de shangai. Quel levier imaginer pour stopper cette frénésie ?
-
-Jorgen : toutes les activités humaines contribuent au changement climatique.
-Les chercheurs ont une liberté extrême par rapport a d'autres metiers (lorsquils ont un poste fixe). Ça leur donne une responsabilité encore plus importante de bifurquer et a penser la recherche autrement.
-
-La fabrique des questions simples pablo jensen
-
-Ecopol paris
-
-Journée des savoirs engagés
+Dominique Bourg appelle les scientifiques à remplacer l'arrogance habituelle par la prudence, et à repenser nos relations au vivant et à la connaissance en y incluant une dimension morale. Il invite donc à privilégier les sciences du diagnostic, forcément interdisciplinaires (dont la pratique est incarnée par des organismes comme le GIEC ou l’IPBES) aux sciences dites “agissantes” (ou “prométhéennes”, pour reprendre la terminologie d’Hervé Philippe). Une initiative allant dans ce sens est "[la Fabrique des questions simples](https://ecoleurbainedelyon.universite-lyon.fr/la-fabrique-des-questions-simples-233379.kjsp)", un incubateur pour une recherche impliquée lancé en 2021 par le physicien Pablo Jensen.
