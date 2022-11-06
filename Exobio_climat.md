@@ -1,6 +1,10 @@
 # Compte-rendu de la matinée Exobiologie et climat
 
-Le 20 Octobre dernier a eu lieu [Trop tard pour faire de l’exobio ? Exobiologie et Enjeux Climatiques](https://www.exobiologie.fr/blog/2022/09/13/trop-tard-pour-faire-de-lexobio-exobiologie-et-enjeux-climatiques/). Derrière ce titre intriguant. organisé par la [Société Française d'Exobiologie](https://www.exobiologie.fr/).
+Le 20 Octobre dernier, un curieux séminaire était organisé par la [Société Française d'Exobiologie](https://www.exobiologie.fr/) dans les locaux de l'Agence spatiale française. [Trop tard pour faire de l’exobio ? Exobiologie et Enjeux Climatiques](https://www.exobiologie.fr/blog/2022/09/13/trop-tard-pour-faire-de-lexobio-exobiologie-et-enjeux-climatiques/). 
+
+A l’occasion de son assemblée générale, la Société Française d’Exobiologie vous invite à une demi-journée de réflexion autour de la place d’un domaine de recherche interdisciplinaire comme l’exobiologie. A un moment où l’urgence climatique est plus pressante que jamais, chaque chercheuse et chercheur est amené à réinterroger ses pratiques et usages scientifiques, voire la légitimité du champ d’application de ses recherches.
+
+Les notions d’habitabilité, d’évolution climatique, sont des thèmes centraux en exobiologie. De ce fait, existe-t-il des liens et des complémentarités entre les approches exobiologiques et celles utilisées par les chercheurs travaillant directement sur les questions du dérèglement climatique sur notre planète et son impact sur sa biodiversité ?
 
 ## François Forget (astrophysicien à l'IPSL) : peut-on justifier les recherches en exobiologie et planétologie face à la crise climatique ?
 
