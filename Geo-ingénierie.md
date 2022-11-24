@@ -115,6 +115,11 @@
 - [L'Ethique de la géo-ingénierie](https://unesdoc.unesco.org/ark:/48223/pf0000260465_fre) - Feliciano, Diana (2013)
 - [The Oxford Principles](http://www.geoengineering.ox.ac.uk/www.geoengineering.ox.ac.uk/oxford-principles/principles/index.html) - Oxford Geoengineering Programme (2009)
 - [La géo-ingénierie face aux changements climatiques : Enjeux épistémologiques, politiques et éthiques](https://www.uqar.ca/uqar/recherche/unites_de_recherche/ethos/ethica/vol23no2/8MHParizeau.pdf) - Marie-Hélène Parizeau (2020) 
+- [Can painting a mountain restore a glacier?](https://www.bbc.com/news/10333304) - BBC
+- [The Great Melt: Accounts from the Frontline of Climate Change](https://books.google.fr/books?id=f1g-EAAAQBAJ&pg=PT75&lpg=PT75&dq=Eduardo+Gold+peru+paint+glacier&source=bl&ots=UIuVSQYOXH&sig=ACfU3U2tSwf_N-4HaEQMPaV9a8nPPm_UXw&hl=fr&sa=X&ved=2ahUKEwiah5jq2un6AhVihc4BHXUBBJI4KBDoAXoECBQQAw#v=onepage&q=Eduardo%20Gold%20peru%20paint%20glacier&f=false) - Alister Doyle (2021)
+- [LAND ART - Contre le réchauffement climatique, peindre les montagnes en blanc](https://www.lemonde.fr/big-browser/article/2012/01/12/land-art-contre-le-rechauffement-climatique-peindre-les-montagnes-en-blanc_5987716_4832693.html) – Le Monde
+- [Peindre les montagnes en blanc pour refroidir l'atmosphère, ça marche !](https://www.futura-sciences.com/planete/actualites/climatologie-peindre-montagnes-blanc-refroidir-atmosphere-ca-marche-35073/) - Futura Sciences
+- [Peindre les montagnes en blanc pour lutter contre le réchauffement climatique](https://www.1jour1actu.com/science-et-environnement/peindre-les-montagnes-en-blanc-pour-lutter-contre-le-rechauffement-climatique) – 1 jour 1 actu
 
 ---
 
@@ -792,6 +797,15 @@ gas emissions.
 - Mais le test technique a causé un backlash médiatique, et a fini par être annulé à la suite de protestations en provenance d’organisations environnementales et du peuple Sami, une communauté autochtone d’éleveurs de rennes dont le territoire était utilisé pour réaliser l’expérience. Les représentants du conseil Sami ont mis en avant l’aléa moral que ce type d’expériences peut représenter, ainsi que les risques catastrophiques qu’ils pourraient engendrer s’ils étaient entrepris à plus grande échelle. Pour les Sami, ce « pied dans la porte » vers une solution technocratique était inacceptable, et complètement à rebours des véritables efforts que nous devons collectivement entreprendre pour créer des sociétés en harmonie avec la nature.
 - Les scientifiques d’Harvard ne se laissent pas décourager. Ils ont pour ambition de reprendre leur test plus tard, aux Etats-Unis cette fois.
 - Ce n'est pas la première fois qu'une telle chose arrive. En 2011, un projet de géo-ingénierie solaire britannique nommé SPICE (Stratospheric Particle Injection for Climate Engineering) avait connu le même destin : sous la pression d'une cinquantaine d'ONG et d'associations, le projet avait été retardé, puis annulé à la suite de conflits d'intérêts potentiels entre certains scientifiques du projet (un d'entre eux avait co-signé un brevet sur la technologie d'injection de particules par ballon) et du manque de régulation internationale sur ce type d'entreprise.
+
+***L’expérience d’Eduardo Gold***
+
+- En 2010, afin de lutter contre la fonte du glacier du Chalon Sombrero (situé à 4700 km d’altitude au Pérou), qui sert de réservoir d’eau pour de nombreux villages, un ingénieur passionné de glaciologie nommé Eduardo Gold s’est lancé dans un projet fou : peindre en blanc plus de 70 hectares de roches (une surface équivalente à 140 terrains de foot), afin de refroidir le sol et d’assurer la survie du glacier.
+> La peinture est composée de chaux et de blancs d’œufs dissous dans l’eau. Elle est jetée au sol à l’aide de gobelets par une poignée de villageois membres de l’ONG Glaciares Peru. C’est un processus laborieux : en 2 semaines, les 4 volontaires ne peuvent pas recouvrir plus de 2 hectares. L’épandage coûte environ 5000 dollars par hectare.
+- La Banque Mondiale a financé le projet de Gold à la hauteur de 200 000 dollars, dans le cadre de son concours  « Cent idées pour sauver la planète » organisé en 2009.
+- Selon Gold, le résultat de son expérience aurait été positif. Il rapporte en effet un refroidissement de 12 à 16°C en moyenne dans les zones peintes, et la réapparition de la glace à certains endroits. Mais ce résultat laisse la plupart des experts sceptiques.
+- Selon les experts, il est possible qu’une telle entreprise puisse avoir un petit impact local, mais elle ne suffira pas à enrayer complètement la fonte du glacier à cause du changement climatique. Sans compter que la pluie a rapidement lavé la peinture, laissant le glacier tout aussi exposé qu’avant.
+- Si une telle expérience était menée à une plus grande échelle, elle pourrait avoir des conséquences désastreuses sur la faune et la flore locale.
 
 # Ethique
 
