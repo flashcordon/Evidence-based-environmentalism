@@ -16,6 +16,7 @@
 - The future is Degrowth
 - La décroissance et ses déclinaisons
 - [1.5 °C degrowth scenarios suggest the need for new mitigation pathways](https://www.nature.com/articles/s41467-021-22884-9) - Keyßer & Lenzen (2021)
+- [Degrowth can work — here’s how science can help](https://www.nature.com/articles/d41586-022-04412-x) - Hickel et al (2022)
 
 ---
 
