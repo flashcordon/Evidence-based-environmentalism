@@ -120,6 +120,11 @@
 - [LAND ART - Contre le réchauffement climatique, peindre les montagnes en blanc](https://www.lemonde.fr/big-browser/article/2012/01/12/land-art-contre-le-rechauffement-climatique-peindre-les-montagnes-en-blanc_5987716_4832693.html) – Le Monde
 - [Peindre les montagnes en blanc pour refroidir l'atmosphère, ça marche !](https://www.futura-sciences.com/planete/actualites/climatologie-peindre-montagnes-blanc-refroidir-atmosphere-ca-marche-35073/) - Futura Sciences
 - [Peindre les montagnes en blanc pour lutter contre le réchauffement climatique](https://www.1jour1actu.com/science-et-environnement/peindre-les-montagnes-en-blanc-pour-lutter-contre-le-rechauffement-climatique) – 1 jour 1 actu
+- [A startup says it’s begun releasing particles into the atmosphere, in an effort to tweak the climate](https://www.technologyreview.com/2022/12/24/1066041/a-startup-says-its-begun-releasing-particles-into-the-atmosphere-in-an-effort-to-tweak-the-climate/) - MIT Technology Review
+- [January 2023 Flights](https://makesunsets.com/blogs/news/january-2023-flights) – Make Sunsets
+- [Inventor in Baja is testing a plan to cool the Earth by mimicking a volcanic eruption](https://www.cnbc.com/2023/01/07/geoengineering-startup-mimicking-volcanic-eruption-to-cool-earth.html) - CNBC
+- [Startup Claims It's Sending Sulfur Into the Atmosphere to Fight Climate Change](https://gizmodo.com/make-sunsets-solar-geoengineering-sulfur-climate-change-1849931460) - Gizmodo
+- [FAQ](https://makesunsets.com/pages/faq) – Make Sunsets
 
 ---
 
