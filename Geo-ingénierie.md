@@ -824,6 +824,15 @@ gas emissions.
 - Selon les experts, il est possible qu’une telle entreprise puisse avoir un petit impact local, mais elle ne suffira pas à enrayer complètement la fonte du glacier à cause du changement climatique. Sans compter que la pluie a rapidement lavé la peinture, laissant le glacier tout aussi exposé qu’avant.
 - Si une telle expérience était menée à une plus grande échelle, elle pourrait avoir des conséquences désastreuses sur la faune et la flore locale.
 
+***Les lancements sauvages de ballons météo de Luke Iseman***
+
+- En 2022, une startup nommée Make Sunsets a annoncé avoir procédé au lancement de deux ballons artisanaux remplis d’hélium et de quelques grammes de particules de dioxyde de soufre dans la stratosphère. Ces lancements auraient été mené depuis la péninsule de Basse Californie située à l’ouest du Mexique, et n’ont été approuvé par aucune instance gouvernementale ou scientifique.
+- Ces lancements ont été vivement critiqué par les critiques de la géo-ingénierie, mais aussi par les chercheurs travaillant déjà sur des projets de géo-ingénierie solaire comme ScoPEx. Pas parce qu’ils représentent un danger environnemental en soi (un vol commercial émet environ 100 grammes de dioxyde de soufre par minute), mais parce qu’ils constituent un dangereux précédent : si Make Sunsets peut balancer des particules soufrer dans l’atmosphère sans répercussions légales, n’importe quelle compagnie ou individu suffisamment fortuné pourrait décider de manière unilatérale de prendre la main sur le thermostat global. Après tout, cette technique de géo-ingénierie solaire est relativement simple et peu chère à mettre en œuvre.
+- Luke Iseman, le PDG de Make Sunsets, a dores et déjà récolté près de 750 000 dollars auprès de Pioneer Fund et Boost VC, deux sociétés de capital risque, et espère vendre des « cooling credits » à 10 dollars par gramme de particule soufrée émise dans la stratosphère.
+> Sur son site, il prétend que sa technique peut complètement stopper le changement climatique actuel pour moins de 50 milliards de dollars par an (12 milliards de particules de SO2 + les coûts de déploiement).
+- Il prévoit aussi d’autres lancements à partir de Janvier 2023, avec des ballons météo plus sophistiqués équipés d’instruments de géolocalisation et de télémétrie, ainsi que de capacités de stockage plus grandes (entre 10 et 500 grammes).
+- Par cet acte de provocation symbolique, Iseman cherche aussi à accélérer le débat public en faveur de la géo-ingénierie solaire, qu’il voit comme le seul moyen de ralentir efficacement le changement climatique. Quitte à passer pour le méchant de l’histoire.
+
 # Ethique
 
 Un comité de l'Oxford Geoengineering Programme a soumis en 2009 une série de principes qui devraient guider la gouvernance de la géo-ingénierie : les ***principes d’Oxford***. Ces principes sont les suivants :
